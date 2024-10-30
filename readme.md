@@ -17,6 +17,8 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928)](https://github.com/dennislee928/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928)](https://github.com/dennislee928/github-readme-stats＆&langs_count=20&layout=compact)
+
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennislee928)](https://github.com/dennislee928/github-readme-stats)
 ---
 
 ### 🔧 My Skills
