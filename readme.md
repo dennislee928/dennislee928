@@ -13,6 +13,7 @@
   ![Confused Travolta](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 - Frontend developer with a passion for *creative chaos* 🎨🤓
 - Developer by day, *meme lord* by night.
+- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928)](https://github.com/dennislee928/github-readme-stats)
 
 ---
 
