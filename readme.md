@@ -14,6 +14,8 @@
 - Frontend developer with a passion for *creative chaos* 🎨🤓
 - Developer by day, *meme lord* by night.
 -
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=default)
+
 
 <img src="https://myreadme.vercel.app/api/embed/dennislee928?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="mystreak" />
 
