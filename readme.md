@@ -17,7 +17,7 @@
 ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&layout=compact&theme=radical)
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=juicyfresh&no-bg=true" />
 
 
 
