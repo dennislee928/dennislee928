@@ -28,9 +28,7 @@
 - Frontend developer with a passion for _creative chaos_ 🎨🤓
 - Developer by day, _meme lord_ by night.
 - Hi, I'm Peichen. I'm a software developer based in [taipei], and I love building cool things with code!
-- ![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=default)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&layout=compact&theme=radical)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dennislee928&theme=discord_old_blurple) 
 <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=juicyfresh&no-bg=true" />
 
 ## [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennislee928)](https://github.com/dennislee928/github-readme-stats)
