@@ -1,0 +1,45 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{resume.basics.name}} - Resume</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- 加入 Mermaid -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
+    ></script>
+    <style>
+      {{{css}}}
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- 原有的履歷內容 -->
+
+      <!-- 加入 Mermaid 圖表區域 -->
+      <section class="section mermaid-section">
+        <h2>Career Visualization</h2>
+        <div class="mermaid">
+          gantt title Career Path dateFormat YYYY-MM section Work Experience
+          Twister5 (Cyber Security Consultant) :2024-09, 2025-03 Taiwan ICDF
+          (Technical Personnel) :2024-07, 2024-09
+        </div>
+
+        <h2>Skills Architecture</h2>
+        <div class="mermaid">
+          mindmap root((Technical Skills)) Programming JavaScript/TypeScript Go
+          Python HCL OpenQASM
+        </div>
+      </section>
+    </div>
+
+    <script>
+      mermaid.initialize({ startOnLoad: true, theme: 'dark', background: '#000',
+      themeVariables: { primaryColor: '#f40', primaryTextColor: '#fff',
+      primaryBorderColor: '#08f', lineColor: '#08f', secondaryColor: '#006',
+      tertiaryColor: '#008' } });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Pei-Chen Lee",
+    "label": "Cybersecurity Engineer & DevOps Specialist",
+    "image": "",
+    "email": "pcleegood@gmail.com",
+    "phone": "0909258032",
+    "url": "https://next-js-portfolio-pi-ten.vercel.app/",
+    "summary": "Cybersecurity and DevOps engineer with expertise in cloud-based security, automation, and infrastructure as code (IaC). Experienced in investigating security incidents, automating deployments, and securing cloud platforms such as GCP, AWS, OCI, and Cloudflare. Adept at leveraging Terraform, GitHub Actions, and Cloudflare Zero Trust to optimize security operations.",
+    "location": {
+      "address": "Taipei, Taiwan",
+      "city": "Taipei",
+      "countryCode": "TW",
+      "region": "Asia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "dennislee928",
+        "url": "https://github.com/dennislee928"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "pei-chen-lee",
+        "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Twister5",
+      "position": "Cyber Security Consultant @Twister5.com.tw",
+      "startDate": "2024-09-01",
+      "endDate": "2024-12-31",
+      "url": "https://youtu.be/wvRk-PmkIco",
+      "summary": "Providing customized cybersecurity solutions for Cloudflare clients, including SaaS security and cloud infrastructure defense.",
+      "highlights": [
+        "Automated Terraform scripting for DNS Records, WAF, bot protection, and rate-limiting rules for apex domains",
+        "Implemented Cloudflare Zero Trust transition, replacing local iRules with Cloudflare Warp API expressions",
+        "Developed GitHub Action workflows for deploying Golang-based health checks and emergency F5 switching mechanisms",
+        "Conducted DDoS attack investigations, credential leak analysis, and API monitoring for clients such as TWSE, MOC, and Cathay Life",
+        "Created BDE templates using Axiom for college references, ensuring efficient log analysis",
+        "🎥 Deployed 8000+ DNS records and WAF rules for 7-11 domains - youtu.be/wvRk-PmkIco",
+        "🎥 Implemented load balancing and backup solutions for TWSE - youtu.be/IcQTeZNtCSw",
+        "🎥 Automated monthly POC reports for moc.gov.tw - youtu.be/dU0vd7mBPYU",
+        "Conducted comprehensive security investigations and produced analysis reports for clients including TWSE, MOC, MND, RTI, EMEGA, and CoolWallet"
+      ]
+    },
+    {
+      "name": "Taiwan ICDF (Somaliland) ",
+      "position": "Technical Personnel of Medical Information Management @Taiwan ICDF",
+      "startDate": "2024-07-01",
+      "endDate": "2024-09-01",
+      "summary": "Led the strategic planning of Somaliland's HIS (Healthcare Information System) development and provided technical training.",
+      "highlights": [
+        "Educated hospital engineers on Docker, GitHub Dependabot, and secrets management.",
+        "Optimized PostgreSQL database performance and security.",
+        "Introduced n8n for automation workflows to streamline hospital operations.",
+        "Authored security reports and strategic plans for future HIS system expansion."
+      ]
+    },
+    {
+      "name": "Bityacht.io ",
+      "position": "Hybrid Web Developer @Bityacht.io",
+      "startDate": "2023-10-01",
+      "endDate": "2024-05-31",
+      "summary": "Developed and maintained a cryptocurrency trading platform with web and mobile interfaces.",
+      "highlights": [
+        "Migrated web app infrastructure to Google Cloud and set up Mailgun, Cloudflare, and GitHub CI/CD pipelines.",
+        "Implemented testing environments using Cloudflare Zero Trust VPN.",
+        "Developed Vue 3-based transaction pages, blacklisted client management, and i18n support fixes.",
+        "Integrated Firebase authentication and created a Delete Account page to comply with iOS regulations.",
+        "Resolved iOS App Store rejections related to webview app compliance."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Python",
+        "HCL (Terraform)",
+        "YAML (GitHub Actions)",
+        "OpenQASM"
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "keywords": [
+        "GCP",
+        "AWS",
+        "OCI",
+        "Azure",
+        "Cloudflare",
+        "Fly.io",
+        "Heroku",
+        "Vercel",
+        "Netlify"
+      ]
+    },
+    {
+      "name": "DevOps & Security Tools",
+      "keywords": [
+        "Docker",
+        "Terraform",
+        "Pulumi",
+        "GitHub Actions",
+        "GitLab",
+        "n8n",
+        "Axiom",
+        "Grafana",
+        "Prometheus",
+        "Loki",
+        "Wireshark",
+        "VSphere"
+      ]
+    },
+    {
+      "name": "Databases & Storage",
+      "keywords": ["Cloudflare R2", "AWS S3", "PostgreSQL", "MySQL", "Supabase"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["English - C1", "Mandarin - Native", "Spanish - Beginner"]
+    }
+  ]
+}

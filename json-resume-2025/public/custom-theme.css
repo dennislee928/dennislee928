@@ -1,0 +1,62 @@
+:root {
+  --neon-text-color: #f40;
+  --neon-border-color: #08f;
+}
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: "Rajdhani", sans-serif;
+}
+
+.container {
+  border: 1px solid var(--neon-border-color);
+  box-shadow: 0 0 10px var(--neon-border-color);
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 1200px;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--neon-text-color);
+  text-shadow: 0 0 5px var(--neon-text-color);
+}
+
+.skill-tag {
+  background: rgba(0, 127, 255, 0.1);
+  border: 1px solid var(--neon-border-color);
+  border-radius: 4px;
+  padding: 0.2rem 0.8rem;
+  margin: 0.2rem;
+  display: inline-block;
+}
+
+.timeline-item {
+  border-left: 2px solid var(--neon-border-color);
+  padding-left: 1rem;
+  margin: 1rem 0;
+  position: relative;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 0;
+  width: 10px;
+  height: 10px;
+  background: var(--neon-border-color);
+  border-radius: 50%;
+}
+
+a {
+  color: var(--neon-text-color);
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:hover {
+  text-shadow: 0 0 8px var(--neon-text-color);
+}
