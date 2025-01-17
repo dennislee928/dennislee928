@@ -1,28 +1,22 @@
 ```mermaid
 graph TD
     subgraph Cloudflare["Cloudflare 通知源"]
-        A1[計費通知]
-        A2[存取控制通知]
-        A3[圖像服務通知]
-        A4[狀態通知]
-        A5[DDoS 防護通知]
-        A6[DEX 通知]
-        A7[DNS 通知]
-        A8[健康檢查通知]
-        A9[負載平衡通知]
-        A10[Logpush 通知]
-        A11[Magic Transit 通知]
-        A12[Page Shield 通知]
-        A13[Pages 通知]
-        A14[Radar 通知]
-        A15[SSL/TLS 通知]
-        A16[安全中心通知]
-        A17[Stream 通知]
-        A18[流量監控通知]
-        A19[信任與安全通知]
-        A20[Tunnel 通知]
-        A21[Web 分析通知]
-        A22[WAF 通知]
+        %% 第一行
+        A2[存取控制通知] ---   A4[狀態通知]
+        %% 第二行
+        A5[DDoS 防護通知] --- A6[DEX 通知] --- A7[DNS 通知]
+        %% 第三行
+        A8[健康檢查通知] --- A9[負載平衡通知] ---   A10[Logpush 通知] 
+        %% 第四行
+        A11[Magic Transit 通知] --- A12[Page Shield 通知] --- A13[Pages 通知]
+        %% 第五行
+        A14[Radar 通知] --- A15[SSL/TLS 通知] --- A16[安全中心通知] 
+        %% 第六行
+        A18[流量監控通知] --- A19[信任與安全通知]
+        %% 第七行
+        A20[Tunnel 通知] --- A21[Web 分析通知] --- A22[WAF 通知]
+       
+        
     end
 
     subgraph N8N["n8n 工作流程"]
@@ -49,7 +43,7 @@ graph TD
     Cloudflare --> |觸發通知| B1
     B1 --> B2
     B2 --> B3
-    B3 --> |分配任務| Auditors
+    B3 --> |分配任務 VIA Email or other web-hooks like slack/discord,etc| Auditors
     C1 & C2 & C3 --> |提交簽核| B4
     B4 --> B5
     B5 --> |更新設定| D1
