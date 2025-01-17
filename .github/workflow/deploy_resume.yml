@@ -19,15 +19,17 @@ jobs:
           node-version: "18"
 
       - name: Install Dependencies
+        working-directory: ./json-resume-2025
         run: |
+          npm install
           npm install -g resume-cli
           npm install jsonresume-theme-flat
 
       - name: Build Resume
         working-directory: ./json-resume-2025
         run: |
-          mkdir -p dist
-          resume export dist/index.html --theme flat
+          mkdir -p public
+          resume export public/index.html --theme flat
 
       - name: Deploy to Vercel
         uses: amondnet/vercel-action@v25
@@ -36,4 +38,4 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
           vercel-args: "--prod"
-          working-directory: ./json-resume-2025/dist
+          working-directory: ./json-resume-2025 # Vercel 專案根目錄
