@@ -1,0 +1,38 @@
+name: Deploy my resume to Vercel(weird iknow)
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "json-resume-2025/**"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Install Dependencies
+        run: |
+          npm install -g resume-cli
+          npm install jsonresume-theme-flat
+
+      - name: Build Resume
+        working-directory: ./json-resume-2025
+        run: |
+          mkdir -p dist
+          resume export dist/index.html --theme flat
+
+      - name: Deploy to Vercel
+        uses: amondnet/vercel-action@v25
+        with:
+          vercel-token: ${{ secrets.VERCEL_TOKEN }}
+          vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
+          vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
+          vercel-args: "--prod"
+          working-directory: ./json-resume-2025/dist
