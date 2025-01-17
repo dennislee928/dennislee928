@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - "json-resume-2025/**"
+  workflow_dispatch:
 
 jobs:
   deploy:
