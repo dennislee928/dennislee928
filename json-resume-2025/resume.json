@@ -35,11 +35,14 @@
       "url": "https://youtu.be/wvRk-PmkIco",
       "summary": "Providing customized cybersecurity solutions for Cloudflare clients, including SaaS security and cloud infrastructure defense.",
       "highlights": [
-        "Automated Terraform scripting for DNS Records, WAF, bot protection, and rate-limiting rules for apex domains",
-        "Implemented Cloudflare Zero Trust transition, replacing local iRules with Cloudflare Warp API expressions",
-        "Developed GitHub Action workflows for deploying Golang-based health checks and emergency F5 switching mechanisms",
+        "Problem-Solving / Incident Response / Terraform Security: Automated Terraform scripting for DNS Records, WAF, bot protection, and rate-limiting rules for apex domains(saving about 10 hours in total.)",
+        "Cloudflare Zero Trust Transition: Implemented Cloudflare Zero Trust transition, replacing local iRules with Cloudflare Warp API expressions",
+        "IAM Security: AWS IAM role for Cloudflare CASB verification/Azure AD for cloudflare warp integration for nissan.",
+        "GitHub Action workflows: Developed GitHub Action workflows for deploying Golang-based health checks and emergency F5 switching mechanisms",
         "Conducted DDoS attack investigations, credential leak analysis, and API monitoring for clients such as TWSE, MOC, and Cathay Life",
         "Created BDE templates using Axiom for college references, ensuring efficient log analysis",
+        "API Discoveries:Found undocumented Cloudflare API capabilities (setting Browser Isolation actions & modifying user seat names)/Set up Cloudflare API Shield using jwt with my own golang base backend application, with schema to manage endpoint abused using.",
+        "CASB & DLP Setup:Configured CASB integrations (AWS, Jira)/Defined DLP datasets & security posture checks (iOS/macOS minimum requirments).",
         "🎥 Deployed 8000+ DNS records and WAF rules for 7-11 domains - youtu.be/wvRk-PmkIco",
         "🎥 Implemented load balancing and backup solutions for TWSE - youtu.be/IcQTeZNtCSw",
         "🎥 Automated monthly POC reports for moc.gov.tw - youtu.be/dU0vd7mBPYU",
@@ -66,11 +69,11 @@
       "endDate": "2024-05-31",
       "summary": "Developed and maintained a cryptocurrency trading platform with web and mobile interfaces.",
       "highlights": [
-        "Migrated web app infrastructure to Google Cloud and set up Mailgun, Cloudflare, and GitHub CI/CD pipelines.",
-        "Implemented testing environments using Cloudflare Zero Trust VPN.",
-        "Developed Vue 3-based transaction pages, blacklisted client management, and i18n support fixes.",
-        "Integrated Firebase authentication and created a Delete Account page to comply with iOS regulations.",
-        "Resolved iOS App Store rejections related to webview app compliance."
+        "IAM Security : Migrated web app infrastructure to Google Cloud and set up emailjs, Cloudflare pages+zerotrust, and GitHub CI/CD pipelines.",
+        "Cloudflare Zero Trust VPN: Implemented testing environments using Cloudflare Zero Trust VPN.",
+        "Vue 3-based transaction pages: Developed Vue 3-based transaction pages, blacklisted client management, and i18n support fixes.",
+        "iOS Compliance Fixes & App Store Approval: Fixed i18n rendering issue(2 hours)/Implemented in-app Account Deletion to meet Apple’s compliance(16 hours),while App Store Review Process: About dditional 6-hour delay per commit. ",
+        "GCP IAM Role Management (Bityacht.io):Configured IAM roles for CFO, CEO, and engineers to control access to:Container Registry, Google Cloud Storage (GCS), Billing resources"
       ]
     }
   ],
@@ -115,7 +118,9 @@
         "Prometheus",
         "Loki",
         "Wireshark",
-        "VSphere"
+        "VSphere",
+        "Static Analysis: used GitHub CodeQL, Snyk for my own side projects",
+        "Dynamic Analysis: burpsuite for bityacht.io and www.bityacht.io"
       ]
     },
     {
@@ -125,6 +130,19 @@
     {
       "name": "Languages",
       "keywords": ["English - C1", "Mandarin - Native", "Spanish - Beginner"]
+    },
+    {
+      "name": "Incident Response case",
+      "keywords": [
+        "1.Investigated DDoS attack (requests from Myanmar) logs from Cloudflare WAF event logs for a gamming company.",
+        "2.Found that 95% of attack traffic was blocked by Cloudflare managed rules.(both account level and zone level.)",
+        "3.Found zone level custom-waf was not triggered.",
+        "4.Suspecting the 5 % volume attacks were DNS amplification attack attempts using Cloudflare DNS resolver.",
+        "5.Ask for their local event logs contains cf tag(like CF-Ray IDs) or not.",
+        "6.Answer: some of them are, some of them are not.",
+        "7.Conclusion: Ips are possibly exposed, so attackers can use cloudflare free account to amp attack, or directly http flood to their web server.",
+        "8.Suggestion: set connection between cloudflare and original servers from full to strict mode."
+      ]
     },
     {
       "name": "Soft Skills",
