@@ -125,6 +125,14 @@
     {
       "name": "Languages",
       "keywords": ["English - C1", "Mandarin - Native", "Spanish - Beginner"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Security Documentation (Mermaid MD, data flow & architecture visualization, video-based documentation)",
+        "Cross-Team Collaboration (Worked with legal compliance for blacklist submissions, UI interns for Figma design, and multiple departments in ICDF hospital projects)",
+        "Security Training & Consultation (Introduced Redis & frontend framework concepts to BDE devs, supported cybersecurity operations for TWSE, Taifex, gambling companies, MND, Emega, CoolBits, and Sun-Tech)"
+      ]
     }
   ]
 }
