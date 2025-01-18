@@ -289,3 +289,78 @@ body {
   font-weight: bold;
   text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffcc; /* 霓虹字 */
 }
+
+.skills-table-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.skills-table-section th,
+.skills-table-section td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.skills-table-section th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.skills-table-section tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.skills-table-section tr:hover {
+  background-color: #ddd;
+}
+
+.skills-table-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.skills-table-section th,
+.skills-table-section td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.skills-table-section th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.skills-table-section tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.skills-table-section tr:hover {
+  background-color: #ddd;
+}
+
+/* 🎨 Progress Bar Styles */
+.progress-bar {
+  width: 100px;
+  height: 20px;
+  background: #ddd;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  text-align: center;
+  line-height: 20px;
+  font-size: 0.8rem;
+  color: white;
+  background: linear-gradient(90deg, #ff6f61, #ffcb74);
+  transition: width 0.5s ease-in-out;
+  border-radius: 10px;
+}

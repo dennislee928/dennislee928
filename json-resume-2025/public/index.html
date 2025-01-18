@@ -311,6 +311,81 @@ body {
   text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffcc; /* 霓虹字 */
 }
 
+.skills-table-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.skills-table-section th,
+.skills-table-section td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.skills-table-section th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.skills-table-section tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.skills-table-section tr:hover {
+  background-color: #ddd;
+}
+
+.skills-table-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.skills-table-section th,
+.skills-table-section td {
+  padding: 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.skills-table-section th {
+  background-color: #4caf50;
+  color: white;
+}
+
+.skills-table-section tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.skills-table-section tr:hover {
+  background-color: #ddd;
+}
+
+/* 🎨 Progress Bar Styles */
+.progress-bar {
+  width: 100px;
+  height: 20px;
+  background: #ddd;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  text-align: center;
+  line-height: 20px;
+  font-size: 0.8rem;
+  color: white;
+  background: linear-gradient(90deg, #ff6f61, #ffcb74);
+  transition: width 0.5s ease-in-out;
+  border-radius: 10px;
+}
+
 
       /* 列印優化樣式 */ @media print { .no-print { display: none; } body {
       font-size: 12pt; } a { text-decoration: none; color: #000; } } /*
@@ -328,7 +403,7 @@ body {
       <!-- 個人資料區塊 -->
       <header class="profile-header">
         <div class="profile-image">
-          <img src="./public/IMG_2626%202.JPG" alt="Pei-Chen Lee" />
+          <img src="./public/myself.JPG" alt="Pei-Chen Lee" style="max-width: 100%; height: auto;" />
         </div>
         <div class="profile-info">
           <h1>Pei-Chen Lee</h1>
@@ -361,19 +436,80 @@ body {
         </div>
       </section>
 
-      <!-- 技能雷達圖 -->
-      <section class="mermaid-section">
-        <h3>🚀 Technical Proficiency Overview</h3>
-        <div class="mermaid">
-          pie
-          title Technical Proficiency
-          "Security" : 9
-          "DevOps" : 8
-          "Cloud" : 8
-          "Software Development" : 7
-          "Research" : 6
-        </div>
-      </section>
+      <!-- 技能圖 -->
+<!-- 📌 Skill Breakdown Table -->
+<!-- 📌 Skill Breakdown Table with Graph Bars -->
+<section class="skills-table-section">
+  <h3>📊 Skill Breakdown & Justification</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Score (0-10)</th>
+        <th>Reason</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Security</td>
+        <td>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: calc(9/10 * 100%)">
+              9/10
+            </div>
+          </div>
+        </td>
+        <td>Extensive hands-on experience in DDoS mitigation, API security, IAM security, Cloudflare WAF, Terraform security policies, SIEM log analysis (Axiom, New Relic, Grafana), plus security automation with GitHub Actions and CASB.</td>
+      </tr>
+      <tr>
+        <td>DevOps</td>
+        <td>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: calc(8/10 * 100%)">
+              8/10
+            </div>
+          </div>
+        </td>
+        <td>Strong in CI/CD automation (GitHub Actions, Terraform), n8n workflow automation, cloud networking, and infrastructure as code (IaC), but limited full production Kubernetes experience.</td>
+      </tr>
+      <tr>
+        <td>Cloud</td>
+        <td>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: calc(8/10 * 100%)">
+              8/10
+            </div>
+          </div>
+        </td>
+        <td>Experience in GCP, AWS, OCI, Azure, Cloudflare (Zero Trust, API Shield, DNS Management), including load balancing, identity security (IAM), and automation (Pulumi/Terraform).</td>
+      </tr>
+      <tr>
+        <td>Software Development</td>
+        <td>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: calc(7/10 * 100%)">
+              7/10
+            </div>
+          </div>
+        </td>
+        <td>Skilled in JavaScript, TypeScript, Go, Python, Terraform, with experience in backend API security and frontend work in Vue3, React, and Nuxt.js, but less focus on software architecture or large-scale application development.</td>
+      </tr>
+      <tr>
+        <td>Research</td>
+        <td>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: calc(6/10 * 100%)">
+              6/10
+            </div>
+          </div>
+        </td>
+        <td>Experience in Mermaid MD for documentation, quantum computing (IBM Quantum, Classiq), and cryptographic security research, but not primarily focused on deep academic research.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+
 
       <!-- 🌟 Cyberpunk Skills Tree -->
       <section class="mermaid-section">
@@ -607,6 +743,58 @@ body {
     <!-- JavaScript -->
     <script>
       mermaid.initialize({ startOnLoad: true, theme: 'default' });
+      document.addEventListener("DOMContentLoaded", function () {
+    const ctx = document.getElementById("skillsChart").getContext("2d");
+
+    // Skill labels and scores
+    const labels = ["Security", "DevOps", "Cloud", "Software Development", "Research"];
+    const data = [9, 8, 8, 7, 6];
+
+    // Reasons for each score
+    const explanations = {
+      "Security": "Extensive hands-on experience in DDoS mitigation, API security, IAM security, Cloudflare WAF, Terraform security policies, SIEM log analysis (Axiom, New Relic, Grafana), plus security automation with GitHub Actions and CASB.",
+      "DevOps": "Strong in CI/CD automation (GitHub Actions, Terraform), n8n workflow automation, cloud networking, and infrastructure as code (IaC), but limited full production Kubernetes experience.",
+      "Cloud": "Experience in GCP, AWS, OCI, Azure, Cloudflare (Zero Trust, API Shield, DNS Management), including load balancing, identity security (IAM), and automation (Pulumi/Terraform).",
+      "Software Development": "Skilled in JavaScript, TypeScript, Go, Python, Terraform, with experience in backend API security and frontend work in Vue3, React, and Nuxt.js, but less focus on software architecture or large-scale application development.",
+      "Research": "Experience in Mermaid MD for documentation, quantum computing (IBM Quantum, Classiq), and cryptographic security research, but not primarily focused on deep academic research."
+    };
+
+    new Chart(ctx, {
+      type: "bar",
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: "Skill Level (0-10)",
+            data: data,
+            backgroundColor: ["#ff5733", "#33ff57", "#3377ff", "#ff33aa", "#ffcc33"],
+            borderWidth: 1,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true,
+            max: 10,
+            ticks: {
+              stepSize: 1
+            }
+          },
+        },
+        plugins: {
+          tooltip: {
+            callbacks: {
+              label: function (tooltipItem) {
+                return explanations[tooltipItem.label] || "";
+              }
+            }
+          }
+        }
+      },
+    });
+  });
     </script>
   </body>
 </html>

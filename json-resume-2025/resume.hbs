@@ -37,7 +37,7 @@
       <!-- 個人資料區塊 -->
       <header class="profile-header">
         <div class="profile-image">
-          <img src="./public/IMG_2626%202.JPG" alt="Pei-Chen Lee" />
+          <img src="./public/myself.JPG" alt="Pei-Chen Lee" style="max-width: 100%; height: auto;" />
         </div>
         <div class="profile-info">
           <h1>{{resume.basics.name}}</h1>
@@ -68,23 +68,42 @@
         </div>
       </section>
 
-      <!-- 技能雷達圖 -->
-      <section class="mermaid-section">
-        <h3>🚀 Technical Proficiency Overview</h3>
-        <div class="mermaid">
-          pie
-          title Technical Proficiency
-          "Security" : 9
-          "DevOps" : 8
-          "Cloud" : 8
-          "Software Development" : 7
-          "Research" : 6
-        </div>
-      </section>
+      <!-- 技能圖 -->
+<!-- 📌 Skill Breakdown Table -->
+<!-- 📌 Skill Breakdown Table with Graph Bars -->
+<section class="skills-table-section">
+  <h3>📊 Skill Breakdown & Justification</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Score (0-10)</th>
+        <th>Reason</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each resume.skillsBreakdown}}
+      <tr>
+        <td>{{this.category}}</td>
+        <td>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: calc({{this.score}} * 100%)">
+              {{this.score}}
+            </div>
+          </div>
+        </td>
+        <td>{{this.reason}}</td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</section>
+
+
 
       <!-- 🌟 Cyberpunk Skills Tree -->
       <section class="mermaid-section">
-        <h3>🌌 Skills Hierarchy (Web3 Style)</h3>
+        <h3>🌌 Skills Hierarchy </h3>
         <div class="mermaid">
           graph TD; A[🔥 Cybersecurity 🔥] -->|Cloudflare| B[WAF & API Shield
           🛡️]; A -->|SIEM| C[Axiom & Log Analysis 📜]; A -->|DevOps| D[CI/CD &
@@ -134,6 +153,58 @@
     <!-- JavaScript -->
     <script>
       mermaid.initialize({ startOnLoad: true, theme: 'default' });
+      document.addEventListener("DOMContentLoaded", function () {
+    const ctx = document.getElementById("skillsChart").getContext("2d");
+
+    // Skill labels and scores
+    const labels = ["Security", "DevOps", "Cloud", "Software Development", "Research"];
+    const data = [9, 8, 8, 7, 6];
+
+    // Reasons for each score
+    const explanations = {
+      "Security": "Extensive hands-on experience in DDoS mitigation, API security, IAM security, Cloudflare WAF, Terraform security policies, SIEM log analysis (Axiom, New Relic, Grafana), plus security automation with GitHub Actions and CASB.",
+      "DevOps": "Strong in CI/CD automation (GitHub Actions, Terraform), n8n workflow automation, cloud networking, and infrastructure as code (IaC), but limited full production Kubernetes experience.",
+      "Cloud": "Experience in GCP, AWS, OCI, Azure, Cloudflare (Zero Trust, API Shield, DNS Management), including load balancing, identity security (IAM), and automation (Pulumi/Terraform).",
+      "Software Development": "Skilled in JavaScript, TypeScript, Go, Python, Terraform, with experience in backend API security and frontend work in Vue3, React, and Nuxt.js, but less focus on software architecture or large-scale application development.",
+      "Research": "Experience in Mermaid MD for documentation, quantum computing (IBM Quantum, Classiq), and cryptographic security research, but not primarily focused on deep academic research."
+    };
+
+    new Chart(ctx, {
+      type: "bar",
+      data: {
+        labels: labels,
+        datasets: [
+          {
+            label: "Skill Level (0-10)",
+            data: data,
+            backgroundColor: ["#ff5733", "#33ff57", "#3377ff", "#ff33aa", "#ffcc33"],
+            borderWidth: 1,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true,
+            max: 10,
+            ticks: {
+              stepSize: 1
+            }
+          },
+        },
+        plugins: {
+          tooltip: {
+            callbacks: {
+              label: function (tooltipItem) {
+                return explanations[tooltipItem.label] || "";
+              }
+            }
+          }
+        }
+      },
+    });
+  });
     </script>
   </body>
 </html>

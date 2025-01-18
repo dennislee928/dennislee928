@@ -261,5 +261,33 @@
         }
       ]
     }
+  ],
+
+  "skillsBreakdown": [
+    {
+      "category": "Security",
+      "score": "9/10",
+      "reason": "Extensive hands-on experience in DDoS mitigation, API security, IAM security, Cloudflare WAF, Terraform security policies, SIEM log analysis (Axiom, New Relic, Grafana), plus security automation with GitHub Actions and CASB."
+    },
+    {
+      "category": "DevOps",
+      "score": "8/10",
+      "reason": "Strong in CI/CD automation (GitHub Actions, Terraform), n8n workflow automation, cloud networking, and infrastructure as code (IaC), but limited full production Kubernetes experience."
+    },
+    {
+      "category": "Cloud",
+      "score": "8/10",
+      "reason": "Experience in GCP, AWS, OCI, Azure, Cloudflare (Zero Trust, API Shield, DNS Management), including load balancing, identity security (IAM), and automation (Pulumi/Terraform)."
+    },
+    {
+      "category": "Software Development",
+      "score": "7/10",
+      "reason": "Skilled in JavaScript, TypeScript, Go, Python, Terraform, with experience in backend API security and frontend work in Vue3, React, and Nuxt.js, but less focus on software architecture or large-scale application development."
+    },
+    {
+      "category": "Research",
+      "score": "6/10",
+      "reason": "Experience in Mermaid MD for documentation, quantum computing (IBM Quantum, Classiq), and cryptographic security research, but not primarily focused on deep academic research."
+    }
   ]
 }
