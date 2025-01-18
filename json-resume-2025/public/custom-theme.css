@@ -248,3 +248,44 @@ body {
 .skill-tag:hover {
   transform: scale(1.05);
 }
+/* mermaid 圖表樣式 */
+.mermaid .node rect {
+  fill: #1a1a2e !important; /* 深藍紫色背景 */
+  stroke: #ff00ff !important; /* 霓虹紫色邊框 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 10px #ff00ff); /* 霓虹發光效果 */
+}
+
+.mermaid .edgePath path {
+  stroke: #00ffcc !important; /* Web3 風格藍綠色線條 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 5px #00ffcc);
+}
+
+.mermaid .label {
+  font-family: "Rajdhani", sans-serif;
+  fill: #ffffff !important;
+  font-weight: bold;
+  text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffcc; /* 多層次霓虹效果 */
+}
+
+/* 🌌 Cyberpunk Radar Chart Style */
+.mermaid .radar-chart-axes line {
+  stroke: #00ffcc !important; /* 藍綠色光 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 5px #00ffcc);
+}
+
+.mermaid .radar-chart-area {
+  fill: rgba(255, 0, 255, 0.4) !important; /* 霓虹紫透明填充 */
+  stroke: #ff00ff !important; /* 紫色邊框 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 10px #ff00ff);
+}
+
+.mermaid .label {
+  font-family: "Rajdhani", sans-serif;
+  fill: #ffffff !important;
+  font-weight: bold;
+  text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffcc; /* 霓虹字 */
+}

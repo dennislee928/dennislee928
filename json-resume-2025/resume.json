@@ -26,6 +26,11 @@
       }
     ]
   },
+  "mermaid": {
+    "timeline": "gantt\ntitle Career Timeline\ndateFormat YYYY-MM-DD\nsection Experience\nTwister5 :active, 2024-09-01, 2024-12-31\nSomaliland ICDF :done, 2024-07-01, 2024-09-01\nBityacht.io :done, 2023-10-01, 2024-05-31",
+    "radarChart": "pie\n  title Technical Proficiency\n  \"Security\" : 9\n  \"DevOps\" : 8\n  \"Cloud\" : 8\n  \"Software Development\" : 7\n  \"Research\" : 6",
+    "skillsTree": "graph TD;\n  A[Cybersecurity]\n  A -->|Cloudflare| B[WAF & API Shield]\n  A -->|SIEM| C[Axiom & Log Analysis]\n  A -->|DevOps| D[CI/CD & Terraform]\n  A -->|Threat Hunting| E[DDoS & API Security]"
+  },
   "work": [
     {
       "name": "Twister5",

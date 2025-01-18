@@ -37,7 +37,7 @@
       <!-- 個人資料區塊 -->
       <header class="profile-header">
         <div class="profile-image">
-          <img src="{{resume.basics.image}}" alt="{{resume.basics.name}}" />
+          <img src="./public/IMG_2626%202.JPG" alt="Pei-Chen Lee" />
         </div>
         <div class="profile-info">
           <h1>{{resume.basics.name}}</h1>
@@ -53,6 +53,44 @@
           </div>
         </div>
       </header>
+
+      <!-- Mermaid 時間軸 -->
+      <section class="mermaid-section">
+        <h3>📌 Career Timeline</h3>
+        <div class="mermaid">
+          gantt
+          title Career Timeline
+          dateFormat YYYY-MM-DD
+          section Experience
+          Twister5 :active, 2024-09-01, 2024-12-31
+          Somaliland ICDF :done, 2024-07-01, 2024-09-01
+          Bityacht.io :done, 2023-10-01, 2024-05-31
+        </div>
+      </section>
+
+      <!-- 技能雷達圖 -->
+      <section class="mermaid-section">
+        <h3>🚀 Technical Proficiency Overview</h3>
+        <div class="mermaid">
+          pie
+          title Technical Proficiency
+          "Security" : 9
+          "DevOps" : 8
+          "Cloud" : 8
+          "Software Development" : 7
+          "Research" : 6
+        </div>
+      </section>
+
+      <!-- 🌟 Cyberpunk Skills Tree -->
+      <section class="mermaid-section">
+        <h3>🌌 Skills Hierarchy (Web3 Style)</h3>
+        <div class="mermaid">
+          graph TD; A[🔥 Cybersecurity 🔥] -->|Cloudflare| B[WAF & API Shield
+          🛡️]; A -->|SIEM| C[Axiom & Log Analysis 📜]; A -->|DevOps| D[CI/CD &
+          Terraform 🚀]; A -->|Threat Hunting| E[DDoS & API Security 🛠️];
+        </div>
+      </section>
 
       <!-- 技能 -->
       <section class="skills-section">
@@ -74,24 +112,15 @@
           <div class="timeline-item">
             <div class="timeline-content">
               <h3>{{this.name}}</h3>
-              <p class="timeline-date">{{this.startDate}} - {{this.endDate}}</p>
+              <p class="timeline-date">{{formatDate this.startDate}}
+                -
+                {{formatDate this.endDate}}</p>
               <p>{{this.position}}</p>
               <div class="highlights">
                 {{#each this.highlights}}
                   <p>
                     <i class="fas fa-check"></i>
-                    {{#if (isYouTubeLink this)}}
-                      <a
-                        href="https://www.youtube.com/watch?v={{extractYouTubeId
-                          this
-                        }}"
-                        target="_blank"
-                      >
-                        {{removeYouTubeUrl this}}
-                      </a>
-                    {{else}}
-                      {{this}}
-                    {{/if}}
+                    {{this}}
                   </p>
                 {{/each}}
               </div>
@@ -100,46 +129,7 @@
         {{/each}}
       </section>
 
-      <!-- 教育 -->
-      <section class="education-section">
-        <h3>Education</h3>
-        {{#each resume.education}}
-          <div class="education-item">
-            <h4>{{this.name}}</h4>
-            <p>{{this.area}}, {{this.studyType}}</p>
-            <p class="education-date">{{formatDate this.startDate}}
-              -
-              {{formatDate this.endDate}}</p>
-          </div>
-        {{/each}}
-      </section>
-
-      <!-- 獎項 -->
-      <section class="awards-section">
-        <h3>Awards</h3>
-        {{#each resume.awards}}
-          <div class="award-item">
-            <h4>{{this.title}}</h4>
-            <p>{{this.awarder}} - {{formatDate this.date}}</p>
-            <p>{{this.summary}}</p>
-          </div>
-        {{/each}}
-      </section>
-
-      <!-- 成就 -->
-      <section class="achievements-section">
-        <h3>Key Achievements</h3>
-        {{#each resume.achievements}}
-          <div class="achievement-item">
-            <h4>{{this.title}}</h4>
-            <p>{{this.description}}</p>
-            {{#if this.url}}
-              <a href="{{this.url}}" target="_blank">More details</a>
-            {{/if}}
-          </div>
-        {{/each}}
-      </section>
-    </div>
+      
 
     <!-- JavaScript -->
     <script>

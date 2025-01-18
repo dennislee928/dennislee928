@@ -269,6 +269,47 @@ body {
 .skill-tag:hover {
   transform: scale(1.05);
 }
+/* mermaid 圖表樣式 */
+.mermaid .node rect {
+  fill: #1a1a2e !important; /* 深藍紫色背景 */
+  stroke: #ff00ff !important; /* 霓虹紫色邊框 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 10px #ff00ff); /* 霓虹發光效果 */
+}
+
+.mermaid .edgePath path {
+  stroke: #00ffcc !important; /* Web3 風格藍綠色線條 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 5px #00ffcc);
+}
+
+.mermaid .label {
+  font-family: "Rajdhani", sans-serif;
+  fill: #ffffff !important;
+  font-weight: bold;
+  text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffcc; /* 多層次霓虹效果 */
+}
+
+/* 🌌 Cyberpunk Radar Chart Style */
+.mermaid .radar-chart-axes line {
+  stroke: #00ffcc !important; /* 藍綠色光 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 5px #00ffcc);
+}
+
+.mermaid .radar-chart-area {
+  fill: rgba(255, 0, 255, 0.4) !important; /* 霓虹紫透明填充 */
+  stroke: #ff00ff !important; /* 紫色邊框 */
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 10px #ff00ff);
+}
+
+.mermaid .label {
+  font-family: "Rajdhani", sans-serif;
+  fill: #ffffff !important;
+  font-weight: bold;
+  text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffcc; /* 霓虹字 */
+}
 
 
       /* 列印優化樣式 */ @media print { .no-print { display: none; } body {
@@ -287,7 +328,7 @@ body {
       <!-- 個人資料區塊 -->
       <header class="profile-header">
         <div class="profile-image">
-          <img src="./public/IMG_2626 2.JPG" alt="Pei-Chen Lee" />
+          <img src="./public/IMG_2626%202.JPG" alt="Pei-Chen Lee" />
         </div>
         <div class="profile-info">
           <h1>Pei-Chen Lee</h1>
@@ -305,6 +346,44 @@ body {
           </div>
         </div>
       </header>
+
+      <!-- Mermaid 時間軸 -->
+      <section class="mermaid-section">
+        <h3>📌 Career Timeline</h3>
+        <div class="mermaid">
+          gantt
+          title Career Timeline
+          dateFormat YYYY-MM-DD
+          section Experience
+          Twister5 :active, 2024-09-01, 2024-12-31
+          Somaliland ICDF :done, 2024-07-01, 2024-09-01
+          Bityacht.io :done, 2023-10-01, 2024-05-31
+        </div>
+      </section>
+
+      <!-- 技能雷達圖 -->
+      <section class="mermaid-section">
+        <h3>🚀 Technical Proficiency Overview</h3>
+        <div class="mermaid">
+          pie
+          title Technical Proficiency
+          "Security" : 9
+          "DevOps" : 8
+          "Cloud" : 8
+          "Software Development" : 7
+          "Research" : 6
+        </div>
+      </section>
+
+      <!-- 🌟 Cyberpunk Skills Tree -->
+      <section class="mermaid-section">
+        <h3>🌌 Skills Hierarchy (Web3 Style)</h3>
+        <div class="mermaid">
+          graph TD; A[🔥 Cybersecurity 🔥] -->|Cloudflare| B[WAF & API Shield
+          🛡️]; A -->|SIEM| C[Axiom & Log Analysis 📜]; A -->|DevOps| D[CI/CD &
+          Terraform 🚀]; A -->|Threat Hunting| E[DDoS & API Security 🛠️];
+        </div>
+      </section>
 
       <!-- 技能 -->
       <section class="skills-section">
@@ -407,71 +486,58 @@ body {
           <div class="timeline-item">
             <div class="timeline-content">
               <h3>Twister5</h3>
-              <p class="timeline-date">2024-09-01 - 2024-12-31</p>
+              <p class="timeline-date">9/1/2024
+                -
+                12/31/2024</p>
               <p>Cyber Security Consultant @Twister5.com.tw</p>
               <div class="highlights">
                   <p>
                     <i class="fas fa-check"></i>
-                      Problem-Solving / Incident Response / Terraform Security: Automated Terraform scripting for DNS Records, WAF, bot protection, and rate-limiting rules for apex domains(saving about 10 hours in total.)
+                    Problem-Solving / Incident Response / Terraform Security: Automated Terraform scripting for DNS Records, WAF, bot protection, and rate-limiting rules for apex domains(saving about 10 hours in total.)
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Cloudflare Zero Trust Transition: Implemented Cloudflare Zero Trust transition, replacing local iRules with Cloudflare Warp API expressions
+                    Cloudflare Zero Trust Transition: Implemented Cloudflare Zero Trust transition, replacing local iRules with Cloudflare Warp API expressions
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      IAM Security: AWS IAM role for Cloudflare CASB verification/Azure AD for cloudflare warp integration for nissan.
+                    IAM Security: AWS IAM role for Cloudflare CASB verification/Azure AD for cloudflare warp integration for nissan.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      GitHub Action workflows: Developed GitHub Action workflows for deploying Golang-based health checks and emergency F5 switching mechanisms
+                    GitHub Action workflows: Developed GitHub Action workflows for deploying Golang-based health checks and emergency F5 switching mechanisms
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Conducted DDoS attack investigations, credential leak analysis, and API monitoring for clients such as TWSE, MOC, and Cathay Life
+                    Conducted DDoS attack investigations, credential leak analysis, and API monitoring for clients such as TWSE, MOC, and Cathay Life
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Created BDE templates using Axiom for college references, ensuring efficient log analysis
+                    Created BDE templates using Axiom for college references, ensuring efficient log analysis
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      API Discoveries:Found undocumented Cloudflare API capabilities (setting Browser Isolation actions &amp; modifying user seat names)/Set up Cloudflare API Shield using jwt with my own golang base backend application, with schema to manage endpoint abused using.
+                    API Discoveries:Found undocumented Cloudflare API capabilities (setting Browser Isolation actions &amp; modifying user seat names)/Set up Cloudflare API Shield using jwt with my own golang base backend application, with schema to manage endpoint abused using.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      CASB &amp; DLP Setup:Configured CASB integrations (AWS, Jira)/Defined DLP datasets &amp; security posture checks (iOS/macOS minimum requirments).
+                    CASB &amp; DLP Setup:Configured CASB integrations (AWS, Jira)/Defined DLP datasets &amp; security posture checks (iOS/macOS minimum requirments).
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      <a
-                        href="https://www.youtube.com/watch?v=wvRk-PmkIco"
-                        target="_blank"
-                      >
-                        🎥 Deployed 8000+ DNS records and WAF rules for 7-11 domains
-                      </a>
+                    🎥 Deployed 8000+ DNS records and WAF rules for 7-11 domains - youtu.be/wvRk-PmkIco
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      <a
-                        href="https://www.youtube.com/watch?v=IcQTeZNtCSw"
-                        target="_blank"
-                      >
-                        🎥 Implemented load balancing and backup solutions for TWSE
-                      </a>
+                    🎥 Implemented load balancing and backup solutions for TWSE - youtu.be/IcQTeZNtCSw
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      <a
-                        href="https://www.youtube.com/watch?v=dU0vd7mBPYU"
-                        target="_blank"
-                      >
-                        🎥 Automated monthly POC reports for moc.gov.tw
-                      </a>
+                    🎥 Automated monthly POC reports for moc.gov.tw - youtu.be/dU0vd7mBPYU
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Conducted comprehensive security investigations and produced analysis reports for clients including TWSE, MOC, MND, RTI, EMEGA, and CoolWallet
+                    Conducted comprehensive security investigations and produced analysis reports for clients including TWSE, MOC, MND, RTI, EMEGA, and CoolWallet
                   </p>
               </div>
             </div>
@@ -479,24 +545,26 @@ body {
           <div class="timeline-item">
             <div class="timeline-content">
               <h3>Taiwan ICDF (Somaliland) </h3>
-              <p class="timeline-date">2024-07-01 - 2024-09-01</p>
+              <p class="timeline-date">7/1/2024
+                -
+                9/1/2024</p>
               <p>Technical Personnel of Medical Information Management @Taiwan ICDF</p>
               <div class="highlights">
                   <p>
                     <i class="fas fa-check"></i>
-                      Educated hospital engineers on Docker, GitHub Dependabot, and secrets management.
+                    Educated hospital engineers on Docker, GitHub Dependabot, and secrets management.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Optimized PostgreSQL database performance and security.
+                    Optimized PostgreSQL database performance and security.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Introduced n8n for automation workflows to streamline hospital operations.
+                    Introduced n8n for automation workflows to streamline hospital operations.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Authored security reports and strategic plans for future HIS system expansion.
+                    Authored security reports and strategic plans for future HIS system expansion.
                   </p>
               </div>
             </div>
@@ -504,49 +572,37 @@ body {
           <div class="timeline-item">
             <div class="timeline-content">
               <h3>Bityacht.io </h3>
-              <p class="timeline-date">2023-10-01 - 2024-05-31</p>
+              <p class="timeline-date">10/1/2023
+                -
+                5/31/2024</p>
               <p>Hybrid Web Developer @Bityacht.io</p>
               <div class="highlights">
                   <p>
                     <i class="fas fa-check"></i>
-                      IAM Security : Migrated web app infrastructure to Google Cloud and set up emailjs, Cloudflare pages+zerotrust, and GitHub CI/CD pipelines.
+                    IAM Security : Migrated web app infrastructure to Google Cloud and set up emailjs, Cloudflare pages+zerotrust, and GitHub CI/CD pipelines.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Cloudflare Zero Trust VPN: Implemented testing environments using Cloudflare Zero Trust VPN.
+                    Cloudflare Zero Trust VPN: Implemented testing environments using Cloudflare Zero Trust VPN.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      Vue 3-based transaction pages: Developed Vue 3-based transaction pages, blacklisted client management, and i18n support fixes.
+                    Vue 3-based transaction pages: Developed Vue 3-based transaction pages, blacklisted client management, and i18n support fixes.
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      iOS Compliance Fixes &amp; App Store Approval: Fixed i18n rendering issue(2 hours)/Implemented in-app Account Deletion to meet Apple’s compliance(16 hours),while App Store Review Process: About dditional 6-hour delay per commit. 
+                    iOS Compliance Fixes &amp; App Store Approval: Fixed i18n rendering issue(2 hours)/Implemented in-app Account Deletion to meet Apple’s compliance(16 hours),while App Store Review Process: About dditional 6-hour delay per commit. 
                   </p>
                   <p>
                     <i class="fas fa-check"></i>
-                      GCP IAM Role Management (Bityacht.io):Configured IAM roles for CFO, CEO, and engineers to control access to:Container Registry, Google Cloud Storage (GCS), Billing resources
+                    GCP IAM Role Management (Bityacht.io):Configured IAM roles for CFO, CEO, and engineers to control access to:Container Registry, Google Cloud Storage (GCS), Billing resources
                   </p>
               </div>
             </div>
           </div>
       </section>
 
-      <!-- 教育 -->
-      <section class="education-section">
-        <h3>Education</h3>
-      </section>
-
-      <!-- 獎項 -->
-      <section class="awards-section">
-        <h3>Awards</h3>
-      </section>
-
-      <!-- 成就 -->
-      <section class="achievements-section">
-        <h3>Key Achievements</h3>
-      </section>
-    </div>
+      
 
     <!-- JavaScript -->
     <script>
