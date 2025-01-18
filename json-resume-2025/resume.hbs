@@ -42,55 +42,34 @@
         <div class="profile-info">
           <h1>{{resume.basics.name}}</h1>
           <h2>{{resume.basics.label}}</h2>
+          <p>{{resume.basics.summary}}</p>
           <div class="contact-links">
-            <a href="mailto:{{resume.basics.email}}"><i
-                class="fas fa-envelope"
-              ></i></a>
-            <a href="{{resume.basics.url}}" target="_blank"><i
-                class="fas fa-globe"
-              ></i></a>
             {{#each resume.basics.profiles}}
-              <a href="{{this.url}}" target="_blank"><i
-                  class="fab fa-{{toLowerCase this.network}}"
-                ></i></a>
+              <a href="{{this.url}}" target="_blank">
+                <i class="fab fa-{{toLowerCase this.network}}"></i>
+                {{this.network}}
+              </a>
             {{/each}}
           </div>
         </div>
       </header>
 
-      <!-- 技能雷達圖 -->
+      <!-- 技能 -->
       <section class="skills-section">
-        <h2>Technical Proficiency</h2>
-        <canvas id="skillsRadar"></canvas>
-      </section>
-
-      <!-- Mermaid 時間軸 -->
-      <section class="section mermaid-section">
-        <h2>Career Journey</h2>
-        <div class="mermaid">
-          gantt title Career Path dateFormat YYYY-MM section Work Experience
-          {{#each resume.work}}
-            {{this.name}}
-            ({{this.position}}) :{{this.startDate}},
-            {{this.endDate}}
-          {{/each}}
-        </div>
-
-        <!-- 技能樹狀圖 -->
-        <h2>Skills Architecture</h2>
-        <div class="mermaid">
-          mindmap root((Technical Skills))
-          {{#each resume.skills}}
-            {{this.name}}
+        <h3>Technical Proficiency</h3>
+        {{#each resume.skills}}
+          <h4>{{this.name}}</h4>
+          <ul>
             {{#each this.keywords}}
-              {{this}}
+              <li>{{this}}</li>
             {{/each}}
-          {{/each}}
-        </div>
+          </ul>
+        {{/each}}
       </section>
 
-      <!-- 工作經驗時間軸 -->
+      <!-- 工作經驗 -->
       <section class="timeline">
+        <h3>Career Journey</h3>
         {{#each resume.work}}
           <div class="timeline-item">
             <div class="timeline-content">
@@ -99,10 +78,64 @@
               <p>{{this.position}}</p>
               <div class="highlights">
                 {{#each this.highlights}}
-                  <p><i class="fas fa-check"></i> {{this}}</p>
+                  <p>
+                    <i class="fas fa-check"></i>
+                    {{#if (isYouTubeLink this)}}
+                      <a
+                        href="https://www.youtube.com/watch?v={{extractYouTubeId
+                          this
+                        }}"
+                        target="_blank"
+                      >
+                        {{removeYouTubeUrl this}}
+                      </a>
+                    {{else}}
+                      {{this}}
+                    {{/if}}
+                  </p>
                 {{/each}}
               </div>
             </div>
+          </div>
+        {{/each}}
+      </section>
+
+      <!-- 教育 -->
+      <section class="education-section">
+        <h3>Education</h3>
+        {{#each resume.education}}
+          <div class="education-item">
+            <h4>{{this.name}}</h4>
+            <p>{{this.area}}, {{this.studyType}}</p>
+            <p class="education-date">{{formatDate this.startDate}}
+              -
+              {{formatDate this.endDate}}</p>
+          </div>
+        {{/each}}
+      </section>
+
+      <!-- 獎項 -->
+      <section class="awards-section">
+        <h3>Awards</h3>
+        {{#each resume.awards}}
+          <div class="award-item">
+            <h4>{{this.title}}</h4>
+            <p>{{this.awarder}} - {{formatDate this.date}}</p>
+            <p>{{this.summary}}</p>
+          </div>
+        {{/each}}
+      </section>
+
+      <!-- 成就 -->
+      <section class="achievements-section">
+        <h3>Key Achievements</h3>
+        {{#each resume.achievements}}
+          <div class="achievement-item">
+            <h4>{{this.title}}</h4>
+            <p>{{this.description}}</p>
+            {{#if this.url}}
+              <a href="{{this.url}}" target="_blank">More details</a>
+            {{/if}}
           </div>
         {{/each}}
       </section>
@@ -110,20 +143,7 @@
 
     <!-- JavaScript -->
     <script>
-      // Mermaid 初始化 mermaid.initialize({ startOnLoad: true, theme: 'dark',
-      background: '#000', themeVariables: { primaryColor: '#f40',
-      primaryTextColor: '#fff', primaryBorderColor: '#08f', lineColor: '#08f',
-      secondaryColor: '#006', tertiaryColor: '#008' } }); // 技能雷達圖
-      window.onload = function() { const ctx =
-      document.getElementById('skillsRadar').getContext('2d'); new Chart(ctx, {
-      type: 'radar', data: { labels: [ 'Programming', 'Cloud Platforms',
-      'DevOps', 'Security', 'Databases', 'Soft Skills' ], datasets: [{ label:
-      'Skill Level', data: [90, 85, 80, 95, 75, 85], backgroundColor: 'rgba(255,
-      99, 132, 0.2)', borderColor: 'rgb(255, 99, 132)', pointBackgroundColor:
-      'rgb(255, 99, 132)' }] }, options: { responsive: true, scales: { r: {
-      beginAtZero: true, max: 100 } } } }); }; // 多語言支持 function
-      switchLanguage(lang) { // 實作語言切換邏輯 console.log('Switching to:',
-      lang); }
+      mermaid.initialize({ startOnLoad: true, theme: 'default' });
     </script>
   </body>
 </html>
