@@ -1,45 +1,129 @@
-<html lang="en">
+<html lang="{{lang}}">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{resume.basics.name}} - Resume</title>
+
+    <!-- 字體和必要的 CDN -->
     <link
-      href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&family=Noto+Sans+TC:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
-    <!-- 加入 Mermaid -->
     <script
       src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
     ></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+
     <style>
       {{{css}}}
+
+      /* 列印優化樣式 */ @media print { .no-print { display: none; } body {
+      font-size: 12pt; } a { text-decoration: none; color: #000; } } /*
+      響應式設計 */ @media (max-width: 768px) { .container { padding: 10px; } }
     </style>
   </head>
   <body>
-    <div class="container">
-      <!-- 原有的履歷內容 -->
+    <!-- 語言切換器 -->
+    <div class="language-switcher no-print">
+      <button onclick="switchLanguage('en')">English</button>
+      <button onclick="switchLanguage('zh')">中文</button>
+    </div>
 
-      <!-- 加入 Mermaid 圖表區域 -->
+    <div class="container">
+      <!-- 個人資料區塊 -->
+      <header class="profile-header">
+        <div class="profile-image">
+          <img src="{{resume.basics.image}}" alt="{{resume.basics.name}}" />
+        </div>
+        <div class="profile-info">
+          <h1>{{resume.basics.name}}</h1>
+          <h2>{{resume.basics.label}}</h2>
+          <div class="contact-links">
+            <a href="mailto:{{resume.basics.email}}"><i
+                class="fas fa-envelope"
+              ></i></a>
+            <a href="{{resume.basics.url}}" target="_blank"><i
+                class="fas fa-globe"
+              ></i></a>
+            {{#each resume.basics.profiles}}
+              <a href="{{this.url}}" target="_blank"><i
+                  class="fab fa-{{toLowerCase this.network}}"
+                ></i></a>
+            {{/each}}
+          </div>
+        </div>
+      </header>
+
+      <!-- 技能雷達圖 -->
+      <section class="skills-section">
+        <h2>Technical Proficiency</h2>
+        <canvas id="skillsRadar"></canvas>
+      </section>
+
+      <!-- Mermaid 時間軸 -->
       <section class="section mermaid-section">
-        <h2>Career Visualization</h2>
+        <h2>Career Journey</h2>
         <div class="mermaid">
           gantt title Career Path dateFormat YYYY-MM section Work Experience
-          Twister5 (Cyber Security Consultant) :2024-09, 2025-03 Taiwan ICDF
-          (Technical Personnel) :2024-07, 2024-09
+          {{#each resume.work}}
+            {{this.name}}
+            ({{this.position}}) :{{this.startDate}},
+            {{this.endDate}}
+          {{/each}}
         </div>
 
+        <!-- 技能樹狀圖 -->
         <h2>Skills Architecture</h2>
         <div class="mermaid">
-          mindmap root((Technical Skills)) Programming JavaScript/TypeScript Go
-          Python HCL OpenQASM
+          mindmap root((Technical Skills))
+          {{#each resume.skills}}
+            {{this.name}}
+            {{#each this.keywords}}
+              {{this}}
+            {{/each}}
+          {{/each}}
         </div>
+      </section>
+
+      <!-- 工作經驗時間軸 -->
+      <section class="timeline">
+        {{#each resume.work}}
+          <div class="timeline-item">
+            <div class="timeline-content">
+              <h3>{{this.name}}</h3>
+              <p class="timeline-date">{{this.startDate}} - {{this.endDate}}</p>
+              <p>{{this.position}}</p>
+              <div class="highlights">
+                {{#each this.highlights}}
+                  <p><i class="fas fa-check"></i> {{this}}</p>
+                {{/each}}
+              </div>
+            </div>
+          </div>
+        {{/each}}
       </section>
     </div>
 
+    <!-- JavaScript -->
     <script>
-      mermaid.initialize({ startOnLoad: true, theme: 'dark', background: '#000',
-      themeVariables: { primaryColor: '#f40', primaryTextColor: '#fff',
-      primaryBorderColor: '#08f', lineColor: '#08f', secondaryColor: '#006',
-      tertiaryColor: '#008' } });
+      // Mermaid 初始化 mermaid.initialize({ startOnLoad: true, theme: 'dark',
+      background: '#000', themeVariables: { primaryColor: '#f40',
+      primaryTextColor: '#fff', primaryBorderColor: '#08f', lineColor: '#08f',
+      secondaryColor: '#006', tertiaryColor: '#008' } }); // 技能雷達圖
+      window.onload = function() { const ctx =
+      document.getElementById('skillsRadar').getContext('2d'); new Chart(ctx, {
+      type: 'radar', data: { labels: [ 'Programming', 'Cloud Platforms',
+      'DevOps', 'Security', 'Databases', 'Soft Skills' ], datasets: [{ label:
+      'Skill Level', data: [90, 85, 80, 95, 75, 85], backgroundColor: 'rgba(255,
+      99, 132, 0.2)', borderColor: 'rgb(255, 99, 132)', pointBackgroundColor:
+      'rgb(255, 99, 132)' }] }, options: { responsive: true, scales: { r: {
+      beginAtZero: true, max: 100 } } } }); }; // 多語言支持 function
+      switchLanguage(lang) { // 實作語言切換邏輯 console.log('Switching to:',
+      lang); }
     </script>
   </body>
 </html>

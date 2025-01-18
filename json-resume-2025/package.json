@@ -1,22 +1,27 @@
 {
-  "name": "json-resume-new",
+  "name": "json-resume-2025",
   "version": "1.0.0",
-  "description": "My JSON Resume",
+  "description": "custom JSON Resume topic",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
     "start": "resume serve",
     "build": "resume export resume.html",
     "validate": "resume validate"
   },
   "dependencies": {
-    "jsonresume-theme-actual": "^0.2.2",
-    "jsonresume-theme-caffeine": "^1.2.3",
-    "jsonresume-theme-even": "^0.23.0",
-    "jsonresume-theme-flat": "^0.3.7",
-    "jsonresume-theme-macchiato": "^1.1.0",
-    "jsonresume-theme-onepage": "^0.0.3",
-    "jsonresume-theme-orbit": "^3.0.0",
-    "jsonresume-theme-spartan": "^0.3.0",
-    "jsonresume-theme-stackoverflow": "^2.1.0",
-    "resume-cli": "^3.0.1"
-  }
+    "handlebars": "^4.7.7",
+    "resume-cli": "^3.0.8",
+    "jsonresume-theme-even": "^0.21.0",
+    "jsonresume-theme-stackoverflow": "^2.0.0"
+  },
+  "keywords": [
+    "json",
+    "resume",
+    "curriculum vitae",
+    "cv",
+    "template"
+  ],
+  "author": "dennis lee",
+  "license": "MIT"
 }
