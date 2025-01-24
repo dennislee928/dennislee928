@@ -4,12 +4,15 @@
   "description": "for readme.md widget",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chrome-aws-lambda": "^10.1.0",
+    "puppeteer": "^24.1.1",
     "puppeteer-core": "^10.4.0"
   }
 }
