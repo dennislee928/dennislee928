@@ -20,6 +20,11 @@
 > "Debugging is like being the detective in a crime movie where you are also the murderer." - _Me, trying to fix bugs_
 
 ---
+## 🚀 Quantum GitHub Widget
+![Quantum Model](https://dennislee928.github.io/github-quantum-widget/screenshot.gif)
+
+👉 [Click here to interact with the 3D quantum model!](https://dennislee928.github.io/github-quantum-widget/)
+
 
 ### 💻 About Me
 
