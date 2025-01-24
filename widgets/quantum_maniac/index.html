@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quantum GitHub Widget</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        background-color: black;
+        color: white;
+        text-align: center;
+      }
+      canvas {
+        display: block;
+      }
+      #github-info {
+        position: absolute;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2 id="github-info">Loading Quantum Model...</h2>
+
+    <script>
+      async function fetchGitHubStats(username) {
+        const headers = { Accept: "application/vnd.github.v3+json" };
+
+        const commitsResponse = await fetch(
+          `https://api.github.com/users/${username}/events/public`,
+          { headers }
+        );
+        const events = await commitsResponse.json();
+
+        let commitCount = 0,
+          issueCount = 0,
+          prCount = 0,
+          stars = 0;
+
+        events.forEach((event) => {
+          if (event.type === "PushEvent")
+            commitCount += event.payload.commits.length;
+          if (event.type === "IssuesEvent" && event.payload.action === "closed")
+            issueCount++;
+          if (
+            event.type === "PullRequestEvent" &&
+            event.payload.action === "closed"
+          )
+            prCount++;
+          if (event.type === "WatchEvent") stars++;
+        });
+
+        return { commitCount, issueCount, prCount, stars };
+      }
+
+      async function init() {
+        const stats = await fetchGitHubStats("your-github-username");
+
+        document.getElementById(
+          "github-info"
+        ).innerHTML = `🌌 Commits: ${stats.commitCount} | Issues: ${stats.issueCount} | PRs: ${stats.prCount} | Stars: ${stats.stars}`;
+
+        // Three.js setup
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(
+          75,
+          window.innerWidth / window.innerHeight,
+          0.1,
+          1000
+        );
+        const renderer = new THREE.WebGLRenderer();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        // Lighting
+        const light = new THREE.PointLight(0xffffff, 2, 100);
+        light.position.set(10, 10, 10);
+        scene.add(light);
+
+        // Quantum Core
+        const coreGeometry = new THREE.SphereGeometry(
+          0.5 + stats.commitCount / 100,
+          32,
+          32
+        );
+        const coreMaterial = new THREE.MeshStandardMaterial({
+          color: 0x00ffcc,
+          emissive: 0x008080,
+        });
+        const quantumCore = new THREE.Mesh(coreGeometry, coreMaterial);
+        scene.add(quantumCore);
+
+        // Orbiting electrons (based on PRs merged)
+        const electrons = [];
+        for (let i = 0; i < stats.prCount; i++) {
+          const electronGeometry = new THREE.SphereGeometry(0.1, 16, 16);
+          const electronMaterial = new THREE.MeshBasicMaterial({
+            color: 0xff6600,
+          });
+          const electron = new THREE.Mesh(electronGeometry, electronMaterial);
+          electron.position.set(
+            Math.random() * 2 - 1,
+            Math.random() * 2 - 1,
+            Math.random() * 2 - 1
+          );
+          scene.add(electron);
+          electrons.push(electron);
+        }
+
+        // Animate the quantum system
+        function animate() {
+          requestAnimationFrame(animate);
+
+          quantumCore.rotation.y += 0.01 * (1 + stats.issueCount / 10);
+          quantumCore.rotation.x += 0.005 * (1 + stats.issueCount / 20);
+
+          electrons.forEach((electron, i) => {
+            electron.position.x =
+              Math.cos(Date.now() * 0.001 + i) * (1.5 + i / 5);
+            electron.position.z =
+              Math.sin(Date.now() * 0.001 + i) * (1.5 + i / 5);
+          });
+
+          renderer.render(scene, camera);
+        }
+
+        camera.position.z = 5;
+        animate();
+      }
+
+      init();
+
+      window.addEventListener("resize", () => {
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+      });
+    </script>
+  </body>
+</html>
