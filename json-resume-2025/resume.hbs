@@ -37,7 +37,7 @@
       <!-- 個人資料區塊 -->
       <header class="profile-header">
         <div class="profile-image">
-          <img src="./public/myself.JPG" alt="Pei-Chen Lee" style="max-width: 100%; height: auto;" />
+          <img src="./public/myself.png" alt="Pei-Chen Lee" style="max-width: 100%; height: auto;" />
         </div>
         <div class="profile-info">
           <h1>{{resume.basics.name}}</h1>
@@ -46,7 +46,18 @@
           <div class="contact-links">
             {{#each resume.basics.profiles}}
               <a href="{{this.url}}" target="_blank">
-                <i class="fab fa-{{toLowerCase this.network}}"></i>
+                {{#if (this.network "DockerHub")}}
+                  <i class="fab fa-docker"></i>
+                {{/if}}
+                {{#if (this.network "GitHub")}}
+                  <i class="fab fa-github"></i>
+                {{/if}}
+                {{#if (this.network "LinkedIn")}}
+                  <i class="fab fa-linkedin"></i>
+                {{/if}}
+                {{#unless (or (eq this.network "DockerHub") (eq this.network "GitHub") (eq this.network "LinkedIn"))}}
+                  <i class="fab fa-globe"></i>
+                {{/unless}}
                 {{this.network}}
               </a>
             {{/each}}
@@ -101,28 +112,51 @@
 
 
 
-      <!-- 🌟 Cyberpunk Skills Tree -->
-      <section class="mermaid-section">
-        <h3>🌌 Skills Hierarchy </h3>
-        <div class="mermaid">
-          graph TD; A[🔥 Cybersecurity 🔥] -->|Cloudflare| B[WAF & API Shield
-          🛡️]; A -->|SIEM| C[Axiom & Log Analysis 📜]; A -->|DevOps| D[CI/CD &
-          Terraform 🚀]; A -->|Threat Hunting| E[DDoS & API Security 🛠️];
-        </div>
-      </section>
 
-      <!-- 技能 -->
-      <section class="skills-section">
-        <h3>Technical Proficiency</h3>
-        {{#each resume.skills}}
-          <h4>{{this.name}}</h4>
-          <ul>
-            {{#each this.keywords}}
-              <li>{{this}}</li>
-            {{/each}}
-          </ul>
-        {{/each}}
-      </section>
+
+
+
+
+<!-- 🌟 Cyberpunk Skills Tree -->
+<section class="mermaid-section">
+  <h3>🌌 Skills & Expertise Hierarchy</h3>
+  <div class="mermaid">
+   graph TB;
+  classDef main fill:#1e1e2e,stroke:#ff79c6,stroke-width:2px,color:#f8f8f2;
+  classDef sub fill:#282a36,stroke:#6272a4,stroke-width:1px,color:#50fa7b;
+  classDef leaf fill:#44475a,stroke:#bd93f9,stroke-width:1px,color:#ffb86c;
+
+  %% Cybersecurity Block (Top Level)
+  A[🔐 Cybersecurity]:::main
+
+  %% Cybersecurity Subcategories
+  A -->|Network Security| B[🛡️ WAF & API Shield]:::sub
+  A -->|SIEM & Logs| C[📊 Axiom & Log Analysis]:::sub
+  A -->|Threat Hunting| D[🔍 DDoS & API Security]:::sub
+  A -->|IAM/Auth| E[🔑 Cloudflare Zero Trust]:::sub
+  A -->|DevOps & IaC| F[⚙️ GitHub Actions & Terraform]:::sub
+  A -->|Automation| G[🔁 n8n & Pulumi]:::sub
+  A -->|Containers| H[📦 Docker & K8s]:::sub
+
+  %% Move to Next Block (Soft Skills)
+  A --> S[🧠 Soft Skills]:::main
+
+  %% Soft Skills Subcategories
+  S -->|Docs & Diagrams| T[📄 Mermaid & ArchViz]:::sub
+  S -->|Cross-Team| U[🤝 Legal & DevCollab]:::sub
+  S -->|Training & Mentoring| V[🎓 Teaching Redis]:::sub
+
+  %% Move to Next Block (Research)
+  S --> W[🚀 Research]:::main
+
+  %% Research Subcategories
+  W -->|Quantum Security| X[⚛️ IBM Quantum & OpenQASM]:::sub
+  W -->|Crypto Security| Y[🔐 Quantum-Safe Crypto]:::sub
+
+  </div>
+</section>
+
+
 
       <!-- 工作經驗 -->
       <section class="timeline">
@@ -147,64 +181,110 @@
           </div>
         {{/each}}
       </section>
+<!-- 📌 Skills & Proficiency Table -->
+<section class="skills-table-section">
+  <h3>📊 Technical Proficiency</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each resume.skills}}
+      <tr>
+        <td><strong>{{this.name}}</strong></td>
+        <td>
+          <ul>
+            {{#each this.keywords}}
+              <li>{{this}}</li>
+            {{/each}}
+          </ul>
+        </td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</section>
 
-      
+    <!-- 教育背景 -->
+    <section class="education-section">
+      <h3>🎓 Education</h3>
+      {{#each resume.education}}
+        <div class="education-item">
+          <h4>{{this.institution}}</h4>
+          <p>{{this.area}} - {{this.studyType}}</p>
+          <p>{{formatDate this.startDate}} - {{formatDate this.endDate}}</p>
+          <p>{{this.summary}}</p>
+        </div>
+      {{/each}}
+    </section>
+
+    <!-- 證書 -->
+    <section class="certificates-section">
+      <h3>📜 Certificates</h3>
+      {{#each resume.certificates}}
+        <div class="certificate-item">
+          <h4>{{this.name}}</h4>
+          <p>{{this.issuer}} - {{formatDate this.date}}</p>
+          <a href="{{this.url}}" target="_blank">View Certificate</a>
+        </div>
+      {{/each}}
+    </section>
+
+    <!-- 專案 -->
+    <section class="projects-section">
+      <h3>🚀 Projects</h3>
+      {{#each resume.projects}}
+        <div class="project-item">
+          <h4>{{this.name}}</h4>
+          <p>{{formatDate this.startDate}} - {{formatDate this.endDate}}</p>
+          <p>{{this.summary}}</p>
+          <ul>
+            {{#each this.highlights}}
+              <li>{{this}}</li>
+            {{/each}}
+          </ul>
+        </div>
+      {{/each}}
+    </section>
 
     <!-- JavaScript -->
     <script>
       mermaid.initialize({ startOnLoad: true, theme: 'default' });
-      document.addEventListener("DOMContentLoaded", function () {
+     document.addEventListener("DOMContentLoaded", function () {
     const ctx = document.getElementById("skillsChart").getContext("2d");
 
-    // Skill labels and scores
-    const labels = ["Security", "DevOps", "Cloud", "Software Development", "Research"];
-    const data = [9, 8, 8, 7, 6];
-
-    // Reasons for each score
-    const explanations = {
-      "Security": "Extensive hands-on experience in DDoS mitigation, API security, IAM security, Cloudflare WAF, Terraform security policies, SIEM log analysis (Axiom, New Relic, Grafana), plus security automation with GitHub Actions and CASB.",
-      "DevOps": "Strong in CI/CD automation (GitHub Actions, Terraform), n8n workflow automation, cloud networking, and infrastructure as code (IaC), but limited full production Kubernetes experience.",
-      "Cloud": "Experience in GCP, AWS, OCI, Azure, Cloudflare (Zero Trust, API Shield, DNS Management), including load balancing, identity security (IAM), and automation (Pulumi/Terraform).",
-      "Software Development": "Skilled in JavaScript, TypeScript, Go, Python, Terraform, with experience in backend API security and frontend work in Vue3, React, and Nuxt.js, but less focus on software architecture or large-scale application development.",
-      "Research": "Experience in Mermaid MD for documentation, quantum computing (IBM Quantum, Classiq), and cryptographic security research, but not primarily focused on deep academic research."
-    };
-
     new Chart(ctx, {
-      type: "bar",
+      type: "radar",
       data: {
-        labels: labels,
+        labels: ["Security", "DevOps", "Cloud", "Software Development", "Research"],
         datasets: [
           {
             label: "Skill Level (0-10)",
-            data: data,
-            backgroundColor: ["#ff5733", "#33ff57", "#3377ff", "#ff33aa", "#ffcc33"],
-            borderWidth: 1,
+            data: [9, 8, 8, 7, 6],
+            backgroundColor: "rgba(0, 255, 255, 0.4)",
+            borderColor: "#00ffff",
+            pointBackgroundColor: "#ff00ff",
+            pointBorderColor: "#fff",
+            pointRadius: 5,
           },
         ],
       },
       options: {
         responsive: true,
         scales: {
-          y: {
-            beginAtZero: true,
-            max: 10,
-            ticks: {
-              stepSize: 1
-            }
-          },
-        },
-        plugins: {
-          tooltip: {
-            callbacks: {
-              label: function (tooltipItem) {
-                return explanations[tooltipItem.label] || "";
-              }
-            }
+          r: {
+            grid: { color: "rgba(255, 255, 255, 0.2)" },
+            ticks: { color: "#00ffff" },
+            pointLabels: { color: "#ff00ff", font: { size: 14 } }
           }
         }
-      },
+      }
     });
-  });
+});
+
     </script>
   </body>
 </html>

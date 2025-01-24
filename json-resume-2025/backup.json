@@ -1,0 +1,52 @@
+{
+  "basics": {
+    "name": {
+      "en": "Pei-Chen Lee",
+      "zh": "李沛辰"
+    },
+    "label": {
+      "en": "Cybersecurity Engineer & DevOps Specialist",
+      "zh": "網絡安全工程師 & DevOps 專家"
+    },
+    "image": "./public/IMG_2626 2.JPG",
+    "email": "pcleegood@gmail.com",
+    "phone": "0909258032",
+    "url": "https://next-js-portfolio-pi-ten.vercel.app/",
+    "summary": {
+      "en": "Cybersecurity and DevOps engineer with expertise in cloud-based security, automation, and infrastructure as code (IaC). Experienced in investigating security incidents, automating deployments, and securing cloud platforms such as GCP, AWS, OCI, and Cloudflare. Adept at leveraging Terraform, GitHub Actions, and Cloudflare Zero Trust to optimize security operations.",
+      "zh": "網絡安全與 DevOps 工程師，專長於雲端安全、自動化及基礎設施即代碼 (IaC)。擁有豐富的安全事件調查經驗，擅長自動化部署與雲端安全管理，包括 GCP、AWS、OCI 和 Cloudflare。熟練使用 Terraform、GitHub Actions 及 Cloudflare Zero Trust 來優化安全運營。"
+    },
+    "location": {
+      "address": {
+        "en": "Taipei, Taiwan",
+        "zh": "台灣 台北"
+      },
+      "city": {
+        "en": "Taipei",
+        "zh": "台北"
+      },
+      "countryCode": "TW",
+      "region": {
+        "en": "Asia",
+        "zh": "亞洲"
+      }
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "dennislee928",
+        "url": "https://github.com/dennislee928"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "pei-chen-lee",
+        "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/"
+      },
+      {
+        "network": "DockerHub",
+        "username": "dennislee928",
+        "url": "https://hub.docker.com/u/dennislee928"
+      }
+    ]
+  }
+}

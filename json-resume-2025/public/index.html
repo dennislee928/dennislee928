@@ -247,6 +247,19 @@ body {
 
 .section {
   animation: fadeIn 0.8s ease-out forwards;
+  background: rgba(40, 44, 52, 0.9);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+}
+/* 🔹 Titles */
+h3 {
+  font-size: 1.8rem;
+  color: black;
+  text-shadow: 0 0 10px #00ffff;
+  border-bottom: 2px solid #00ffff;
+  padding-bottom: 5px;
 }
 
 /* 技能標籤 */
@@ -386,6 +399,94 @@ body {
   border-radius: 10px;
 }
 
+/* 🔹 Cyberpunk Hover Effects */
+a:hover,
+button:hover {
+  color: #ff00ff;
+  text-shadow: 0 0 10px #ff00ff;
+}
+
+/* 🔹 Table Row Hover */
+.skills-table-section tr:hover {
+  background-color: rgba(0, 255, 255, 0.2);
+  transition: background 0.3s ease-in-out;
+}
+
+/* 🔹 Neon Button */
+button {
+  background: linear-gradient(90deg, #00ffff, #ff00ff);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #ff00ff;
+}
+
+.mermaid .node rect {
+  fill: #1a1a2e !important;
+  stroke: #00ffff !important;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 10px #00ffff);
+}
+
+.mermaid .edgePath path {
+  stroke: #ff00ff !important;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 5px #ff00ff);
+}
+
+.mermaid .label {
+  font-size: 1.2rem !important;
+  font-weight: bold;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+/* 教育背景、證書和專案的樣式 */
+.education-item,
+.certificate-item,
+.project-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+/* 表格樣式 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
 
       /* 列印優化樣式 */ @media print { .no-print { display: none; } body {
       font-size: 12pt; } a { text-decoration: none; color: #000; } } /*
@@ -403,7 +504,7 @@ body {
       <!-- 個人資料區塊 -->
       <header class="profile-header">
         <div class="profile-image">
-          <img src="./public/myself.JPG" alt="Pei-Chen Lee" style="max-width: 100%; height: auto;" />
+          <img src="./public/myself.png" alt="Pei-Chen Lee" style="max-width: 100%; height: auto;" />
         </div>
         <div class="profile-info">
           <h1>Pei-Chen Lee</h1>
@@ -417,6 +518,10 @@ body {
               <a href="https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/" target="_blank">
                 <i class="fab fa-linkedin"></i>
                 LinkedIn
+              </a>
+              <a href="https://hub.docker.com/u/dennislee928" target="_blank">
+                <i class="fab fa-dockerhub"></i>
+                DockerHub
               </a>
           </div>
         </div>
@@ -511,110 +616,51 @@ body {
 
 
 
-      <!-- 🌟 Cyberpunk Skills Tree -->
-      <section class="mermaid-section">
-        <h3>🌌 Skills Hierarchy (Web3 Style)</h3>
-        <div class="mermaid">
-          graph TD; A[🔥 Cybersecurity 🔥] -->|Cloudflare| B[WAF & API Shield
-          🛡️]; A -->|SIEM| C[Axiom & Log Analysis 📜]; A -->|DevOps| D[CI/CD &
-          Terraform 🚀]; A -->|Threat Hunting| E[DDoS & API Security 🛠️];
-        </div>
-      </section>
 
-      <!-- 技能 -->
-      <section class="skills-section">
-        <h3>Technical Proficiency</h3>
-          <h4>Programming Languages</h4>
-          <ul>
-              <li>JavaScript</li>
-              <li>TypeScript</li>
-              <li>Go</li>
-              <li>Python</li>
-              <li>HCL (Terraform)</li>
-              <li>YAML (GitHub Actions)</li>
-              <li>OpenQASM</li>
-          </ul>
-          <h4>Cloud Platforms</h4>
-          <ul>
-              <li>GCP</li>
-              <li>AWS</li>
-              <li>OCI</li>
-              <li>Azure</li>
-              <li>Cloudflare</li>
-              <li>Fly.io</li>
-              <li>Heroku</li>
-              <li>Vercel</li>
-              <li>Netlify</li>
-          </ul>
-          <h4>DevOps &amp; Security Tools</h4>
-          <ul>
-              <li>Docker</li>
-              <li>Terraform</li>
-              <li>Pulumi</li>
-              <li>GitHub Actions</li>
-              <li>GitLab</li>
-              <li>n8n</li>
-              <li>Axiom</li>
-              <li>Grafana</li>
-              <li>Prometheus</li>
-              <li>Loki</li>
-              <li>Wireshark</li>
-              <li>VSphere</li>
-              <li>Static Analysis: used GitHub CodeQL, Snyk for my own side projects</li>
-              <li>Dynamic Analysis: burpsuite for bityacht.io and www.bityacht.io</li>
-          </ul>
-          <h4>Databases &amp; Storage</h4>
-          <ul>
-              <li>Cloudflare R2</li>
-              <li>AWS S3</li>
-              <li>PostgreSQL</li>
-              <li>MySQL</li>
-              <li>Supabase</li>
-          </ul>
-          <h4>Languages</h4>
-          <ul>
-              <li>English - C1</li>
-              <li>Mandarin - Native</li>
-              <li>Spanish - Beginner</li>
-          </ul>
-          <h4>Incident Response case</h4>
-          <ul>
-              <li>1.Investigated DDoS attack (requests from Myanmar) logs from Cloudflare WAF event logs for a gamming company.</li>
-              <li>2.Found that 95% of attack traffic was blocked by Cloudflare managed rules.(both account level and zone level.)</li>
-              <li>3.Found zone level custom-waf was not triggered.</li>
-              <li>4.Suspecting the 5 % volume attacks were DNS amplification attack attempts using Cloudflare DNS resolver.</li>
-              <li>5.Ask for their local event logs contains cf tag(like CF-Ray IDs) or not.</li>
-              <li>6.Answer: some of them are, some of them are not.</li>
-              <li>7.Conclusion: Ips are possibly exposed, so attackers can use cloudflare free account to amp attack, or directly http flood to their web server.</li>
-              <li>8.Suggestion: set connection between cloudflare and original servers from full to strict mode.</li>
-          </ul>
-          <h4>Soft Skills</h4>
-          <ul>
-              <li>Security Documentation (Mermaid MD, data flow &amp; architecture visualization, video-based documentation)</li>
-              <li>Cross-Team Collaboration (Worked with legal compliance for blacklist submissions, UI interns for Figma design, and multiple departments in ICDF hospital projects)</li>
-              <li>Security Training &amp; Consultation (Introduced Redis &amp; frontend framework concepts to BDE devs, supported cybersecurity operations for TWSE, Taifex, gambling companies, MND, Emega, CoolBits, and Sun-Tech)</li>
-          </ul>
-          <h4>education</h4>
-          <ul>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-          </ul>
-          <h4>certificates</h4>
-          <ul>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-          </ul>
-          <h4>projects</h4>
-          <ul>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-              <li>[object Object]</li>
-          </ul>
-      </section>
+
+
+
+
+<!-- 🌟 Cyberpunk Skills Tree -->
+<section class="mermaid-section">
+  <h3>🌌 Skills & Expertise Hierarchy</h3>
+  <div class="mermaid">
+   graph TB;
+  classDef main fill:#1e1e2e,stroke:#ff79c6,stroke-width:2px,color:#f8f8f2;
+  classDef sub fill:#282a36,stroke:#6272a4,stroke-width:1px,color:#50fa7b;
+  classDef leaf fill:#44475a,stroke:#bd93f9,stroke-width:1px,color:#ffb86c;
+
+  %% Cybersecurity Block (Top Level)
+  A[🔐 Cybersecurity]:::main
+
+  %% Cybersecurity Subcategories
+  A -->|Network Security| B[🛡️ WAF & API Shield]:::sub
+  A -->|SIEM & Logs| C[📊 Axiom & Log Analysis]:::sub
+  A -->|Threat Hunting| D[🔍 DDoS & API Security]:::sub
+  A -->|IAM/Auth| E[🔑 Cloudflare Zero Trust]:::sub
+  A -->|DevOps & IaC| F[⚙️ GitHub Actions & Terraform]:::sub
+  A -->|Automation| G[🔁 n8n & Pulumi]:::sub
+  A -->|Containers| H[📦 Docker & K8s]:::sub
+
+  %% Move to Next Block (Soft Skills)
+  A --> S[🧠 Soft Skills]:::main
+
+  %% Soft Skills Subcategories
+  S -->|Docs & Diagrams| T[📄 Mermaid & ArchViz]:::sub
+  S -->|Cross-Team| U[🤝 Legal & DevCollab]:::sub
+  S -->|Training & Mentoring| V[🎓 Teaching Redis]:::sub
+
+  %% Move to Next Block (Research)
+  S --> W[🚀 Research]:::main
+
+  %% Research Subcategories
+  W -->|Quantum Security| X[⚛️ IBM Quantum & OpenQASM]:::sub
+  W -->|Crypto Security| Y[🔐 Quantum-Safe Crypto]:::sub
+
+  </div>
+</section>
+
+
 
       <!-- 工作經驗 -->
       <section class="timeline">
@@ -737,64 +783,246 @@ body {
             </div>
           </div>
       </section>
+<!-- 📌 Skills & Proficiency Table -->
+<section class="skills-table-section">
+  <h3>📊 Technical Proficiency</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td>
+          <ul>
+              <li>JavaScript</li>
+              <li>TypeScript</li>
+              <li>Go</li>
+              <li>Python</li>
+              <li>HCL (Terraform)</li>
+              <li>YAML (GitHub Actions)</li>
+              <li>OpenQASM</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Cloud Platforms</strong></td>
+        <td>
+          <ul>
+              <li>GCP</li>
+              <li>AWS</li>
+              <li>OCI</li>
+              <li>Azure</li>
+              <li>Cloudflare</li>
+              <li>Fly.io</li>
+              <li>Heroku</li>
+              <li>Vercel</li>
+              <li>Netlify</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>DevOps &amp; Security Tools</strong></td>
+        <td>
+          <ul>
+              <li>Docker</li>
+              <li>Terraform</li>
+              <li>Pulumi</li>
+              <li>GitHub Actions</li>
+              <li>GitLab</li>
+              <li>n8n</li>
+              <li>Axiom</li>
+              <li>Grafana</li>
+              <li>Prometheus</li>
+              <li>Loki</li>
+              <li>Wireshark</li>
+              <li>VSphere</li>
+              <li>Static Analysis: used GitHub CodeQL, Snyk for my own side projects</li>
+              <li>Dynamic Analysis: burpsuite for bityacht.io and www.bityacht.io</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Databases &amp; Storage</strong></td>
+        <td>
+          <ul>
+              <li>Cloudflare R2</li>
+              <li>AWS S3</li>
+              <li>PostgreSQL</li>
+              <li>MySQL</li>
+              <li>Supabase</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Languages</strong></td>
+        <td>
+          <ul>
+              <li>English - C1</li>
+              <li>Mandarin - Native</li>
+              <li>Spanish - Beginner</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Incident Response case</strong></td>
+        <td>
+          <ul>
+              <li>1.Investigated DDoS attack (requests from Myanmar) logs from Cloudflare WAF event logs for a gamming company.</li>
+              <li>2.Found that 95% of attack traffic was blocked by Cloudflare managed rules.(both account level and zone level.)</li>
+              <li>3.Found zone level custom-waf was not triggered.</li>
+              <li>4.Suspecting the 5 % volume attacks were DNS amplification attack attempts using Cloudflare DNS resolver.</li>
+              <li>5.Ask for their local event logs contains cf tag(like CF-Ray IDs) or not.</li>
+              <li>6.Answer: some of them are, some of them are not.</li>
+              <li>7.Conclusion: Ips are possibly exposed, so attackers can use cloudflare free account to amp attack, or directly http flood to their web server.</li>
+              <li>8.Suggestion: set connection between cloudflare and original servers from full to strict mode.</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Soft Skills</strong></td>
+        <td>
+          <ul>
+              <li>Security Documentation (Mermaid MD, data flow &amp; architecture visualization, video-based documentation)</li>
+              <li>Cross-Team Collaboration (Worked with legal compliance for blacklist submissions, UI interns for Figma design, and multiple departments in ICDF hospital projects)</li>
+              <li>Security Training &amp; Consultation (Introduced Redis &amp; frontend framework concepts to BDE devs, supported cybersecurity operations for TWSE, Taifex, gambling companies, MND, Emega, CoolBits, and Sun-Tech)</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 
-      
+    <!-- 教育背景 -->
+    <section class="education-section">
+      <h3>🎓 Education</h3>
+        <div class="education-item">
+          <h4>National Chengchi University</h4>
+          <p>Digital Content and Technology - Master&#x27;s degree</p>
+          <p>9/1/2021 - 1/1/2024</p>
+          <p>Focused on cybersecurity, UI/UX design, and blockchain applications.</p>
+        </div>
+        <div class="education-item">
+          <h4>National Chengchi University</h4>
+          <p>Management Information Systems - Bachelor&#x27;s degree</p>
+          <p>9/1/2016 - 6/1/2020</p>
+          <p>Developed web applications, worked with SQL databases, and learned software development methodologies.</p>
+        </div>
+    </section>
+
+    <!-- 證書 -->
+    <section class="certificates-section">
+      <h3>📜 Certificates</h3>
+        <div class="certificate-item">
+          <h4>Cloudflare MSP Specialization</h4>
+          <p>Cloudflare - 9/1/2024</p>
+          <a href="https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/1727275013850/" target="_blank">View Certificate</a>
+        </div>
+        <div class="certificate-item">
+          <h4>AWS Security Fundamentals</h4>
+          <p>Amazon Web Services - 10/1/2024</p>
+          <a href="https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/1730001581893/" target="_blank">View Certificate</a>
+        </div>
+        <div class="certificate-item">
+          <h4>Quantum Safe Cryptography</h4>
+          <p>IBM - 6/1/2024</p>
+          <a href="https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/177538411/" target="_blank">View Certificate</a>
+        </div>
+        <div class="certificate-item">
+          <h4>Oracle Cloud Infrastructure 2024 Certified Foundations Associate</h4>
+          <p>Oracle - 10/1/2024</p>
+          <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id&#x3D;AD6937F350DCF9579A6D78F0047EFEAFBE1DAD6DF36DB1CD4C9FA5CF16F767E" target="_blank">View Certificate</a>
+        </div>
+        <div class="certificate-item">
+          <h4>Security Service Edge (SSE) with Concerto</h4>
+          <p>Versa Network - 9/1/2024</p>
+          <a href="https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/17324850859918/" target="_blank">View Certificate</a>
+        </div>
+    </section>
+
+    <!-- 專案 -->
+    <section class="projects-section">
+      <h3>🚀 Projects</h3>
+        <div class="project-item">
+          <h4>Carbon Trade-Tracking Platform</h4>
+          <p>11/1/2024 - 12/1/2024</p>
+          <p>Designed and implemented a blockchain-based carbon trade-tracking system.</p>
+          <ul>
+              <li>Developed API security using Cloudflare API Shield.</li>
+              <li>Built backend services in Golang and integrated with Heroku.</li>
+              <li>Project suspended due to Heroku cost constraints.</li>
+          </ul>
+        </div>
+        <div class="project-item">
+          <h4>TWSE-CD Instant WAF Rule Deployment</h4>
+          <p>1/1/2025 - Invalid Date</p>
+          <p>Developed an automation tool for deploying emergency WAF rules using Cloudflare native API and n8n webhooks.</p>
+          <ul>
+              <li>Implemented real-time rule deployment triggered by security alerts.</li>
+              <li>Added multi-signature authentication for approval workflows.</li>
+              <li>Integrated monitoring and notification alerts.</li>
+          </ul>
+        </div>
+        <div class="project-item">
+          <h4>Quantum Circuit Design</h4>
+          <p>8/1/2024 - Invalid Date</p>
+          <p>Developed quantum computing experiments using OpenQASM and IBM Quantum Lab.</p>
+          <ul>
+              <li>Built Quantum Decentralized Key-Sending (QDKS) algorithm.</li>
+              <li>Utilized Classiq Composer for circuit optimization.</li>
+              <li>Explored post-quantum cryptographic security models.</li>
+          </ul>
+        </div>
+        <div class="project-item">
+          <h4>ETH Gateway Demo</h4>
+          <p>1/1/2025 - Invalid Date</p>
+          <p>Developed a blockchain gateway with ENS domain resolution and token tracking.</p>
+          <ul>
+              <li>Integrated wallet connection and exchange calculator.</li>
+              <li>Built a basic blockchain explorer.</li>
+              <li>API integration pending due to missing test tokens.</li>
+          </ul>
+        </div>
+    </section>
 
     <!-- JavaScript -->
     <script>
       mermaid.initialize({ startOnLoad: true, theme: 'default' });
-      document.addEventListener("DOMContentLoaded", function () {
+     document.addEventListener("DOMContentLoaded", function () {
     const ctx = document.getElementById("skillsChart").getContext("2d");
 
-    // Skill labels and scores
-    const labels = ["Security", "DevOps", "Cloud", "Software Development", "Research"];
-    const data = [9, 8, 8, 7, 6];
-
-    // Reasons for each score
-    const explanations = {
-      "Security": "Extensive hands-on experience in DDoS mitigation, API security, IAM security, Cloudflare WAF, Terraform security policies, SIEM log analysis (Axiom, New Relic, Grafana), plus security automation with GitHub Actions and CASB.",
-      "DevOps": "Strong in CI/CD automation (GitHub Actions, Terraform), n8n workflow automation, cloud networking, and infrastructure as code (IaC), but limited full production Kubernetes experience.",
-      "Cloud": "Experience in GCP, AWS, OCI, Azure, Cloudflare (Zero Trust, API Shield, DNS Management), including load balancing, identity security (IAM), and automation (Pulumi/Terraform).",
-      "Software Development": "Skilled in JavaScript, TypeScript, Go, Python, Terraform, with experience in backend API security and frontend work in Vue3, React, and Nuxt.js, but less focus on software architecture or large-scale application development.",
-      "Research": "Experience in Mermaid MD for documentation, quantum computing (IBM Quantum, Classiq), and cryptographic security research, but not primarily focused on deep academic research."
-    };
-
     new Chart(ctx, {
-      type: "bar",
+      type: "radar",
       data: {
-        labels: labels,
+        labels: ["Security", "DevOps", "Cloud", "Software Development", "Research"],
         datasets: [
           {
             label: "Skill Level (0-10)",
-            data: data,
-            backgroundColor: ["#ff5733", "#33ff57", "#3377ff", "#ff33aa", "#ffcc33"],
-            borderWidth: 1,
+            data: [9, 8, 8, 7, 6],
+            backgroundColor: "rgba(0, 255, 255, 0.4)",
+            borderColor: "#00ffff",
+            pointBackgroundColor: "#ff00ff",
+            pointBorderColor: "#fff",
+            pointRadius: 5,
           },
         ],
       },
       options: {
         responsive: true,
         scales: {
-          y: {
-            beginAtZero: true,
-            max: 10,
-            ticks: {
-              stepSize: 1
-            }
-          },
-        },
-        plugins: {
-          tooltip: {
-            callbacks: {
-              label: function (tooltipItem) {
-                return explanations[tooltipItem.label] || "";
-              }
-            }
+          r: {
+            grid: { color: "rgba(255, 255, 255, 0.2)" },
+            ticks: { color: "#00ffff" },
+            pointLabels: { color: "#ff00ff", font: { size: 14 } }
           }
         }
-      },
+      }
     });
-  });
+});
+
     </script>
   </body>
 </html>

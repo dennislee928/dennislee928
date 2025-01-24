@@ -23,6 +23,11 @@
         "network": "LinkedIn",
         "username": "pei-chen-lee",
         "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/"
+      },
+      {
+        "network": "DockerHub",
+        "username": "dennislee928",
+        "url": "https://hub.docker.com/u/dennislee928"
       }
     ]
   },
@@ -156,113 +161,103 @@
         "Cross-Team Collaboration (Worked with legal compliance for blacklist submissions, UI interns for Figma design, and multiple departments in ICDF hospital projects)",
         "Security Training & Consultation (Introduced Redis & frontend framework concepts to BDE devs, supported cybersecurity operations for TWSE, Taifex, gambling companies, MND, Emega, CoolBits, and Sun-Tech)"
       ]
-    },
-    {
-      "name": "education",
-      "keywords": [
-        {
-          "institution": "National Chengchi University",
-          "area": "Digital Content and Technology",
-          "studyType": "Master's degree",
-          "startDate": "2021-09-01",
-          "endDate": "2024-01-01",
-          "summary": "Focused on cybersecurity, UI/UX design, and blockchain applications."
-        },
-        {
-          "institution": "National Chengchi University",
-          "area": "Management Information Systems",
-          "studyType": "Bachelor's degree",
-          "startDate": "2016-09-01",
-          "endDate": "2020-06-01",
-          "summary": "Developed web applications, worked with SQL databases, and learned software development methodologies."
-        }
-      ]
-    },
-    {
-      "name": "certificates",
-      "keywords": [
-        {
-          "name": "Cloudflare MSP Specialization",
-          "date": "2024-09-01",
-          "issuer": "Cloudflare",
-          "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/1727275013850/"
-        },
-        {
-          "name": "AWS Security Fundamentals",
-          "date": "2024-10-01",
-          "issuer": "Amazon Web Services",
-          "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/1730001581893/"
-        },
-        {
-          "name": "Quantum Safe Cryptography",
-          "date": "2024-06-01",
-          "issuer": "IBM",
-          "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/177538411/"
-        },
-        {
-          "name": "Oracle Cloud Infrastructure 2024 Certified Foundations Associate",
-          "date": "2024-10-01",
-          "issuer": "Oracle",
-          "url": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=AD6937F350DCF9579A6D78F0047EFEAFBE1DAD6DF36DB1CD4C9FA5CF16F767E"
-        },
-        {
-          "name": "Security Service Edge (SSE) with Concerto",
-          "date": "2024-09-01",
-          "issuer": "Versa Network",
-          "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/17324850859918/"
-        }
-      ]
-    },
-    {
-      "name": "projects",
-      "keywords": [
-        {
-          "name": "Carbon Trade-Tracking Platform",
-          "startDate": "2024-11-01",
-          "endDate": "2024-12-01",
-          "summary": "Designed and implemented a blockchain-based carbon trade-tracking system.",
-          "highlights": [
-            "Developed API security using Cloudflare API Shield.",
-            "Built backend services in Golang and integrated with Heroku.",
-            "Project suspended due to Heroku cost constraints."
-          ]
-        },
-        {
-          "name": "TWSE-CD Instant WAF Rule Deployment",
-          "startDate": "2025-01-01",
-          "summary": "Developed an automation tool for deploying emergency WAF rules using Cloudflare native API and n8n webhooks.",
-          "highlights": [
-            "Implemented real-time rule deployment triggered by security alerts.",
-            "Added multi-signature authentication for approval workflows.",
-            "Integrated monitoring and notification alerts."
-          ]
-        },
-        {
-          "name": "Quantum Circuit Design",
-          "startDate": "2024-08-01",
-          "summary": "Developed quantum computing experiments using OpenQASM and IBM Quantum Lab.",
-          "highlights": [
-            "Built Quantum Decentralized Key-Sending (QDKS) algorithm.",
-            "Utilized Classiq Composer for circuit optimization.",
-            "Explored post-quantum cryptographic security models."
-          ],
-          "url": "https://github.com/dennislee928/QASM"
-        },
-        {
-          "name": "ETH Gateway Demo",
-          "startDate": "2025-01-01",
-          "summary": "Developed a blockchain gateway with ENS domain resolution and token tracking.",
-          "highlights": [
-            "Integrated wallet connection and exchange calculator.",
-            "Built a basic blockchain explorer.",
-            "API integration pending due to missing test tokens."
-          ],
-          "url": "https://eth-gateway-demo.vercel.app/"
-        }
-      ]
     }
   ],
-
+  "education": [
+    {
+      "institution": "National Chengchi University",
+      "area": "Digital Content and Technology",
+      "studyType": "Master's degree",
+      "startDate": "2021-09-01",
+      "endDate": "2024-01-01",
+      "summary": "Focused on cybersecurity, UI/UX design, and blockchain applications."
+    },
+    {
+      "institution": "National Chengchi University",
+      "area": "Management Information Systems",
+      "studyType": "Bachelor's degree",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01",
+      "summary": "Developed web applications, worked with SQL databases, and learned software development methodologies."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Cloudflare MSP Specialization",
+      "date": "2024-09-01",
+      "issuer": "Cloudflare",
+      "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/1727275013850/"
+    },
+    {
+      "name": "AWS Security Fundamentals",
+      "date": "2024-10-01",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/1730001581893/"
+    },
+    {
+      "name": "Quantum Safe Cryptography",
+      "date": "2024-06-01",
+      "issuer": "IBM",
+      "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/177538411/"
+    },
+    {
+      "name": "Oracle Cloud Infrastructure 2024 Certified Foundations Associate",
+      "date": "2024-10-01",
+      "issuer": "Oracle",
+      "url": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=AD6937F350DCF9579A6D78F0047EFEAFBE1DAD6DF36DB1CD4C9FA5CF16F767E"
+    },
+    {
+      "name": "Security Service Edge (SSE) with Concerto",
+      "date": "2024-09-01",
+      "issuer": "Versa Network",
+      "url": "https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/details/certifications/17324850859918/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Carbon Trade-Tracking Platform",
+      "startDate": "2024-11-01",
+      "endDate": "2024-12-01",
+      "summary": "Designed and implemented a blockchain-based carbon trade-tracking system.",
+      "highlights": [
+        "Developed API security using Cloudflare API Shield.",
+        "Built backend services in Golang and integrated with Heroku.",
+        "Project suspended due to Heroku cost constraints."
+      ]
+    },
+    {
+      "name": "TWSE-CD Instant WAF Rule Deployment",
+      "startDate": "2025-01-01",
+      "summary": "Developed an automation tool for deploying emergency WAF rules using Cloudflare native API and n8n webhooks.",
+      "highlights": [
+        "Implemented real-time rule deployment triggered by security alerts.",
+        "Added multi-signature authentication for approval workflows.",
+        "Integrated monitoring and notification alerts."
+      ]
+    },
+    {
+      "name": "Quantum Circuit Design",
+      "startDate": "2024-08-01",
+      "summary": "Developed quantum computing experiments using OpenQASM and IBM Quantum Lab.",
+      "highlights": [
+        "Built Quantum Decentralized Key-Sending (QDKS) algorithm.",
+        "Utilized Classiq Composer for circuit optimization.",
+        "Explored post-quantum cryptographic security models."
+      ],
+      "url": "https://github.com/dennislee928/QASM"
+    },
+    {
+      "name": "ETH Gateway Demo",
+      "startDate": "2025-01-01",
+      "summary": "Developed a blockchain gateway with ENS domain resolution and token tracking.",
+      "highlights": [
+        "Integrated wallet connection and exchange calculator.",
+        "Built a basic blockchain explorer.",
+        "API integration pending due to missing test tokens."
+      ],
+      "url": "https://eth-gateway-demo.vercel.app/"
+    }
+  ],
   "skillsBreakdown": [
     {
       "category": "Security",

@@ -226,6 +226,19 @@ body {
 
 .section {
   animation: fadeIn 0.8s ease-out forwards;
+  background: rgba(40, 44, 52, 0.9);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+}
+/* 🔹 Titles */
+h3 {
+  font-size: 1.8rem;
+  color: black;
+  text-shadow: 0 0 10px #00ffff;
+  border-bottom: 2px solid #00ffff;
+  padding-bottom: 5px;
 }
 
 /* 技能標籤 */
@@ -363,4 +376,92 @@ body {
   background: linear-gradient(90deg, #ff6f61, #ffcb74);
   transition: width 0.5s ease-in-out;
   border-radius: 10px;
+}
+
+/* 🔹 Cyberpunk Hover Effects */
+a:hover,
+button:hover {
+  color: #ff00ff;
+  text-shadow: 0 0 10px #ff00ff;
+}
+
+/* 🔹 Table Row Hover */
+.skills-table-section tr:hover {
+  background-color: rgba(0, 255, 255, 0.2);
+  transition: background 0.3s ease-in-out;
+}
+
+/* 🔹 Neon Button */
+button {
+  background: linear-gradient(90deg, #00ffff, #ff00ff);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px #ff00ff;
+}
+
+.mermaid .node rect {
+  fill: #1a1a2e !important;
+  stroke: #00ffff !important;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 10px #00ffff);
+}
+
+.mermaid .edgePath path {
+  stroke: #ff00ff !important;
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 5px #ff00ff);
+}
+
+.mermaid .label {
+  font-size: 1.2rem !important;
+  font-weight: bold;
+  text-shadow: 0 0 5px #00ffff;
+}
+
+/* 教育背景、證書和專案的樣式 */
+.education-item,
+.certificate-item,
+.project-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+/* 表格樣式 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
 }
