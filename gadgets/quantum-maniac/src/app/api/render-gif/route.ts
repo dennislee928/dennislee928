@@ -6,6 +6,9 @@ import { createCanvas } from "canvas";
 // 添加類型聲明
 declare module "gifencoder";
 
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+
 export async function GET() {
   try {
     const encoder = new GIFEncoder(400, 400);
