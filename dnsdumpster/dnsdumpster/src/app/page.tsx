@@ -2,8 +2,19 @@
 
 import { useEffect, useState } from "react";
 import { Animator, Text as ArwesText, FrameCorners } from "@arwes/react";
-
 import Image from "next/image";
+
+async function fetchDnsData(domain: string) {
+  const response = await fetch(`/api/dnslookup?domain=${domain}`);
+
+  if (!response.ok) {
+    const errorData = await response.text();
+    console.log("Error response:", errorData);
+    throw new Error("Failed to fetch DNS data");
+  }
+
+  return response.json();
+}
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -11,16 +22,7 @@ export default function Home() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(
-          "https://api.dnsdumpster.com/domain/example.com",
-          {
-            headers: {
-              "X-API-Key":
-                "f399a3c03f89b79a948ffe6cb49058876f81c2d0beb25a9d4699baa3afe6399",
-            },
-          }
-        );
-        const result = await response.json();
+        const result = await fetchDnsData("cloudflare.com");
         setData(result);
       } catch (error) {
         console.error("Error fetching data:", error);
@@ -85,8 +87,12 @@ export default function Home() {
           {/* Display fetched data */}
           {data && (
             <FrameCorners className="sci-fi-data-display">
-              <ArwesText as="h2">Fetched Data:</ArwesText>
-              <pre>{JSON.stringify(data, null, 2)}</pre>
+              <ArwesText as="h2" className="text-lg font-bold">
+                Fetched Data:
+              </ArwesText>
+              <pre className="bg-black/[.05] dark:bg-white/[.06] p-4 rounded">
+                {JSON.stringify(data, null, 2)}
+              </pre>
             </FrameCorners>
           )}
         </main>
