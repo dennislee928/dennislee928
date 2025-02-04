@@ -19,7 +19,6 @@ async function fetchDnsData(domain: string) {
 
 export default function Home() {
   const [data, setData] = useState(null);
-  const [active, setActive] = useState(true);
   const [domain, setDomain] = useState("cloudflare.com");
 
   const handleSearch = async () => {
@@ -37,11 +36,12 @@ export default function Home() {
 
   useEffect(() => {
     handleSearch();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
     <div className="min-h-screen bg-[#001010] text-cyan-500 p-8">
-      <Animator active={active}>
+      <Animator active={true}>
         <main>
           {data && (
             <div className="max-w-4xl mx-auto">
