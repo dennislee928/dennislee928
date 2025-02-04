@@ -74,7 +74,7 @@ export default function Home() {
                 }}
               >
                 <Text as="h2" className="text-lg font-bold mb-4">
-                  DNS Data for cloudflare.com:
+                  DNS Data for {domain}:
                 </Text>
                 <pre className="font-mono overflow-auto">
                   {JSON.stringify(data, null, 2)}
