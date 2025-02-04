@@ -36,9 +36,8 @@ export default function Home() {
 
     fetchData();
   }, []);
-
   return (
-    <BleepsProvider>
+    <BleepsProvider bleeps={{}}>
       <div className="min-h-screen bg-white dark:bg-black">
         <Animator>
           <div className="p-8 pb-20 gap-16 sm:p-20">
