@@ -54,7 +54,11 @@
 
 ### 🔨 My Projects
 
--prepared to pubblish
+-
+- carbon-tradingproject:https://www.para-universe-energy-exchange-station.com/
+- web3-interactive project: https://web3.para-universe-energy-exchange-station.com/
+- cf-ai-2-image: https://ai.para-universe-energy-exchange-station.com/
+- 
 
 ---
 
