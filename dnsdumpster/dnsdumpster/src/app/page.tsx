@@ -20,18 +20,23 @@ async function fetchDnsData(domain: string) {
 export default function Home() {
   const [data, setData] = useState(null);
   const [active, setActive] = useState(true);
+  const [domain, setDomain] = useState("cloudflare.com");
+
+  const handleSearch = async () => {
+    if (!domain || !domain.includes(".")) {
+      return;
+    }
+
+    try {
+      const result = await fetchDnsData(domain);
+      setData(result);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
+  };
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const result = await fetchDnsData("cloudflare.com");
-        setData(result);
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      }
-    };
-
-    fetchData();
+    handleSearch();
   }, []);
 
   return (
@@ -43,6 +48,21 @@ export default function Home() {
               <Text as="h1" className="text-2xl font-bold mb-6">
                 DNS Data Explorer
               </Text>
+              <div className="flex justify-center gap-2 mb-6">
+                <input
+                  type="text"
+                  placeholder="Enter a domain"
+                  value={domain}
+                  onChange={(e) => setDomain(e.target.value)}
+                  className="px-4 py-2 bg-[#001818] border border-cyan-900 rounded-md focus:outline-none focus:border-cyan-500"
+                />
+                <button
+                  onClick={handleSearch}
+                  className="px-4 py-2 bg-gray-600 hover:bg-gray-500 text-white rounded-md transition-colors"
+                >
+                  Search
+                </button>
+              </div>
 
               <Animated
                 className="p-6 bg-[#001818] rounded-lg border border-cyan-900"
