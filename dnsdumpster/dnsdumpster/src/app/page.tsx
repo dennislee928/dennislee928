@@ -1,13 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import {
-  Animator,
-  Text as ArwesText,
-  FrameCorners,
-  BleepsProvider,
-} from "@arwes/react";
-//import Image from "next/image";
+import { useState, useEffect } from "react";
 
 async function fetchDnsData(domain: string) {
   const response = await fetch(`/api/dnslookup?domain=${domain}`);
@@ -36,30 +29,21 @@ export default function Home() {
 
     fetchData();
   }, []);
+
   return (
-    <BleepsProvider bleeps={{}}>
-      <div className="min-h-screen bg-white dark:bg-black">
-        <Animator>
-          <div className="p-8 pb-20 gap-16 sm:p-20">
-            <main className="flex flex-col gap-8 items-center sm:items-start">
-              {/* Display fetched data */}
-              {data && (
-                <FrameCorners className="w-full max-w-4xl p-4">
-                  <ArwesText
-                    as="h2"
-                    className="text-lg font-bold mb-4 text-white"
-                  >
-                    DNS Data for cloudflare.com:
-                  </ArwesText>
-                  <pre className="bg-black/[.05] dark:bg-white/[.06] p-4 rounded overflow-auto text-white">
-                    {JSON.stringify(data, null, 2)}
-                  </pre>
-                </FrameCorners>
-              )}
-            </main>
+    <div className="min-h-screen bg-gray-900 text-white p-8">
+      <main>
+        {data && (
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-lg font-bold mb-4">
+              DNS Data for cloudflare.com:
+            </h2>
+            <pre className="bg-gray-800 p-4 rounded overflow-auto">
+              {JSON.stringify(data, null, 2)}
+            </pre>
           </div>
-        </Animator>
-      </div>
-    </BleepsProvider>
+        )}
+      </main>
+    </div>
   );
 }
