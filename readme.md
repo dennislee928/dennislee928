@@ -20,10 +20,14 @@
 > "Debugging is like being the detective in a crime movie where you are also the murderer." - _Me, trying to fix bugs_
 
 ---
-## 🚀 Quantum GitHub Widget
-![Quantum Model](https://dennislee928.github.io/github-quantum-widget/screenshot.gif)
 
-👉 [Click here to interact with the 3D quantum model!](https://dennislee928.github.io/github-quantum-widget/)
+### 🔨 My Projects
+
+
+- carbon-trading-project:https://www.para-universe-energy-exchange-station.com/
+- web3-interactive-project: https://web3.para-universe-energy-exchange-station.com/
+- cf-ai-2-image-project: https://ai.para-universe-energy-exchange-station.com/
+ 
 
 
 ### 💻 About Me
