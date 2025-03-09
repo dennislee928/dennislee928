@@ -48,3 +48,33 @@ Domain 2: Security Operations & Administration	3 (Low)	Fewer mistakes here, most
 ✅ Security Assessment & Testing (Domain 6)
 ✅ Access Controls (Domain 1)
 Then move to Systems & Application Security (Domain 7) before covering Networking & Risk domains.
+
+##
+
+3. Resources for Studying These Topics
+
+📚 Articles & Study Guides
+
+    ISC2 SSCP Study Guide (Official)
+    NIST SP 800-53 Security Controls (Covers many of the missed topics)
+    OWASP Top 10 (for Web Security)
+    SANS Security Awareness Blog
+
+🎥 YouTube Videos & Tutorials
+
+    Disaster Recovery & Business Continuity (BCP/DRP)
+        🔗 BCP & DRP Explained (Mike Meyers)
+    Intrusion Detection Systems (IDS)
+        🔗 IDS vs. IPS Overview
+    Access Controls & Authentication (RBAC, SSO, etc.)
+        🔗 Role-Based Access Control (CyberSecurityTV)
+    Network Security - IPsec & RFC 1918
+        🔗 IPsec Explained (Networking Fundamentals)
+    Software Security & Secure Coding
+        🔗 OWASP Top 10 & Secure Coding
+
+Final Steps
+
+1️⃣ Study the high-priority topics first (Domain 5 & 6).
+2️⃣ Watch the recommended videos & read articles to reinforce concepts.
+3️⃣ Take more practice tests focused on your weak areas.
