@@ -1,25 +1,10 @@
-# Welcome to My Meme-ified Portfolio ❤️❤️❤️❤️❤️❤️❤️❤️
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 ### Hi there, I'm Peichen! 👋
 
 > "Debugging is like being the detective in a crime movie where you are also the murderer." - _Me, trying to fix bugs_
 
 ---
+
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
 ### 🔨 My Projects
 
@@ -69,3 +54,21 @@
 ### 🥳 Want to connect?
 
 - DM me a meme! Let's laugh and talk tech together! 😂✨
+
+
+# Welcome to My Meme-ified Portfolio ❤️❤️❤️❤️❤️❤️❤️❤️
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/neozhu/neozhu/output/github-contribution-grid-snake.svg"
+  />
+</picture>
