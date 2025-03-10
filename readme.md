@@ -6,6 +6,8 @@
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928)](https://github.com/dennislee928/github-readme-stats)
+
 ### 🔨 My Projects
 
 
