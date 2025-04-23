@@ -9,6 +9,7 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 📧 Contact: [pcleegood@gmail.com](mailto:pcleegood@gmail.com)  
 📅 Booking: [SimplyMeet Schedule](https://app.simplymeet.me/dennislee-rootcicd)  
 🐳 DockerHub: [dennisleetw](https://hub.docker.com/u/dennisleetw)
+📅 https://www.autolend.io/users/sign_up?referral=PB8UQH
 
 ---
 
