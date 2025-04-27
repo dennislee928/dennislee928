@@ -10,7 +10,12 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 📅 Booking: [SimplyMeet Schedule](https://app.simplymeet.me/dennislee-rootcicd)  
 🐳 DockerHub: [dennisleetw](https://hub.docker.com/u/dennisleetw)
 📅 https://www.autolend.io/users/sign_up?referral=PB8UQH
+---
 
+
+## 📈 GitHub 活動
+
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 ---
 
 ## 🧩 Key Skills | 技術能力
@@ -55,9 +60,6 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 
 ---
 
-## 📈 GitHub 活動
-
-![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=css,html,HTML&langs_count=32)
