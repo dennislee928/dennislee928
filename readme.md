@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dennis Lee 李培宸
+# 👋 Hi, I'm Dennis Lee 李沛宸
 
 ## 🧠 Career Summary | 職涯簡介
 
