@@ -6,9 +6,10 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 
 具備約五年軟體開發經驗，主力技術為 Golang / Python / Next.js / Nuxt，擅長雲端平台部署、自動化維運與資安導向架構設計。曾協助政府、企業導入 Cloudflare DNS / WAF / 自動化腳本流程，熟悉 CI/CD、IAM、監控、備援與 DevSecOps 實作。
 
-📧 Contact: [dennislee928@proton.me](mailto:dennislee928@proton.me)  
+📧 Contact: [security-admin@dennisleehappy.org](mailto:security-admin@dennisleehappy.org)  
 📅 Booking: [SimplyMeet Schedule](https://app.simplymeet.me/dennislee-rootcicd)  
 🐳 DockerHub: [dennisleetw](https://hub.docker.com/u/dennisleetw)
+---
 📅 https://www.autolend.io/users/sign_up?referral=PB8UQH
 ---
 
