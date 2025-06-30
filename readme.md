@@ -62,11 +62,4 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 ---
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=css,html,HTML&langs_count=32)
-
-
-
----
-
 ### 🧭 Let's build cloud-native, secure, and scalable apps together!
