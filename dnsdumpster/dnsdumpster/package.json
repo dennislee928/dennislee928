@@ -12,7 +12,7 @@
     "@arwes/core": "^1.0.0-next.24051001",
     "@arwes/react": "^1.0.0-next.24111501",
     "http-proxy-middleware": "^3.0.5",
-    "next": "15.2.4",
+    "next": "15.4.5",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
