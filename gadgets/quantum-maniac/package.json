@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/three": "^0.172.0",
+    "@types/three": "^0.179.0",
     "canvas": "^3.1.0",
     "chrome-aws-lambda": "^10.1.0",
     "gifencoder": "^2.0.1",
