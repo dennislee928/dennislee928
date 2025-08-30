@@ -16,7 +16,7 @@
     "gifencoder": "^2.0.1",
     "next": "15.2.3",
     "puppeteer-core": "^10.4.0",
-    "react": "^19.0.0",
+    "react": "^19.1.1",
     "react-dom": "^19.0.0",
     "three": "^0.172.0"
   },
