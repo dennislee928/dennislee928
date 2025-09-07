@@ -17,6 +17,19 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 ## 📈 GitHub 活動
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
+
+## Rank standards - contribution ratio
+### - Stars Earned: ~33.3%
+
+### - Pull Requests (PRs): ~25%
+
+### - Commits: ~16.7%
+
+### - Issues: ~8.3%
+
+###  - Code Reviews: ~8.3%
+
+### - Followers: ~8.3%
 ---
 
 ## 🧩 Key Skills | 技術能力
