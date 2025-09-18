@@ -15,6 +15,20 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 
 
 ## 📈 GitHub 活動
+### Secrect achivement
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET)](https://github.com/dennislee928/github-profile-trophy)
+### Triple S achivement
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SSS)](https://github.com/dennislee928/github-profile-trophy)
+### Double S achivement
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SS)](https://github.com/dennislee928/github-profile-trophy)
+### S achivement
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=S)](https://github.com/dennislee928/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=AAA)](https://github.com/dennislee928/github-profile-trophy)
+### Double A achivement
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=AA)](https://github.com/dennislee928/github-profile-trophy)
+### A achivement
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=A)](https://github.com/dennislee928/github-profile-trophy)
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
