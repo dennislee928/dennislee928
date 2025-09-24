@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@types/three": "^0.179.0",
-    "canvas": "^3.2.0",
+    "canvas": "^3.1.0",
     "chrome-aws-lambda": "^10.1.0",
     "gifencoder": "^2.0.1",
-    "next": "15.5.0",
-    "puppeteer-core": "^22.15.0",
+    "next": "15.5.2",
+    "puppeteer-core": "^22.13.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "three": "^0.179.1"
