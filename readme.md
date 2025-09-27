@@ -32,7 +32,7 @@ Full-stack Developer & Cloud Engineer with ~5 years of software development expe
 
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=UNKNOWN)](https://github.com/dennislee928/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=?)](https://github.com/dennislee928/github-profile-trophy)
 
 ## Rank standards - contribution ratio
 ### - Stars Earned: ~33.3%
