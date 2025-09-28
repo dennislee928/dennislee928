@@ -1,52 +1,50 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
 
+Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
+
+**Expertise:** Golang | Python | Next.js / Nuxt.js | Cloudflare | CI/CD & DevSecOps
+
+---
+
+### **Connect with Me**
+
+| Platform | Link |
+| :--- | :--- |
+| 📧 **Email** | [security-admin@dennisleehappy.org](mailto:security-admin@dennisleehappy.org) |
+| 📅 **Booking** | [Schedule a Meeting](https://app.simplymeet.me/dennislee-rootcicd) |
+| 🐳 **DockerHub** | [dennisleetw](https://hub.docker.com/u/dennisleetw) |
+
+---
+
 ## 🧠 Career Summary | 職涯簡介
 
-Full-stack Developer & Cloud Engineer with ~5 years of software development experience, including 2+ years of backend and DevOps practice. Specialized in **Golang**, **Next.js/Nuxt.js**, **Cloudflare**, and **cloud-native security automation**. Passionate about building scalable systems, automating workflows, and translating complex requirements into actionable, auditable solutions.
+With ~5 years in software development, including 2+ years focused on backend and DevOps, I specialize in translating complex requirements into actionable, auditable solutions.
 
-具備約五年軟體開發經驗，主力技術為 Golang / Python / Next.js / Nuxt，擅長雲端平台部署、自動化維運與資安導向架構設計。曾協助政府、企業導入 Cloudflare DNS / WAF / 自動化腳本流程，熟悉 CI/CD、IAM、監控、備援與 DevSecOps 實作。
+具備約五年軟體開發經驗，擅長雲端平台部署、自動化維運與資安導向架構設計。曾協助政府、企業導入 Cloudflare DNS / WAF / 自動化腳本流程，熟悉 CI/CD、IAM、監控、備援與 DevSecOps 實作。
 
-📧 Contact: [security-admin@dennisleehappy.org](mailto:security-admin@dennisleehappy.org)  
-📅 Booking: [SimplyMeet Schedule](https://app.simplymeet.me/dennislee-rootcicd)  
-🐳 DockerHub: [dennisleetw](https://hub.docker.com/u/dennisleetw)
----
-📅 https://www.autolend.io/users/sign_up?referral=PB8UQH
 ---
 
+## 📈 My GitHub Stats
+<summary>🏆 View My GitHub Trophies & Rank Details</summary>
 
-## 📈 GitHub 活動
-### Secrect achivement
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET)](https://github.com/dennislee928/github-profile-trophy)
-### Triple S achivement
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SSS)](https://github.com/dennislee928/github-profile-trophy)
-### Double S achivement
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SS)](https://github.com/dennislee928/github-profile-trophy)
-### S achivement
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=S)](https://github.com/dennislee928/github-profile-trophy)
+### Overall events
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=AAA)](https://github.com/dennislee928/github-profile-trophy)
-### Double A achivement
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=AA)](https://github.com/dennislee928/github-profile-trophy)
-### A achivement
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=A)](https://github.com/dennislee928/github-profile-trophy)
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+</p>
 
-![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=?)](https://github.com/dennislee928/github-profile-trophy)
+### Rank Standards - Contribution Ratio
+-   **Stars Earned:** ~33.3%
+-   **Pull Requests (PRs):** ~25%
+-   **Commits:** ~16.7%
+-   **Issues:** ~8.3%
+-   **Code Reviews:** ~8.3%
+-   **Followers:** ~8.3%
 
-## Rank standards - contribution ratio
-### - Stars Earned: ~33.3%
-
-### - Pull Requests (PRs): ~25%
-
-### - Commits: ~16.7%
-
-### - Issues: ~8.3%
-
-###  - Code Reviews: ~8.3%
-
-### - Followers: ~8.3%
----
+</details>
 
 ## 🧩 Key Skills | 技術能力
 
