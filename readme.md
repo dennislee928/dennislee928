@@ -32,7 +32,7 @@ With ~5 years in software development, including 2+ years focused on backend and
 
 ### Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
 </p>
 
 
