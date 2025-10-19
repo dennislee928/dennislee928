@@ -1,13 +1,16 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
+![](https://img.shields.io/badge/currently-online-00C853?style=flat-square)
+![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
+![Listening](https://img.shields.io/badge/listening_to-at%20the%20gates-green?style=for-the-badge&logo=spotify)
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices)](https://git.io/typing-svg)
----
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them)](https://git.io/typing-svg)
----
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+codes+that+are)](https://git.io/typing-svg)
 ---
-## - Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
-
+##  Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
+---
 ## 💎 Expertise
 💻 Programming Languages
 <p align="center">
@@ -19,7 +22,7 @@
 </p>
 ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,gin,fastapi,graphql,rabbitmq,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,rabbitmq,nginx" />
 </p>
 ☁️ Cloud & Infrastructure
 <p align="center">
@@ -31,11 +34,11 @@
 </p>
 🔧 DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus" />
 </p>
 🚀 Deployment Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,render,workers" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,workers" />
 </p>
 🖥️ Development Environment
 <p align="center">
