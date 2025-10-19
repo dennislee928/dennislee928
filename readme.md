@@ -9,7 +9,28 @@
 ## - Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
 
 ## - **Expertise:** 
-##  | Golang | Python | Next.js / Nuxt.js | Cloudflare | AWS | GCP | CI/CD & DevSecOps |  containerize |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=next,nuxt,react,express" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,void,trae" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,rabbitmq,terraform" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,render,fly" />
+</p>
+##  | Golang | Python | Next.js | Nuxt.js | Cloudflare | AWS | GCP | CI/CD & DevSecOps |  containerize |
 
 ---
 
