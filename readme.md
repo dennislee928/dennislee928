@@ -42,7 +42,7 @@
 </p>
 🖥️ Development Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,vim,arduino" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,arduino" />
 </p>
 
 ---
