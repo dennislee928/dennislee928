@@ -10,7 +10,12 @@
 
 ## 💎 Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,nodejs,next,nuxt,react,express" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" />
+    <br>
+  <img src="https://skillicons.dev/icons?i=next,nuxt,react,express,gin" />
+   <br>
+  <img src="https://skillicons.dev/icons?i=nginx,rabbitmq,terraform,k8s,docker,buddyci,harness" />
+  <br>
   <br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,render,fly,nginx,rabbitmq,terraform" />
   <br>
