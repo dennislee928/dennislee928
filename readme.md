@@ -1,8 +1,15 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices)](https://git.io/typing-svg)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them)](https://git.io/typing-svg)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+codes+that+are)](https://git.io/typing-svg)
+---
+## - Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
 
-Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
-
-**Expertise:** Golang | Python | Next.js / Nuxt.js | Cloudflare | CI/CD & DevSecOps
+## - **Expertise:** 
+##  | Golang | Python | Next.js / Nuxt.js | Cloudflare | AWS | GCP | CI/CD & DevSecOps |  containerize |
 
 ---
 
