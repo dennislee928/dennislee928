@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,render,fly" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,render,fly" />
 </p>
 ##  | Golang | Python | Next.js | Nuxt.js | Cloudflare | AWS | GCP | CI/CD & DevSecOps |  containerize |
 
