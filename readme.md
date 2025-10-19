@@ -9,19 +9,37 @@
 ## - Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
 
 ## 💎 Expertise
+💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,nodejs" />
-    <br>
-  <img src="https://skillicons.dev/icons?i=next,nuxt,react,express,gin" />
-   <br>
-  <img src="https://skillicons.dev/icons?i=nginx,rabbitmq,terraform,k8s,docker,buddyci,harness" />
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,render,fly,nginx,rabbitmq,terraform" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,cursor,void" />
+  <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,solidity" />
+</p>
+🎨 Frontend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,next,nuxt,vuetify,threejs,tailwind,figma" />
+</p>
+⚙️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,gin,fastapi,graphql,rabbitmq,nginx" />
+</p>
+☁️ Cloud & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,terraform,docker,k8s" />
+</p>
+🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
+</p>
+🔧 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus,figma" />
+</p>
+🚀 Deployment Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,render,workers" />
+</p>
+🖥️ Development Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,vim,arduino" />
 </p>
 
 ---
