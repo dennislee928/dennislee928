@@ -2,16 +2,27 @@
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square)
 ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
 ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
-
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)](https://git.io/typing-svg)
----
+## 🧠 Career Summary | 職涯簡介
 ##  Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
+With ~5 years in software development, including 2+ years focused on backend and DevOps, I specialize in translating complex requirements into actionable, auditable solutions.
+
+具備約五年軟體開發經驗，擅長雲端平台部署、自動化維運與資安導向架構設計。曾協助政府、企業導入 Cloudflare DNS / WAF / 自動化腳本流程，熟悉 CI/CD、IAM、監控、備援與 DevSecOps 實作。
+
 ---
+## 📈 My GitHub Stats
+<summary>🏆 View My GitHub Trophies & Rank Details</summary>
+
+### Overall events
+![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
+
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
+</p>
+
+---
+
 ## 💎 Expertise
 💻 Programming Languages
 <p align="center">
@@ -57,35 +68,6 @@
 | 📅 **Booking** | [Schedule a Meeting](https://app.simplymeet.me/dennislee-rootcicd) |
 | 🐳 **DockerHub** | [dennisleetw](https://hub.docker.com/u/dennisleetw) |
 
----
-
-## 🧠 Career Summary | 職涯簡介
-
-With ~5 years in software development, including 2+ years focused on backend and DevOps, I specialize in translating complex requirements into actionable, auditable solutions.
-
-具備約五年軟體開發經驗，擅長雲端平台部署、自動化維運與資安導向架構設計。曾協助政府、企業導入 Cloudflare DNS / WAF / 自動化腳本流程，熟悉 CI/CD、IAM、監控、備援與 DevSecOps 實作。
-
----
-
-## 📈 My GitHub Stats
-<summary>🏆 View My GitHub Trophies & Rank Details</summary>
-
-### Overall events
-![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
-
-### Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
-</p>
-
-
-### Rank Standards - Contribution Ratio
--   **Stars Earned:** ~33.3%
--   **Pull Requests (PRs):** ~25%
--   **Commits:** ~16.7%
--   **Issues:** ~8.3%
--   **Code Reviews:** ~8.3%
--   **Followers:** ~8.3%
 
 </details>
 
@@ -97,9 +79,15 @@ With ~5 years in software development, including 2+ years focused on backend and
 - 🧰 Infrastructure: Terraform, Docker, Cloud Run, Supabase
 - 🔒 DevSecOps: WAF, DNS redundancy, IAM, audit workflows
 - 🧪 Testing: Postman, BurpSuite (basic), Playwright
-> 🐳 DockerHub: [https://hub.docker.com/u/dennisleetw](https://hub.docker.com/u/dennisleetw)
+- 🐳 DockerHub: [https://hub.docker.com/u/dennisleetw](https://hub.docker.com/u/dennisleetw)
+
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)](https://git.io/typing-svg)
 ## 🛠️ Projects & Demos | 專案與作品
 
 | 名稱 / Title | 說明 / Description | 技術棧 / Stack | 連結 / Link |
