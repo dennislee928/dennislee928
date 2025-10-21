@@ -58,6 +58,13 @@ With ~5 years in software development, including 2+ years focused on backend and
 </p>
 
 ---
+# #crypto exchange refer
+https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU
+https://www.bybit.com/invite?ref=KQKYYYB
+https://okx.com/join/69095600
+https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb
+https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter
+https://bingx.com/invite/X2TH8D/
 ---
 
 ### **Connect with Me**
