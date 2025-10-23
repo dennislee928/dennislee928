@@ -67,10 +67,10 @@ With ~5 years in software development, including 2+ years focused on backend and
 | Exchange | Link |
 |----------|------|
 | <img src="https://crystalpng.com/wp-content/uploads/2025/03/binance-logo.png" height="20" alt="Binance logo"> **Binance** | [Join Binance](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU) |
-| <img src="https://www.bybit.com/favicon.ico" height="20" alt="Bybit logo"> **Bybit** | [Join Bybit](https://www.bybit.com/invite?ref=KQKYYYB) |
+| <img src="https://brandlogo.org/wp-content/uploads/2024/02/Bybit-Logo-300x300.png.webp" height="20" alt="Bybit logo"> **Bybit** | [Join Bybit](https://www.bybit.com/invite?ref=KQKYYYB) |
 | <img src="https://www.okx.com/cdn/okex/users/headimages/predefined/0037.png" height="20" alt="OKX logo"> **OKX** | [Join OKX](https://okx.com/join/69095600) |
-| <img src="https://www.gate.io/images/logo_night.svg" height="20" alt="Gate.io logo"> **Gate.io** | [Join Gate.io](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb) |
-| <img src="https://img.bgstatic.com/multiLang/coin_img/10d0024b93a70ef8562ae11ae5bc1184.png" height="20" alt="Bitget logo"> **Bitget** | [Join Bitget](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter) |
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltcoinsbox.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fgate.io-logo.png&f=1&nofb=1&ipt=6146c2e7c0c238e9a7d6f58d0e7619ee299df314682b27f40fa5017a531e20c2" height="20" alt="Gate.io logo"> **Gate.io** | [Join Gate.io](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb) |
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltcoinsbox.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fbitget-logo.png&f=1&nofb=1&ipt=ba2c7bdacb038171e5d6a3f132c2b6c243dd8301879bc9327a6f0c6959f2adf0" height="20" alt="Bitget logo"> **Bitget** | [Join Bitget](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter) |
 | <img src="https://bin.bb-os.com/_nuxt/img/app-logo.c5e71bf.png" height="20" alt="BingX logo"> **BingX** | [Join BingX](https://bingx.com/invite/X2TH8D/) |
 
 ### Taiwan Based Exchanges
