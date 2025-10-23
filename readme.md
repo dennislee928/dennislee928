@@ -1,3 +1,6 @@
+
+
+
 # 👋 Hi, I'm Dennis Lee 李沛宸
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square)
 ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
@@ -58,18 +61,46 @@ With ~5 years in software development, including 2+ years focused on backend and
 </p>
 
 ---
-## crypto exchange refer
-- [Binance](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU)
-- [Bybit](https://www.bybit.com/invite?ref=KQKYYYB)
-- [OKX](https://okx.com/join/69095600)
-- [Gate.io](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb)
-- [bitget](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)
-- [bingx](https://bingx.com/invite/X2TH8D/)
+## Crypto Exchange Referral Links
 
-  #### Taiwan based exchanges
-- [xrex](https://link.xrex.io/referral/4GiFeoBtfTlOidtl)
-- [max](https://max.maicoin.com/signup?r=1563831b)
-- [bitopro](https://www.bitopro.com/users/sign_up?referrer=5497400002)
+### International Exchanges
+
+| Exchange | Link |
+|----------|------|
+| ![Binance](https://crystalpng.com/wp-content/uploads/2025/03/binance-logo.png) **Binance** | [Join Binance](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU) |
+| ![Bybit](https://www.bybit.com/favicon.ico) **Bybit** | [Join Bybit](https://www.bybit.com/invite?ref=KQKYYYB) |
+| ![OKX](https://www.okx.com/cdn/okex/users/headimages/predefined/0037.png) **OKX** | [Join OKX](https://okx.com/join/69095600) |
+| ![Gate.io](https://www.gate.io/images/logo_night.svg) **Gate.io** | [Join Gate.io](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb) |
+| ![Bitget](https://img.bgstatic.com/multiLang/coin_img/10d0024b93a70ef8562ae11ae5bc1184.png) **Bitget** | [Join Bitget](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter) |
+| ![BingX](https://bin.bb-os.com/_nuxt/img/app-logo.c5e71bf.png) **BingX** | [Join BingX](https://bingx.com/invite/X2TH8D/) |
+
+### Taiwan Based Exchanges
+
+| Exchange | Link |
+|----------|------|
+| ![XREX](https://xrex.io/assets/logos/logo-dark-xrex-emblem.svg) **XREX** | [Join XREX](https://link.xrex.io/referral/4GiFeoBtfTlOidtl) |
+| ![MAX](https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/4a62ec6386364f20defb318df32122229dbd1828cbc4181a95316217b236ab40/f_marketingpicFull/u_9406548835490947d845c82527ef738d06d9ce2dba3558aa7fdb70c5010967d5/img_1566286524085.png) **MAX** | [Join MAX](https://max.maicoin.com/signup?r=1563831b) |
+| ![BitoPro](https://www.bitopro.com/favicon.ico) **BitoPro** | [Join BitoPro](https://www.bitopro.com/users/sign_up?referrer=5497400002) |
+
+---
+
+### Alternative Format (With Icons)
+
+#### International Exchanges
+- [![Binance](https://crystalpng.com/wp-content/uploads/2025/03/binance-logo.png) **Binance**](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU)
+- [![Bybit](https://www.bybit.com/favicon.ico) **Bybit**](https://www.bybit.com/invite?ref=KQKYYYB)
+- [![OKX](https://www.okx.com/cdn/okex/users/headimages/predefined/0037.png) **OKX**](https://okx.com/join/69095600)
+- [![Gate.io](https://www.gate.io/images/logo_night.svg) **Gate.io**](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb)
+- [![Bitget](https://img.bgstatic.com/multiLang/coin_img/10d0024b93a70ef8562ae11ae5bc1184.png) **Bitget**](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)
+- [![BingX](https://bin.bb-os.com/_nuxt/img/app-logo.c5e71bf.png) **BingX**](https://bingx.com/invite/X2TH8D/)
+
+#### Taiwan Based Exchanges
+- [![XREX](https://xrex.io/assets/logos/logo-dark-xrex-emblem.svg) **XREX**](https://link.xrex.io/referral/4GiFeoBtfTlOidtl)
+- [![MAX](https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/4a62ec6386364f20defb318df32122229dbd1828cbc4181a95316217b236ab40/f_marketingpicFull/u_9406548835490947d845c82527ef738d06d9ce2dba3558aa7fdb70c5010967d5/img_1566286524085.png) **MAX**](https://max.maicoin.com/signup?r=1563831b)
+- [![BitoPro](https://www.bitopro.com/favicon.ico) **BitoPro**](https://www.bitopro.com/users/sign_up?referrer=5497400002)
+
+---
+
 
 
 ---
