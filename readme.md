@@ -58,18 +58,18 @@ With ~5 years in software development, including 2+ years focused on backend and
 </p>
 
 ---
-# #crypto exchange refer
-- Binance:https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU
-- Bybit: https://www.bybit.com/invite?ref=KQKYYYB
-- OKX: https://okx.com/join/69095600
-- Gate.io:https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb
-- bitget:https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter
-- bingx:https://bingx.com/invite/X2TH8D/
+## crypto exchange refer
+- [Binance](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU)
+- [Bybit](https://www.bybit.com/invite?ref=KQKYYYB)
+- [OKX](https://okx.com/join/69095600)
+- [Gate.io](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb)
+- [bitget](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)
+- [bingx](https://bingx.com/invite/X2TH8D/)
 
   #### Taiwan based exchanges
-- xrex:https://link.xrex.io/referral/4GiFeoBtfTlOidtl
-- max: https://max.maicoin.com/signup?r=1563831b
-- bitopro:https://www.bitopro.com/users/sign_up?referrer=5497400002
+- [xrex](https://link.xrex.io/referral/4GiFeoBtfTlOidtl)
+- [max](https://max.maicoin.com/signup?r=1563831b)
+- [bitopro](https://www.bitopro.com/users/sign_up?referrer=5497400002)
 
 
 ---
