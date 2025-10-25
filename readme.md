@@ -60,6 +60,9 @@ With ~5 years in software development, including 2+ years focused on backend and
 </p>
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 ## Crypto Exchange Referral Links
 
 ### International Exchanges
