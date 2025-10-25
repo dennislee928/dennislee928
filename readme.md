@@ -16,7 +16,9 @@ With ~5 years in software development, including 2+ years focused on backend and
 
 ### Overall events
 ![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
-![Dennis's GitHub Langeuages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=python,cpython&show_icons=true&theme=radical)
+
+===
 ### Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
@@ -63,10 +65,6 @@ With ~5 years in software development, including 2+ years focused on backend and
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
-## Crypto Exchange Referral Links
-
-### International Exchanges
-
 | Exchange | Link |
 |----------|------|
 | <img src="https://crystalpng.com/wp-content/uploads/2025/03/binance-logo.png" height="20" alt="Binance logo"> **Binance** | [Join Binance](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU) |
@@ -75,16 +73,9 @@ With ~5 years in software development, including 2+ years focused on backend and
 | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltcoinsbox.com%2Fwp-content%2Fuploads%2F2023%2F01%2Fgate.io-logo.png&f=1&nofb=1&ipt=6146c2e7c0c238e9a7d6f58d0e7619ee299df314682b27f40fa5017a531e20c2" height="20" alt="Gate.io logo"> **Gate.io** | [Join Gate.io](https://www.gate.com/signup/VLEWVFOJBG?ref_type=103&utm_cmp=PEYEQdSb) |
 | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faltcoinsbox.com%2Fwp-content%2Fuploads%2F2023%2F04%2Fbitget-logo.png&f=1&nofb=1&ipt=ba2c7bdacb038171e5d6a3f132c2b6c243dd8301879bc9327a6f0c6959f2adf0" height="20" alt="Bitget logo"> **Bitget** | [Join Bitget](https://www.bitget.com/zh-TC/referral/register?clacCode=DS2JKS0Y&from=%2Fzh-TC%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter) |
 | <img src="https://bin.bb-os.com/_nuxt/img/app-logo.c5e71bf.png" height="20" alt="BingX logo"> **BingX** | [Join BingX](https://bingx.com/invite/X2TH8D/) |
-
-### Taiwan Based Exchanges
-
-| Exchange | Link |
-|----------|------|
-| <img src="https://xrex.io/assets/logos/logo-dark-xrex-emblem.svg" height="20" alt="XREX logo"> **XREX** | [Join XREX](https://link.xrex.io/referral/4GiFeoBtfTlOidtl) |
+| <img src="https://xrex.io/assets/logos/logo-dark-xrex-emblem.svg" height="2V0" alt="XREX logo"> **XREX** | [Join XREX](https://link.xrex.io/referral/4GiFeoBtfTlOidtl) |
 | <img src="https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/4a62ec6386364f20defb318df32122229dbd1828cbc4181a95316217b236ab40/f_marketingpicFull/u_9406548835490947d845c82527ef738d06d9ce2dba3558aa7fdb70c5010967d5/img_1566286524085.png" height="20" alt="MAX logo"> **MAX** | [Join MAX](https://max.maicoin.com/signup?r=1563831b) |
 | <img src="https://www.bitopro.com/favicon.ico" height="20" alt="BitoPro logo"> **BitoPro** | [Join BitoPro](https://www.bitopro.com/users/sign_up?referrer=5497400002) |
-
----
 
 ### **Connect with Me**
 
