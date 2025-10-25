@@ -16,7 +16,7 @@ With ~5 years in software development, including 2+ years focused on backend and
 
 ### Overall events
 ![Dennis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical)
-
+![Dennis's GitHub Langeuages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&show_icons=true&theme=radical)
 ### Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
