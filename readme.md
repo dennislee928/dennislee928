@@ -25,7 +25,7 @@ With ~5 years in software development, including 2+ years focused on backend and
 
 ---
 
-## 💎 Skills & Expertise | 技術棧
+## 💎 Skills & Expertise 
 💻 **Programming Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,solidity" />
