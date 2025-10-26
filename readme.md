@@ -18,9 +18,12 @@ With ~5 years in software development, including 2+ years focused on backend and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=python,jupyter%20notebook&show_icons=true&theme=radical" alt="Top Langs" />
 </p>
 <br/>
+
+### "origin is "2025-10-26 -> 503
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
 </p>
+
 
 
 ---
