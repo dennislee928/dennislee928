@@ -387,3 +387,74 @@ Metalab
 
 
 預算：NTD 60,000-70,000 | 機票：NTD 37,100
+
+完美！我已為你創建了**完整的中歐成人產業與成人科技場館指南**：
+
+
+
+***
+
+## 📌 成人場館快速摘要
+
+### 🔴 布拉格 Prague
+
+| 場館類型 | 名稱 | 推薦度 | 特色 |
+|---------|-----|--------|------|
+| **FKK泡泡屋** | Sauna Club Prague | ⭐⭐⭐⭐⭐ | 全裸、30-50女性、CZK 1500入場 |
+| **脫衣舞俱樂部** | Darling Cabaret | ⭐⭐⭐⭐⭐ | 專業舞台、30-40舞者、CZK 800-1200 |
+| **豪華俱樂部** | Goldfingers | ⭐⭐⭐⭐⭐ | VIP包廂、高檔氛圍、CZK 1000 |
+| **特色俱樂部** | AAA Exclusive | ⭐⭐⭐⭐ | BDSM室、Jacuzzi房、CZK 600-1000 |
+| **成人按摩** | CandyShop / Chilli | ⭐⭐⭐⭐ | 感官按摩、BDSM教學、CZK 1500+ |
+
+### 🔵 柏林 Berlin
+
+| 場館類型 | 名稱 | 推薦度 | 特色 |
+|---------|-----|--------|------|
+| **FKK俱樂部** | FKK Artemis | ⭐⭐⭐⭐⭐ | 超大規模、全裸、40-60女性、EUR 80-100 |
+| **BDSM俱樂部** | KitKatClub | ⭐⭐⭐⭐⭐ | **傳奇性正夜店**、Fetish服裝強制、EUR 15-25 |
+| **BDSM專門** | SIN Berlin | ⭐⭐⭐⭐ | 地下室darkroom、尊重同意 |
+| **LGBT+** | Lab.Oratory | ⭐⭐⭐⭐ | LGBT+專門Kink中心 |
+| **FKK SPA** | Vabali Spa | ⭐⭐⭐ | 純FKK裸浴（非性交）、EUR 25-35 |
+
+### 🟣 維也納 Vienna
+
+| 場館類型 | 名稱 | 推薦度 | 特色 |
+|---------|-----|--------|------|
+| **遊走妓院** | Kontakthof | ⭐⭐⭐⭐ | 合法window prostitution、EUR 50-70 |
+| **高級脫衣舞** | Bar Schönbrunn | ⭐⭐⭐⭐⭐ | 美泉宮旁邊、豪華、EUR 25-40 |
+| **Lap Dance俱樂部** | Beverly Hills | ⭐⭐⭐⭐ | 現代風、專業表演、EUR 40-60 |
+| **FKK俱樂部** | Goldentime | ⭐⭐⭐⭐ | 德國式、EUR 80-100 |
+| **Gay桑拿** | Römersauna | ⭐⭐⭐ | LGBT+友善、EUR 14 |
+
+***
+
+## 💡 關鍵重點
+
+✅ **完整覆蓋**：30+場館、FKK、BDSM、脫衣舞、妓院、按摩  
+✅ **安全指南**：年齡驗證、著裝規則、拍照禁止、健康檢查、隱私保護  
+✅ **詳細費用**：三城各場館完整價格表  
+✅ **科技融合**：Web3社群、SX Tech信息、AI應用指南  
+✅ **行程整合**：建議每城何時體驗哪個場館  
+
+
+
+[1](https://www.aaa-club.net/en/)
+[2](https://www.playfulmag.com/post/sex-positive-berlin-saunas-kink-events-and-open-minded-spaces)
+[3](https://www.wikisexguide.com/wiki/Vienna)
+[4](https://www.inyourpocket.com/prague/adult-entertainment)
+[5](https://www.playfulmag.com/post/discover-fkk-culture-in-berlin-the-best-naked-spas)
+[6](https://www.wikisexguide.com/wiki/Vienna/Strip_clubs)
+[7](https://pragueforadults.com/category/adult/)
+[8](https://orhidi.com/en/s/places/de-be/region-berlin/fkk-sauna-clubs)
+[9](https://www.yelp.com/search?cflt=adultentertainment&find_loc=Vienna%2C+Wien)
+[10](https://pragueforadults.com/category/adult/page/12/)
+[11](https://www.wikisexguide.com/wiki/FKK_Clubs)
+[12](https://eroticadvisor.com/en/austria)
+[13](https://en.firmy.cz/Adult-entertainment-businesses/Adult-entertainment-clubs/Adult-entertainment-nightclubs-and-cabarets)
+[14](https://www.oyster.com/articles/germanys-most-x-rated-night-clubs/)
+[15](https://www.goldentime.at/en/club-wien)
+[16](https://www.yelp.com/search?cflt=adultentertainment&find_loc=Prague)
+[17](https://www.yelp.com/search?cflt=adultentertainment&find_near=fkk-artemis-saunaclub-berlin)
+[18](https://eroticadvisor.com/en/austria/vienna/vienna)
+[19](https://www.yelp.com/search?cflt=eroticmassage&find_desc=Strip+Club&find_loc=Prague)
+[20](https://www.yelp.com/search?cflt=adultentertainment&find_near=fkk-artemis-saunaclub-berlin&start=10)
