@@ -1,397 +1,333 @@
-科研設施補充
-布拉格
+# 🌍 中歐科研與文化完全指南
+## 布拉格・柏林・維也納 2025/02/12 - 2025/02/22
 
-Institute of Physics ASCR
+---
 
-📍 Na Slovance 1999/2
-📧 secr@fzu.cz
-🔬 雷射物理、光學研究
-需預約
+## 🔬 科研設施與科技館
 
+### 布拉格
 
-Czech Technical University (ČVUT)
+#### Institute of Physics ASCR
+- 📍 Na Slovance 1999/2
+- 📧 secr@fzu.cz
+- 🔬 領域：雷射物理、光學研究
+- ⏰ 需預約
+
+#### Czech Technical University (ČVUT)
+- 📍 Dejvice campus
+- 🎓 特色：校園參觀、圖書館
+- ⏰ 無需預約
+
+#### iQLANDIA Science Center
+- 📍 Liberec（布拉格北方1小時）
+- 🔬 互動科學館
+- ℹ️ 若有時間可當日來回
 
-📍 Dejvice campus
-🎓 可參觀校園、圖書館
-無需預約
+---
 
+### 柏林
 
-iQLANDIA Science Center
+#### Deutsches Technikmuseum
+- 📍 Trebbiner Str. 9
+- 📖 科技史博物館（飛機、火車、電腦）
+- 💰 EUR 8
+- 🔗 [官網](https://technikmuseum.berlin)
 
-📍 Liberec（布拉格北方1小時）
-🔬 互動科學館
-若有時間可當日來回
+#### Museum für Naturkunde
+- 📍 Invalidenstraße 43
+- 🦕 自然史博物館（恐龍化石）
+- 💰 EUR 8
 
+#### Archenhold Observatory
+- 📍 Alt-Treptow 1
+- 🔭 全球最長望遠鏡（21米）
+- 💰 EUR 6
+- ℹ️ BESSY II 無法預約時的替代方案
 
+---
 
-柏林
+### 維也納
 
-Deutsches Technikmuseum
+#### Technisches Museum Wien
+- 📍 Mariahilfer Str. 212
+- 🔬 技術博物館
+- 💰 EUR 14
+- 🔗 [官網](https://www.technischesmuseum.at)
 
-📍 Trebbiner Str. 9
-🔬 科技史博物館（飛機、火車、電腦）
-💰 EUR 8
-🔗 https://technikmuseum.berlin
+---
 
+## 🎸 重金屬/搖滾音樂場館
 
-Museum für Naturkunde
+### 布拉格
+
+#### Fuchs2 ⭐ 主力推薦
+- 📍 Lyčkovo nám. 508/5
+- 🎵 風格：Metal、Rock、Punk
+- 💰 CZK 150-300
+- 🔗 [官網](https://www.fuchs2.cz) | [查演出](https://www.bandsintown.com)
 
-📍 Invalidenstraße 43
-🦕 自然史博物館（恐龍化石）
-💰 EUR 8
+#### Klub 007 Strahov
+- 📍 Strahov 學生宿舍區
+- 🎵 地下 Punk、Hardcore
+- 💰 CZK 100-200
+- 🎯 週四、週五通常有演出
 
+#### Rock Café
+- 📍 Národní 20
+- 🎵 Rock、Alternative
+- 🔗 [官網](https://www.rockcafe.cz)
 
-Archenhold Observatory
+#### Akropolis Palace
+- 📍 Kubelíkova 27, Žižkov
+- 🎵 實驗、Indie、偶爾 Metal
+- 🔗 [官網](https://palacakropolis.cz)
 
-📍 Alt-Treptow 1
-🔭 全球最長望遠鏡（21米）
-💰 EUR 6
-若BESSY II無法預約的替代方案
+#### MeetFactory
+- 📍 Ke Sklárně 15
+- 🎵 後搖、實驗、Noise
+- 🎨 也是當代藝術中心
+- 🔗 [官網](https://www.meetfactory.cz)
 
+---
 
+### 柏林
 
-維也納補充
+#### SO36 🎸 週一 Punk 聖地
+- 📍 Oranienstraße 190, Kreuzberg
+- 🎵 Punk、Hardcore
+- 💰 EUR 10-20
+- 🎯 週一固定 Punk 場
+- 🔗 [官網](https://www.so36.com)
 
-Technisches Museum Wien
+#### Cassiopeia
+- 📍 RAW-Gelände, Revaler Str. 99
+- 🎵 Punk、Indie、電子
+- 🔗 [官網](https://cassiopeia-berlin.de)
 
-📍 Mariahilfer Str. 212
-🔬 技術博物館
-💰 EUR 14
-🔗 https://www.technischesmuseum.at
+#### Badehaus
+- 📍 Revaler Str. 99
+- 🎵 Metal、Hardcore
+- 🔗 [查 Bandsintown](https://www.bandsintown.com)
 
+#### Musik & Frieden
+- 📍 Falckensteinstraße 48
+- 🎵 Rock、Metal、Indie
+- 🔗 [官網](https://www.musikundfrieden.de)
 
+#### Lido
+- 📍 Cuvrystraße 7
+- 🎵 較大場館，國際巡演
 
+---
 
-🎸 重金屬/搖滾音樂場館
-布拉格
+### 維也納
 
-Fuchs2 🎸 主力推薦
+#### Arena Wien
+- 📍 Baumgasse 80
+- 🎵 搖滾、金屬演唱會
+- 🔗 [官網](https://arena.wien)
 
-📍 Lyčkovo nám. 508/5
-🎵 Metal、Rock、Punk
-🔗 https://www.fuchs2.cz
-💰 CZK 150-300
-查演出：https://www.bandsintown.com
+#### Flex
+- 📍 Donaukanal, Augartenbrücke
+- 🎵 Punk、Indie、電子
+- 🔗 [官網](https://www.flex.at)
 
+#### Szene Wien
+- 📍 Hauffgasse 26
+- 🎵 Metal、Rock
+- 🔗 [官網](https://www.szenewien.com)
 
-Klub 007 Strahov
+---
 
-📍 Strahov學生宿舍區
-🎵 地下Punk、Hardcore
-💰 CZK 100-200
-🎯 週四、週五通常有演出
+## 🎨 藝術場館
 
+### 布拉格
 
-Rock Café
+#### Vnitroblock 畫廊區
+- 📍 Holešovice 區（DOX 附近）
+- 🎨 多個獨立畫廊群
+- 💰 免費參觀
+- 🎯 週四晚上有 Gallery Hopping 活動
 
-📍 Národní 20
-🎵 Rock、Alternative
-🔗 https://www.rockcafe.cz
+#### Kafka Museum
+- 📍 Cihelná 2b
+- 💰 CZK 200
+- ℹ️ 若你喜歡 Kafka 作品
 
+#### National Gallery - Trade Fair Palace
+- 📍 Dukelských hrdinů 47
+- 🎨 19-20 世紀現代藝術
+- 💰 CZK 300
+- 🔗 [官網](https://www.ngprague.cz)
 
-Akropolis Palace
+---
 
-📍 Kubelíkova 27, Žižkov
-🎵 實驗、Indie、偶爾Metal
-🔗 https://palacakropolis.cz
+### 柏林
 
+#### Hamburger Bahnhof
+- 📍 Invalidenstraße 50-51
+- 🎨 當代藝術博物館
+- 💰 EUR 14
+- 🔗 [官網](https://www.smb.museum)
 
-MeetFactory
+#### KW Institute for Contemporary Art
+- 📍 Auguststraße 69
+- 🎨 實驗當代藝術
+- 💰 EUR 10
 
-📍 Ke Sklárně 15
-🎵 後搖、實驗、Noise
-🎨 也是當代藝術中心
-🔗 https://www.meetfactory.cz
+#### Berlinische Galerie
+- 📍 Alte Jakobstraße 124-128
+- 🎨 柏林現代藝術
+- 💰 EUR 10
 
+---
 
+### 維也納
 
-柏林
+#### Leopold Museum
+- 📍 MuseumsQuartier
+- 🎨 Egon Schiele、Gustav Klimt
+- 💰 EUR 14
+- 🔗 [官網](https://www.leopoldmuseum.org)
 
-SO36 🎸 週一Punk聖地
+#### Kunsthistorisches Museum
+- 📍 Maria-Theresien-Platz
+- 🎨 古典藝術大館
+- 💰 EUR 18
 
-📍 Oranienstraße 190, Kreuzberg
-🎵 Punk、Hardcore
-💰 EUR 10-20
-🔗 https://www.so36.com
-🎯 週一固定Punk場
+---
 
+## 🎬 電影相關
 
-Cassiopeia
+### 布拉格
 
-📍 RAW-Gelände, Revaler Str. 99
-🎵 Punk、Indie、電子
-🔗 https://cassiopeia-berlin.de
+#### Febiofest 電影節
+- ⏰ 通常 2 月中旬舉辦
+- 🎯 查看 2025 年檔期，可能碰上！
+- 🔗 [官網](https://www.febiofest.cz)
 
+#### Bio Oko 獨立電影院
+- 📍 Františka Křížka 15
+- 🎬 藝術片、經典重映
+- 🔗 [官網](https://www.biooko.net)
 
-Badehaus
+#### Kino Pilotů
+- 📍 Donská 19
+- 🎬 獨立/實驗電影
+- 🔗 [官網](https://www.kinopilotu.cz)
 
-📍 Revaler Str. 99
-🎵 Metal、Hardcore
-🔗 查Bandsintown
+#### Lucerna Music Bar
+- 🎬 經典電影 + 音樂演出
 
+---
 
-Musik & Frieden
+### 柏林
 
-📍 Falckensteinstraße 48
-🎵 Rock、Metal、Indie
-🔗 https://www.musikundfrieden.de
+#### Berlinale 電影節 ⭐ 強烈推薦
+- ⏰ 2 月中旬（通常 2/13-23）
+- ⚠️ 恰好你在柏林時間！
+- 🎟️ 票券：1 月中開賣，EUR 13-20
+- 🔗 [官網](https://www.berlinale.de)
 
+#### Arsenal 電影院
+- 📍 Potsdamer Str. 2
+- 🎬 藝術電影、影展
+- 🔗 [官網](https://www.arsenal-berlin.de)
 
-Lido
+#### Cinema Paris
+- 📍 Kurfürstendamm 211
+- 🎬 獨立電影
 
-📍 Cuvrystraße 7
-🎵 較大場館，國際巡演
+---
 
+### 維也納
 
+#### Viennale 電影節
+- ⏰ 10 月（已錯過）
 
-維也納
+#### Filmmuseum
+- 📍 Augustinerstraße 1
+- 🎬 經典電影重映
+- 🔗 [官網](https://www.filmmuseum.at)
 
-Arena Wien
+---
 
-📍 Baumgasse 80
-🎵 搖滾、金屬演唱會
-🔗 https://arena.wien
+## 💻 科技/Web3 場館
 
+### 布拉格
 
-Flex
+#### Paralelní Polis
+- ₿ Bitcoin-only 咖啡館
+- 🖨️ 3D 列印 Lab
+- 🔗 [官網](https://paralelnipolis.cz)
+- 🎯 每週三有 Web3 Meetup
 
-📍 Donaukanal, Augartenbrücke
-🎵 Punk、Indie、電子
-🔗 https://www.flex.at
+#### Node5
+- 📍 Radlická 50
+- 💻 Coworking + 科技社群
+- 🎯 有時有 Tech Talks
+- 🔗 [官網](https://node5.cz)
 
+#### Impact Hub Prague
+- 📍 Drtinova 10
+- 💻 社會創新 Hub
+- 🔗 [官網](https://prague.impacthub.net)
 
-Szene Wien
+---
 
-📍 Hauffgasse 26
-🎵 Metal、Rock
-🔗 https://www.szenewien.com
+### 柏林
 
+#### Full Node
+- 🔗 [官網](https://fullnode.berlin)
+- 📧 hello@fullnode.berlin
+- 🎯 週一下午 Open Hours
 
+#### C-Base
+- 🔗 [官網](https://c-base.org)
+- 🎯 週二 Weekly Meeting
 
+#### Chaos Computer Club (CCC)
+- 📍 多個地點
+- 🎯 歐洲最大駭客社群
+- 🔗 [官網](https://www.ccc.de)
 
-🎨 藝術場館補充
-布拉格
+#### Factory Berlin
+- 📍 Rheinsberger Str. 76/77
+- 💻 科技新創園區
+- ⚠️ 需預約或會員
+- 🔗 [官網](https://factoryberlin.com)
 
-Vnitroblock畫廊區
+#### Room 77
+- 📍 Graefestraße 77
+- ₿ 全球第一家接受比特幣的餐廳（2011）
+- 🍔 美式餐廳 + 酒吧
+- 🎯 Web3 歷史朝聖地
 
-📍 Holešovice區（DOX附近）
-🎨 多個獨立畫廊群
-免費參觀
-🎯 週四晚上有gallery hopping活動
+---
 
+### 維也納
 
-Kafka Museum
+#### Metalab
+- 📍 Rathausstraße
 
-📍 Cihelná 2b
-💰 CZK 200
-🎯 若你喜歡Kafka
+---
 
+## 📝 補充資訊
 
-National Gallery - Trade Fair Palace
+### 薛丁格相關景點
+- **主要地點**：Erwin Schrödinger International Institute（ESI），位於 Boltzmanngasse 9
+- **墓地**：薛丁格之墓位於奧地利西部 Alpbach 小鎮（距 Innsbruck 約 1 小時車程）
+- **相關地點**：維也納中央公墓（Zentralfriedhof）有 Boltzmann 墓碑（刻有熵公式），還有 Beethoven、Schubert、Brahms 等音樂家的墓
 
-📍 Dukelských hrdinů 47
-🎨 19-20世紀現代藝術
-💰 CZK 300
-🔗 https://www.ngprague.cz
+---
 
+## 💰 預算概覽
+- **總預算**：NTD 60,000-70,000
+- **機票**：NTD 37,100
 
+---
 
-柏林
-
-Hamburger Bahnhof
-
-📍 Invalidenstraße 50-51
-🎨 當代藝術博物館
-💰 EUR 14
-🔗 https://www.smb.museum
-
-
-KW Institute for Contemporary Art
-
-📍 Auguststraße 69
-🎨 實驗當代藝術
-💰 EUR 10
-
-
-Berlinische Galerie
-
-📍 Alte Jakobstraße 124-128
-🎨 柏林現代藝術
-💰 EUR 10
-
-
-
-維也納
-
-Leopold Museum
-
-📍 MuseumsQuartier
-🎨 Egon Schiele、Gustav Klimt
-💰 EUR 14
-🔗 https://www.leopoldmuseum.org
-
-
-Kunsthistorisches Museum
-
-📍 Maria-Theresien-Platz
-🎨 古典藝術大館
-💰 EUR 18
-
-
-
-
-🎬 電影相關
-布拉格
-
-Febiofest電影節
-
-⏰ 通常2月中旬舉辦
-🔗 https://www.febiofest.cz
-🎯 查看2025年檔期，可能碰上！
-
-
-Bio Oko 獨立電影院
-
-📍 Františka Křížka 15
-🎬 藝術片、經典重映
-🔗 https://www.biooko.net
-
-
-Kino Pilotů
-
-📍 Donská 19
-🎬 獨立/實驗電影
-🔗 https://www.kinopilotu.cz
-
-
-Lucerna Music Bar
-
-也放映經典電影+音樂演出
-
-
-
-柏林
-
-Berlinale電影節
-
-⏰ 2月中旬（通常2/13-23）
-⚠️ 剛好你在柏林時間！
-🔗 https://www.berlinale.de
-🎟️ 票券：1月中開賣，EUR 13-20
-🎯 強烈建議查看場次！
-
-
-Arsenal電影院
-
-📍 Potsdamer Str. 2
-🎬 藝術電影、影展
-🔗 https://www.arsenal-berlin.de
-
-
-Cinema Paris
-
-📍 Kurfürstendamm 211
-🎬 獨立電影
-
-
-
-維也納
-
-Viennale電影節
-
-⏰ 10月（你錯過了）
-
-
-Filmmuseum
-
-📍 Augustinerstraße 1
-🎬 經典電影重映
-🔗 https://www.filmmuseum.at
-
-
-
-
-💻 科技/Web3.0場館
-布拉格
-
-Paralelní Polis (已在行程中)
-
-₿ Bitcoin-only咖啡館
-🖨️ 3D列印lab
-🔗 https://paralelnipolis.cz
-🎯 每週三有Web3 meetup
-
-
-Node5
-
-📍 Radlická 50
-💻 Coworking + 科技社群
-🔗 https://node5.cz
-🎯 有時有tech talks
-
-
-Impact Hub Prague
-
-📍 Drtinova 10
-💻 社會創新hub
-🔗 https://prague.impacthub.net
-
-
-
-柏林
-
-Full Node (已在行程中)
-
-🔗 https://fullnode.berlin
-📧 hello@fullnode.berlin
-🎯 週一下午Open Hours
-
-
-C-Base (已在行程中)
-
-🔗 https://c-base.org
-🎯 週二Weekly Meeting
-
-
-Chaos Computer Club (CCC)
-
-📍 多個地點
-🔗 https://www.ccc.de
-🎯 歐洲最大駭客社群
-
-
-Factory Berlin
-
-📍 Rheinsberger Str. 76/77
-💻 科技新創園區
-🔗 https://factoryberlin.com
-⚠️ 需預約或會員
-
-
-Room 77
-
-📍 Graefestraße 77
-₿ 全球第一家接受比特幣的餐廳（2011）
-🍔 美式餐廳+酒吧
-🎯 Web3歷史朝聖地
-
-
-
-維也納
-
-Metalab
-
-📍 Rathausstraße# 布拉格中歐10日詳細行程表
-2025/02/12 - 2025/02/22
-
-
-
-預算：NTD 60,000-70,000 | 機票：NTD 37,100
-
-完美！我已為你創建了**完整的中歐成人產業與成人科技場館指南**：
-
-
-
+*最後更新：2025年*
 ***
 
 ## 📌 成人場館快速摘要
