@@ -390,10 +390,6 @@
 [14](https://www.oyster.com/articles/germanys-most-x-rated-night-clubs/)
 [15](https://www.goldentime.at/en/club-wien)
 [16](https://www.yelp.com/search?cflt=adultentertainment&find_loc=Prague)
-
-薛丁格的墓地並不在維也納，而是在奧地利西部的Alpbach小鎮 Yshimabu（距離Innsbruck約1小時車程）
-維也納有Erwin Schrödinger International Institute（薛丁格國際數學物理研究所，簡稱ESI），位於Boltzmanngasse 9 EsiWikipedia
-維也納中央公墓（Zentralfriedhof）有Boltzmann的墓（他的墓碑上刻著著名的熵公式），也有Beethoven、Schubert、Brahms等音樂家
 [17](https://www.yelp.com/search?cflt=adultentertainment&find_near=fkk-artemis-saunaclub-berlin)
 [18](https://eroticadvisor.com/en/austria/vienna/vienna)
 [19](https://www.yelp.com/search?cflt=eroticmassage&find_desc=Strip+Club&find_loc=Prague)
