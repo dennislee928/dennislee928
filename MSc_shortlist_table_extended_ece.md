@@ -4,7 +4,7 @@ Stay on top of upcoming MSc applications with prioritized tiers, a month-by-mont
 
 ## Application Checklist
 
-- [ ] Submit Saarland University MSc Data Science & AI application (deadline: **15 Nov 2025**)
+- [ ] (only payment remain) Submit Saarland University MSc Data Science & AI application (deadline: **15 Nov 2025**)
 - [ ] Submit University of Passau MSc Artificial Intelligence Engineering application (deadline: **15 Dec 2025**)
 - [ ] Prepare essays and documents for Tier 1 universities (University of Passau, University of Tartu, CTU, Charles University)
 - [ ] Book IELTS writing retake and update documents for Tier 2 universities (KTH, Lund, TU Delft, University of Amsterdam)
