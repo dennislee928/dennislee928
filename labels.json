@@ -1,0 +1,38 @@
+[
+  {
+    "name": "application",
+    "color": "1f6feb"
+  },
+  {
+    "name": "funding",
+    "color": "0e8a16"
+  },
+  {
+    "name": "lor",
+    "color": "fbca04"
+  },
+  {
+    "name": "docs",
+    "color": "5319e7"
+  },
+  {
+    "name": "visa",
+    "color": "d93f0b"
+  },
+  {
+    "name": "sop",
+    "color": "7057ff"
+  },
+  {
+    "name": "deadline",
+    "color": "cfd3d7"
+  },
+  {
+    "name": "submitted",
+    "color": "0e8a16"
+  },
+  {
+    "name": "decision",
+    "color": "b60205"
+  }
+]

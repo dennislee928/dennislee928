@@ -1,0 +1,95 @@
+name: Program Application Tasklist
+description: Track everything for one MSc application from research to visa.
+title: "[Application] {University} — {Program} ({Country})"
+labels: ["application","todo"]
+assignees: []
+body:
+  - type: input
+    id: program
+    attributes:
+      label: Program
+      description: Exact program name (copy from the table)
+      placeholder: e.g., M.Sc. Data Science & AI
+    validations:
+      required: true
+  - type: input
+    id: university
+    attributes:
+      label: University
+      placeholder: e.g., Saarland University
+    validations:
+      required: true
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      placeholder: e.g., Germany
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline (YYYY-MM-DD)
+      placeholder: 2026-01-15
+    validations:
+      required: false
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Key requirements (incl. English)
+      placeholder: IELTS, GPA, prerequisites, ECTS, portfolio, etc.
+  - type: textarea
+    id: fees
+    attributes:
+      label: Fees & funding
+      placeholder: Tuition, semester fees, app fee, scholarship links
+  - type: checkboxes
+    id: docs
+    attributes:
+      label: Documents checklist
+      options:
+        - label: Passport scan
+        - label: CV (latest)
+        - label: Statement of Purpose (SoP)
+        - label: Transcripts (BSc, MSc) + certified translations (if needed)
+        - label: Diploma(s) / Proof of expected graduation
+        - label: IELTS/TOEFL report (meets minima)
+        - label: Portfolio / GitHub links
+        - label: Two recommendation letters (signed, on letterhead)
+        - label: Financial proof (if requested)
+        - label: Application fee paid
+  - type: checkboxes
+    id: portal
+    attributes:
+      label: Portal steps
+      options:
+        - label: Created account / verified email
+        - label: Entered all personal & education data
+        - label: Uploaded documents (PDFs as requested)
+        - label: Submitted application
+        - label: Received confirmation email & application ID
+  - type: checkboxes
+    id: followups
+    attributes:
+      label: Follow-ups
+      options:
+        - label: Scholarship/waiver application submitted
+        - label: Interview prepared/scheduled (if applicable)
+        - label: Decision received
+        - label: Offer accepted
+        - label: Tuition/seat deposit paid (if required)
+        - label: Visa application started
+        - label: Housing arranged
+        - label: Flights & arrival plan
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / risks / blockers
+      placeholder: Anything special about prerequisites, missing docs, or timing

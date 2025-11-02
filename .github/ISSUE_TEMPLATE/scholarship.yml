@@ -1,0 +1,44 @@
+name: Scholarship / Funding
+description: Research and apply for scholarships or tuition waivers related to one program.
+title: "[Funding] {University} — {Program}"
+labels: ["funding","research"]
+assignees: []
+body:
+  - type: input
+    id: program
+    attributes:
+      label: Program
+      placeholder: e.g., MSc Cyber Security (EIT Digital)
+    validations:
+      required: true
+  - type: input
+    id: university
+    attributes:
+      label: University / Agency
+      placeholder: e.g., EIT Digital / DAAD / VU / UNIC
+  - type: textarea
+    id: opportunities
+    attributes:
+      label: Opportunities list
+      placeholder: Name, link, amount, eligibility, deadline
+  - type: input
+    id: deadline
+    attributes:
+      label: Scholarship deadline (YYYY-MM-DD)
+      placeholder: 2026-02-11
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: Tasklist
+      options:
+        - label: Eligibility confirmed
+        - label: References requested
+        - label: Essays drafted
+        - label: Documents uploaded
+        - label: Application submitted
+        - label: Result received
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Priority, competitiveness, next actions

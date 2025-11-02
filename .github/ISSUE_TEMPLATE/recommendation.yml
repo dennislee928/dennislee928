@@ -1,0 +1,41 @@
+name: Recommendation Letter Request
+description: Prepare and send a complete LOR package to a recommender.
+title: "[LOR] {Recommender Name} for {University} — {Program}"
+labels: ["lor","docs"]
+assignees: []
+body:
+  - type: input
+    id: recommender
+    attributes:
+      label: Recommender full name
+      placeholder: Dr. Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Recommender email
+      placeholder: name@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: package
+    attributes:
+      label: Attached package
+      description: What you sent (CV, transcripts, SoP draft, bullet points of achievements, deadline)
+      placeholder: CV (v2025-11), MSc table, SoP outline, GitHub highlights, deadline 2026-01-15
+  - type: checkboxes
+    id: steps
+    attributes:
+      label: Steps
+      options:
+        - label: Emailed request + materials
+        - label: Recommender accepted
+        - label: Portal invitation sent (if applicable)
+        - label: Letter submitted
+        - label: Thank-you sent
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Any constraints or reminders
