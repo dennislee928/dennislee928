@@ -1,3 +1,38 @@
+🥇 Tier 1: High chance + low cost + early deadline
+
+Apply to these first (Nov 2025–Apr 2026):
+
+University	Program	Deadline	Tuition	Reason to apply early
+University of Passau 🇩🇪	MSc AI Engineering	2025-12-15	Free (small fee)	✅ Good fit, B2 English, very low cost
+University of Tartu 🇪🇪	MSc CS or Software Engineering	2026-03-15	€6,000/yr	✅ Accepts W5.5 IELTS, strong applied CS track
+CTU (Czech Tech) 🇨🇿	MSc Open Informatics	2026-03-30	€5,200/yr	✅ Very likely, good fee, test-based entry
+Charles Univ. 🇨🇿	MSc CS (Software track)	2026-04-30	€7,100/yr	✅ Meets B2, top school in Central Europe
+🥈 Tier 2: Strong fit, writing retake unlocks access
+
+Apply after IELTS retake (Writing ≥6.0+), ideally before Jan 2026:
+
+University	Program	Deadline	IELTS Unlock?	Tuition	Reason to keep ready
+TU Delft 🇳🇱	MSc Computer Science	2026-01-15	🔓 Yes	~€18,000/yr	💡 Top-tier, strong if writing ≥6.5
+KTH 🇸🇪	MSc Machine Learning	2026-01-15	✅ Yes	SEK 180k/yr	🎯 Excellent ML brand + meets IELTS now
+Lund Univ. 🇸🇪	MSc ML / Control	2026-01-15	✅ Yes	SEK 185k/yr	🎯 Systems + control good for DevSecOps
+U. Amsterdam 🇳🇱	MSc Artificial Intelligence	2026-01-31	🔓 Yes	~€17,000/yr	🔒 Blocked until W ≥6.5
+🥉 Tier 3: Affordable, mid-chance, longer timeline
+
+Apply next (Feb–Aug 2026), cheaper + regional backup:
+
+University	Program	Deadline	Tuition	Notes
+AGH Krakow 🇵🇱	MSc CS (Intelligent Systems)	Rolling	€2,650/semester	✅ Budget-friendly, fits profile
+Politehnica Bucharest 🇷🇴	MSc AI / Control Systems	2026-07-31	~€2,400/yr	✅ Low cost, flexible English B2
+ITMO Univ. 🇷🇺	MSc InfoSec	2026-08-19	~€5,700/yr	✅ Good cybersecurity match
+Sofia GATE 🇧🇬	MSc Big Data	~Sep 2026	~€3,500/yr	✅ AI/DS mix, reasonable fee
+Suggested Timeline
+Month	Action
+Nov–Dec	Apply to Passau, prep SoPs for Tartu, CTU, Charles Univ.
+Jan 2026	IELTS Writing retake; submit KTH/Lund/TU Delft/UvA before deadlines
+Feb–Mar	Apply to Tartu + CTU
+Apr–May	Apply to Charles; hold off on back-up programs unless needed
+Jun–Aug	Submit to AGH, ITMO, Sofia GATE, Bucharest if needed
+
 | Program                                                 | University                                              | Country         | Field                                           | Open now?                                                | Key English rule                                        | Fees (tuition)                                                | Next deadline | Profile IELTS OK? | Application link                                                                                                                                                                                                                                                                                                                           |
 | :------------------------------------------------------ | :------------------------------------------------------ | :-------------- | :---------------------------------------------- | :------------------------------------------------------- | :------------------------------------------------------ | :------------------------------------------------------------ | :------------ | :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **University (Country)**                  | **Program (Field/Track)**                                     | **Tuition Fee**                     | **Application Deadline**                        | **Apply Link**                                | **IELTS 7.0 (W5.5) OK?**                                                             |
