@@ -1,12 +1,9 @@
 name: Auto-label issues by title
-
 on:
   issues:
     types: [opened, edited, reopened]
-
 permissions:
   issues: write
-
 jobs:
   label-by-title:
     runs-on: ubuntu-latest
@@ -18,29 +15,13 @@ jobs:
             const title = context.payload.issue.title || "";
             const number = context.payload.issue.number;
             const labelsToAdd = [];
-
-            function ensure(label) {
-              if (!labelsToAdd.includes(label)) labelsToAdd.push(label);
-            }
-
-            if (title.startsWith("[Application]")) {
-              ensure("application");
-              ensure("todo");
-            } else if (title.startsWith("[Funding]")) {
-              ensure("funding");
-              ensure("research");
-            } else if (title.startsWith("[LOR]")) {
-              ensure("lor");
-              ensure("docs");
-            }
-
-            // Optional: add 'deadline' label if the body contains 'Deadline:'
+            function add(label){ if(!labelsToAdd.includes(label)) labelsToAdd.push(label); }
+            if (title.startsWith("[Application]")) { add("application"); add("todo"); }
+            else if (title.startsWith("[Funding]")) { add("funding"); add("research"); }
+            else if (title.startsWith("[LOR]")) { add("lor"); add("docs"); }
             const body = context.payload.issue.body || "";
-            if (/\bdeadline\b/i.test(body)) {
-              ensure("deadline");
-            }
-
-            if (labelsToAdd.length > 0) {
+            if (/\bdeadline\b/i.test(body)) { add("deadline"); }
+            if (labelsToAdd.length) {
               await github.rest.issues.addLabels({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
