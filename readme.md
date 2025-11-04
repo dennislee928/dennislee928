@@ -119,6 +119,9 @@ With ~5 years in software development, including 2+ years focused on backend and
 | <img src="https://xrex.io/assets/logos/logo-dark-xrex-emblem.svg" height="20" alt="XREX logo"> **XREX** | [Join XREX](https://link.xrex.io/referral/4GiFeoBtfTlOidtl) |
 | <img src="https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/4a62ec6386364f20defb318df32122229dbd1828cbc4181a95316217b236ab40/f_marketingpicFull/u_9406548835490947d845c82527ef738d06d9ce2dba3558aa7fdb70c5010967d5/img_1566286524085.png" height="20" alt="MAX logo"> **MAX** | [Join MAX](https://max.maicoin.com/signup?r=1563831b) |
 | <img src="https://www.bitopro.com/favicon.ico" height="20" alt="BitoPro logo"> **BitoPro** | [Join BitoPro](https://www.bitopro.com/users/sign_up?referrer=5497400002) |
+| <img src="https://support.hoyabit.com/wp-content/uploads/2022/09/HOYA-BIT-Logo-1024x1024-2-03-1024x479.png.webp" height="20" alt="HOYA BIT logo"> **HOYA BIT** | [Join HoyaBit](https://hoyabit.com/signup?refCode=Ewn41Gnv) |
+
+
 
 
 
