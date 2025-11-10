@@ -33,30 +33,37 @@ With ~5 years in software development, including 2+ years focused on backend and
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,solidity" />
 </p>
+
 🎨 **Frontend & Frameworks**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,next,nuxt,vuetify,threejs,tailwind,figma" />
 </p>
+
 ⚙️ **Backend & APIs**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,rabbitmq,nginx" />
 </p>
+
 ☁️ **Cloud & Infrastructure**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,terraform,docker,k8s" />
 </p>
+
 🗄️ **Databases & Storage**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
 </p>
+
 🔧 **DevOps & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus" />
 </p>
+
 🚀 **Deployment Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,workers" />
 </p>
+
 🖥️ **Development Environment**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,arduino" />
