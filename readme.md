@@ -69,6 +69,28 @@ With ~5 years in software development, including 2+ years focused on backend and
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,arduino" />
 </p>
 
+⛑️ **SAST**
+
+<p align="center">
+  <a href="https://snyk.io" title="Snyk">
+    <img src="https://snyk.io/favicon.ico" alt="Snyk" height="40">
+  </a>
+
+  <a href="https://www.coderabbit.ai" title="CodeRabbit">
+    <img src="https://www.coderabbit.ai/favicon.ico" alt="CodeRabbit" height="40">
+  </a>
+
+  <a href="https://semgrep.dev" title="Semgrep">
+    <img src="https://semgrep.dev/favicon.ico" alt="Semgrep" height="40">
+  </a>
+ 
+  <a href="https://trunk.io" title="Trunk">
+    <img src="https://avatars.githubusercontent.com/u/110776285?s=200&v=4" alt="Trunk" height="40">
+  </a>
+</p>
+
+
+
 ---
 
 ## 🛠️ Projects & Demos | 專案與作品
