@@ -105,6 +105,10 @@ With ~5 years in software development, including 2+ years focused on backend and
 | **Cloudflare AI 圖像生成測試站** | 利用 Cloudflare Workers 與 JS 建立前後端原型 | Workers, JS, SQLite (D1), TailwindCSS | [GitHub](https://github.com/dennislee928/firmware-research-demo/tree/tsse) / [Demo影片](https://youtu.be/43sSu1Ve55s) |
 | **Bitfinex Funding Bot (WIP)** | Go 實作自動放貸策略，含 YAML 策略模組 | Golang, JSON/YAML, REST API | [GitHub 架構草稿](https://github.com/dennislee928/fundbot-go) |
 
+___
+## Marketplace product ( all free)
+- https://github.com/marketplace/actions/community-pulse-reporter
+  
 ---
 
 ## 📜 Certifications | 技術證照
