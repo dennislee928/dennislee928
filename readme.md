@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square) ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
 
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](ttps://github.com/marketplace/actions/community-pulse-reporter)
 ---
 ## 🧠 Career Summary | 職涯簡介
 Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
