@@ -16,7 +16,7 @@ With ~5 years in software development, including 2+ years focused on backend and
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical" alt="Dennis's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=python,cython,jupyter%20notebook&show_icons=true&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=python,jupyter%20notebook&show_icons=true&theme=radical" alt="Top Langs" />
 </p>
 <br/>
 
