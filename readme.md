@@ -18,24 +18,18 @@ With ~5 years in software development, including 2+ years focused on backend and
 <br/>
 <p align="center">
  
-![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show_icons=true&theme=radical)
+![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut)](https://github.com/dennislee928/github-readme-stats)
+[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut)](https://github.com/dennislee928/github-readme-stats&theme=tokyonight)
 
-![dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928\&rank_icon=percentile&theme=tokyonight)
+
+
 
 </p>
 <br/>
 
-
-<p align="center">
- 
-  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
-  
-</p>
-
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark)](https://github.com/dennislee928/github-profile-trophy)
 
 ---
 
