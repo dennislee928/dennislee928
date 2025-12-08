@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square) ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
 
+
+
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
 ---
 ## 🧠 Career Summary | 職涯簡介
@@ -15,15 +17,23 @@ With ~5 years in software development, including 2+ years focused on backend and
 <summary><strong>📈 View My GitHub Stats & Trophies</strong></summary>
 <br/>
 <p align="center">
- # <img src="https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical" alt="Dennis's GitHub Stats" />
- # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928" alt="Top Langs" />
+ 
+![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut)](https://github.com/dennislee928/github-readme-stats)
+
+![dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 </p>
 <br/>
 
 
 <p align="center">
+ 
   <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
+  
 </p>
+
 
 
 
