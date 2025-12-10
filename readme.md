@@ -29,7 +29,9 @@ With ~5 years in software development, including 2+ years focused on backend and
 </p>
 <br/>
 
+## 3rd party error
 [![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark)](https://github.com/dennislee928/github-profile-trophy)
+
 
 ---
 
