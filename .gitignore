@@ -13,3 +13,6 @@ handy_stuffs/VMware-player-17.6.1-24319023.exe
 handy_stuffs/VMware_Workstation_Player_17.6.1_setup_azo.exe
 handy_stuffs/VoidSetup-x64-1.99.30044.exe
 handy_stuffs/zen.installer.exe
+
+＃ gh scan output
+scripts/gh-scan-output-*
