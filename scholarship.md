@@ -124,3 +124,102 @@ Instagram
 X (formerly Twitter)
 Get the MyUS app
 ©1997-2026 MyUS.com All Rights Reserved | XML Sitemap
+
+___
+1) 先做 60 秒資格對齊（你怎麼證明自己符合）
+
+你需要同時滿足兩件事：
+
+你是就讀於政府認可／具認證之大學、且學業「good standing」。
+
+你目前在海外修課或已被海外／出國交換／國際學生身分的學程錄取，或曾在過去兩學年內有留學／交換經驗。
+
+就你目前狀況，最乾淨的證明路徑是用「已被 University of Glasgow 的 MSc（taught master）錄取」來滿足條件（“have already been accepted into a study abroad program or as an international student”）。
+
+建議你準備的佐證（當作 email 內 “additional relevant information” 附上）
+
+UofG offer letter（最好是 unconditional）
+
+NCCU 在學證明／成績單（可選：good standing 證明）
+
+1 頁 CV（強調跨國協作、開源、國際社群、英文能力與影響力）
+
+2) 評分邏輯：你要「寫給誰看」？
+
+官方明示：評選看你能否把故事扣回題目與主題、以及文章的thoughtfulness。
+而 MyUS 的產業敘事是「跨境連結、打破邊界、全球互通」。
+
+所以你的文章不要寫成一般留學心得，而要寫成：
+
+你要去英國學什麼（Software Development），為什麼這是你在全球市場變強的方式
+
+你如何在跨文化／跨時區／跨制度下，把工程能力轉成可量化的商業價值（例如：安全、合規、風險治理、供應鏈、跨境產品化）
+
+3) 500 字 essay：最穩的「高命中」架構（含建議字數）
+
+題目要求你必須回答四件事：
+(a) 為何選國際學程、(b) 如何提升你的學習（或曾提升）、(c) 如何改變你對其他文化的視角並帶來未來商業成功、(d) 如何讓你在全球就業市場更有競爭力。
+
+我建議用這個 5 段式 500 字模板（你照填就會完整覆蓋）：
+
+Hook（60–80 字）：一個具體場景（跨國協作/資安事件/跨境產品上線）→ 點出「只靠本地經驗不夠」
+
+Why this international program（90–110 字）：為何英國／UofG／MSc Software Dev（連到你要補的缺口：大型系統工程、產品化、國際標準、跨域協作）
+
+How it enhances my studies（90–110 字）：用 2–3 個學習面向寫「方法」而非「形容詞」
+
+例：軟體工程方法論、雲端/DevOps、Secure SDLC、團隊專案、溝通寫作
+
+Perspective shift → business outcomes（90–110 字）：你如何理解不同文化下的需求/風險偏好/合規差異，並轉成產品/安全策略
+
+Employability close（60–80 字）：用一句話收束：你會把這段國際經驗變成什麼可交付成果（portfolio / open source / workshops / product）→ 更能在全球職場競爭
+
+4) 內容選題：用你的背景「對齊 MyUS 的跨境敘事」
+
+你是軟體/資安取向，最容易對齊 MyUS 的角度是：
+
+跨境電商/物流是高度依賴信任與風險控制的產業：資安、詐騙、帳戶盜用、供應鏈攻擊
+
+你去英國讀 MSc 的目的：把工程能力升級成「可在跨境環境落地的安全與可靠性能力」
+
+文化視角：不同國家對隱私、合規、風險容忍度不同（你不用寫法條，寫你如何在產品設計與溝通中處理差異）
+
+5) 投遞作業：信件、附件、格式一次到位
+
+官方要求：email 只能寄到 scholarships@myus.com
+，其他方式會被取消資格；可附上 essay（附件或內文）、單人照片、以及其他有助敘事的資訊。
+截止日：2025/11/30；得主最晚 2025/12/31 前通知。
+
+建議你這樣做（降低被刷掉的行政風險）
+
+主旨：MyUS Global Perspectives Scholarship Submission – [Full Name] – [University]
+
+附件 1：MyUS_GlobalPerspectives_2025_[Name].pdf（500 字 essay，PDF 最穩）
+
+附件 2：[Name]_Photo.jpg（清楚、單人、正面即可）
+
+附件 3（選配但我建議）：OfferLetter_UofG.pdf、Transcript_NCCU.pdf、CV_1page.pdf
+
+內文放：姓名、學校、目前學程、預計出國學程、聯絡方式、附件清單（用 bullet list）
+
+6) 重要風險：Digital Rights（你要怎麼避雷）
+
+MyUS 明示：你提交的 essay 與照片可能被用於行銷素材，且成為 MyUS 財產。
+
+因此建議：
+
+不要貼公司機密／客戶資訊／內部專案代號
+
+不要寫過度可識別的敏感個資（身分證、住址等）
+
+這篇最好不要與其他獎學金 essay 完全共用（至少改到「即使公開也無風險」的版本）
+
+D-21～14：定主軸 + 寫第一版（先不管字數）
+
+D-14～7：剪到 500 字、把 4 個必答點逐句對齊（我上面那四點）
+
+D-7～3：找 1 位英文強的朋友做語氣與邏輯校稿
+
+D-2：準備照片、offer、成績單、CV；整理 email
+
+D-1：寄出（並保留寄件備份與附件版本）
