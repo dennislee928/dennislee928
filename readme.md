@@ -36,7 +36,7 @@ ___
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 
-Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories!
+[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark)](https://github.com/dennislee928/github-profile-trophy)
 
 <table>
   <tr>
@@ -276,6 +276,8 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
         <img width="900" height="1" alt="">
       </td>
   </tr>
+
+
 
  
 ___
