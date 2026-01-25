@@ -36,7 +36,9 @@ ___
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark)](https://github.com/dennislee928/github-profile-trophy)
+[![trophy][(https://github-profile-trophy.vercel.app?username=dennislee928&theme=onedark)](https://github-profile-trophy-liard-delta.vercel.app/?username=dennislee928&theme=onedark)](https://github.com/dennislee928/github-profile-trophy)
+
+[![trophy][(https://github-profile-trophy-liard-delta.vercel.app/?username=dennislee928&theme=onedark)](https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark)
 
 <table>
   <tr>
