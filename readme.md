@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square) ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
 
+
+
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
 ---
 ## 🧠 Career Summary | 職涯簡介
 Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
@@ -14,15 +17,28 @@ With ~5 years in software development, including 2+ years focused on backend and
 <summary><strong>📈 View My GitHub Stats & Trophies</strong></summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennislee928&show_icons=true&theme=radical" alt="Dennis's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennislee928&hide=python,jupyter%20notebook&show_icons=true&theme=radical" alt="Top Langs" />
+ 
+![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut)](https://github.com/dennislee928/github-readme-stats&theme=tokyonight)
+
+![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928\&rank_icon=percentile&theme=tokyonight)
+
+
+
 </p>
 <br/>
 
+___
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dennislee928&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B" alt="GitHub Trophies"/>
-</p>
+
+ 
+___
+## pinned topic
+- 👁‍🗨 security repos : https://github.com/stars/dennislee928/lists/security
+- 🦫 backend(golang) repos : https://github.com/stars/dennislee928/lists/golang
+- 🐱 React/NextJs repos : https://github.com/stars/dennislee928/lists/react-nextjs
+- 👽 Quantum computing repos : https://github.com/stars/dennislee928/lists/quantum-computing
 
 
 
@@ -33,39 +49,65 @@ With ~5 years in software development, including 2+ years focused on backend and
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,solidity" />
 </p>
+
 🎨 **Frontend & Frameworks**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,next,nuxt,vuetify,threejs,tailwind,figma" />
 </p>
+
 ⚙️ **Backend & APIs**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,rabbitmq,nginx" />
 </p>
+
 ☁️ **Cloud & Infrastructure**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,terraform,docker,k8s" />
 </p>
+
 🗄️ **Databases & Storage**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
 </p>
+
 🔧 **DevOps & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus" />
 </p>
+
 🚀 **Deployment Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,workers" />
 </p>
+
 🖥️ **Development Environment**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,arduino" />
 </p>
 
+⛑️ **SAST**
+
+<p align="center">
+  <a href="https://snyk.io" title="Snyk">
+    <img src="https://snyk.io/favicon.ico" alt="Snyk" height="40">
+  </a>
+
+  <a href="https://www.coderabbit.ai" title="CodeRabbit">
+    <img src="https://www.coderabbit.ai/favicon.ico" alt="CodeRabbit" height="40">
+  </a>
+
+  <a href="https://semgrep.dev" title="Semgrep">
+    <img src="https://semgrep.dev/favicon.ico" alt="Semgrep" height="40">
+  </a>
+ 
+  <a href="https://trunk.io" title="Trunk">
+    <img src="https://avatars.githubusercontent.com/u/110776285?s=200&v=4" alt="Trunk" height="40">
+  </a>
+</p>
+
 ---
 
-## 🛠️ Projects & Demos | 專案與作品
-
+## 🛠️ Projects & Demos | 專案與作品.
 | 名稱 / Title | 說明 / Description | 技術棧 / Stack | 連結 / Link |
 |--------------|------------------|----------------|-------------|
 | **碳權交易平台 Carboon** | Golang + Supabase 架構 API，含 Swagger 文件與 JWT RBAC | Golang (Gin), Supabase, Swagger | [Demo Video](https://youtu.be/_iW3o_Lvzs) / [GitHub](https://github.com/dennislee928/carboon-trade-backend) |
@@ -76,6 +118,10 @@ With ~5 years in software development, including 2+ years focused on backend and
 | **Cloudflare AI 圖像生成測試站** | 利用 Cloudflare Workers 與 JS 建立前後端原型 | Workers, JS, SQLite (D1), TailwindCSS | [GitHub](https://github.com/dennislee928/firmware-research-demo/tree/tsse) / [Demo影片](https://youtu.be/43sSu1Ve55s) |
 | **Bitfinex Funding Bot (WIP)** | Go 實作自動放貸策略，含 YAML 策略模組 | Golang, JSON/YAML, REST API | [GitHub 架構草稿](https://github.com/dennislee928/fundbot-go) |
 
+___
+## Marketplace product ( all free)
+- https://github.com/marketplace/actions/community-pulse-reporter
+  
 ---
 
 ## 📜 Certifications | 技術證照
@@ -119,6 +165,9 @@ With ~5 years in software development, including 2+ years focused on backend and
 | <img src="https://xrex.io/assets/logos/logo-dark-xrex-emblem.svg" height="20" alt="XREX logo"> **XREX** | [Join XREX](https://link.xrex.io/referral/4GiFeoBtfTlOidtl) |
 | <img src="https://fc-use1-00-pics-bkt-00.s3.amazonaws.com/4a62ec6386364f20defb318df32122229dbd1828cbc4181a95316217b236ab40/f_marketingpicFull/u_9406548835490947d845c82527ef738d06d9ce2dba3558aa7fdb70c5010967d5/img_1566286524085.png" height="20" alt="MAX logo"> **MAX** | [Join MAX](https://max.maicoin.com/signup?r=1563831b) |
 | <img src="https://www.bitopro.com/favicon.ico" height="20" alt="BitoPro logo"> **BitoPro** | [Join BitoPro](https://www.bitopro.com/users/sign_up?referrer=5497400002) |
+| <img src="https://support.hoyabit.com/wp-content/uploads/2022/09/HOYA-BIT-Logo-1024x1024-2-03-1024x479.png.webp" height="20" alt="HOYA BIT logo"> **HOYA BIT** | [Join HoyaBit](https://hoyabit.com/signup?refCode=Ewn41Gnv) |
+
+
 
 
 
