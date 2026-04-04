@@ -18,6 +18,8 @@ With ~5 years in software development, including 2+ years focused on backend and
 <br/>
 <p align="center">
  
+![Dennis's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=zenburn)
+ 
 ![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut)](https://github.com/dennislee928/github-readme-stats&theme=tokyonight)
