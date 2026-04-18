@@ -28,7 +28,7 @@ With ~5 years in software development, including 2+ years focused on backend and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennislee928&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut)](https://github.com/dennislee928/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut&hide=python)](https://github.com/dennislee928/github-readme-stats&theme=tokyonight)
 
 ![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928\&rank_icon=percentile&theme=tokyonight)
 
