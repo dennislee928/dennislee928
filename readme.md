@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square) ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
 
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices" alt="Typing SVG 1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them" alt="Typing SVG 2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)" alt="Typing SVG 3" />
+
+### 🧭 Let's build cloud-native, secure, and scalable apps together!
+---
 
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
 ---
@@ -175,16 +183,4 @@ ___
 | <img src="https://www.bitopro.com/favicon.ico" height="20" alt="BitoPro logo"> **BitoPro** | [Join BitoPro](https://www.bitopro.com/users/sign_up?referrer=5497400002) |
 | <img src="https://support.hoyabit.com/wp-content/uploads/2022/09/HOYA-BIT-Logo-1024x1024-2-03-1024x479.png.webp" height="20" alt="HOYA BIT logo"> **HOYA BIT** | [Join HoyaBit](https://hoyabit.com/signup?refCode=Ewn41Gnv) |
 
-
-
-
-
-
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices" alt="Typing SVG 1" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them" alt="Typing SVG 2" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)" alt="Typing SVG 3" />
-
-### 🧭 Let's build cloud-native, secure, and scalable apps together!
