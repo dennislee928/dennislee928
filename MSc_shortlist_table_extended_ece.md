@@ -4,7 +4,7 @@ Stay on top of upcoming MSc applications with prioritized tiers, a month-by-mont
 
 ## Application Checklist
 
-- [ ] Submit Saarland University MSc Data Science & AI application (deadline: **15 Nov 2025**)
+- [ ] (only payment remain) Submit Saarland University MSc Data Science & AI application (deadline: **15 Nov 2025**)
 - [ ] Submit University of Passau MSc Artificial Intelligence Engineering application (deadline: **15 Dec 2025**)
 - [ ] Prepare essays and documents for Tier 1 universities (University of Passau, University of Tartu, CTU, Charles University)
 - [ ] Book IELTS writing retake and update documents for Tier 2 universities (KTH, Lund, TU Delft, University of Amsterdam)
@@ -100,6 +100,3 @@ Comprehensive list of potential programs, with IELTS writing 5.5 suitability fla
 
 *Tuition information for EU vs. non-EU applicants may vary by residency status; confirm with the university before applying.
 
-Great, I’ll gather English-taught MSc programs in AI, Computer Science, Cybersecurity, Quantum Computing, and IT-related fields across Northern, Southern, Eastern, and Central Europe (plus the Netherlands), that are open for Fall 2026 or Spring 2027.
-
-I’ll include tuition, deadlines, English proficiency rules, eligibility with your current IELTS (✅) or if a retake is needed (🔓), and application links. Once ready, I’ll append them to the Extended MSc Shortlist table for your review.
