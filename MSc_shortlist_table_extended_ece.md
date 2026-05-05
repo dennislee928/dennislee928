@@ -99,3 +99,4 @@ Comprehensive list of potential programs, with IELTS writing 5.5 suitability fla
 | MSc Computer Systems | Riga Technical University (RTU) | Latvia | Computer Systems / CS | Autumn & Spring intakes | IELTS ≥ 5.5 | €5,590 per year (+ €150 application fee) | TBA | Yes | [Program page](https://international.rtu.lv/programme/computer-systems/) |
 
 *Tuition information for EU vs. non-EU applicants may vary by residency status; confirm with the university before applying.
+
