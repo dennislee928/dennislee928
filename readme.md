@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
-![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square) ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
+[![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
+![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
+![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
 
 ---
 
@@ -7,6 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices" alt="Typing SVG 1" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them" alt="Typing SVG 2" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)" alt="Typing SVG 3" />
+</p>
 
 ### 🧭 Let's build cloud-native, secure, and scalable apps together!
 ---
@@ -29,7 +32,6 @@ With ~5 years in software development, including 2+ years focused on backend and
 ![Dennis's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=zenburn)
  
 ![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
-
 
 
 <p align="left">
