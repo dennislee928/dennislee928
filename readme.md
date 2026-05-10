@@ -96,13 +96,13 @@ ___
 🚀 **Deployment Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,workers" />
+  <img height="40px" width="128px" src="https://wso2.cachefly.net/wso2/sites/all/image_resources/logos/WSO2-Logo-Black.webp" alt="WSO2 logo">
 </p>
+
 
 🖥️ **Development Environment**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,arduino" />
-  
-  <img height="40px" width="128px" src="https://wso2.cachefly.net/wso2/sites/all/image_resources/logos/WSO2-Logo-Black.webp" alt="WSO2 logo">
 </p>
 
 ⛑️ **SAST**
