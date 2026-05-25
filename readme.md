@@ -2,6 +2,8 @@
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
 ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
+[![committers.top badge](https://org-badge.committers.top/taiwan/ORGNAME.svg)](https://org-badge.committers.top/taiwan/quantumworld-dpdns-io)
+[![committers.top badge](https://org-badge.committers.top/taiwan/ORGNAME.svg)](https://org-badge.committers.top/taiwan/Jest-Test-Team)
 
 ---
 
