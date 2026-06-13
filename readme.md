@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Dennis Lee 李沛宸
-[![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
-[![committers.top badge](https://user-badge.committers.top/taiwan_public/USERNAME.svg)](https://user-badge.committers.top/taiwan_public/dennislee928)
-[![committers.top badge](https://user-badge.committers.top/taiwan_private/USERNAME.svg)](https://user-badge.committers.top/taiwan_private/dennislee928)
+
 ![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
 ![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
-[![committers.top badge](https://org-badge.committers.top/taiwan/ORGNAME.svg)](https://org-badge.committers.top/taiwan/quantumworld-dpdns-io)
-[![committers.top badge](https://org-badge.committers.top/taiwan/ORGNAME.svg)](https://org-badge.committers.top/taiwan/Jest-Test-Team)
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
+___
+[![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 
 ---
 
@@ -18,7 +17,7 @@
 ### 🧭 Let's build cloud-native, secure, and scalable apps together!
 ---
 
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
+
 ---
 ## 🧠 Career Summary | 職涯簡介
 Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
