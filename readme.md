@@ -101,6 +101,7 @@ ___
   <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,workers" />
   <img height="40px" width="128px" src="https://wso2.cachefly.net/wso2/sites/all/image_resources/logos/WSO2-Logo-Black.webp" alt="WSO2 logo">
   <img height="60px" width="128px" src="https://abjcloudsolutions.com/wp-content/uploads/2024/10/OCI-img.png" alt="OCI logo">
+  <img height="60px" width="75px"  src="https://containers.back4app.com/favicon.ico" alt="back4app logo">
 </p>
 
 
