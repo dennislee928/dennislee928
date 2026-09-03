@@ -193,3 +193,15 @@ ___
 | <img src="https://support.hoyabit.com/wp-content/uploads/2022/09/HOYA-BIT-Logo-1024x1024-2-03-1024x479.png.webp" height="20" alt="HOYA BIT logo"> **HOYA BIT** | [Join HoyaBit](https://hoyabit.com/signup?refCode=Ewn41Gnv) |
 
 ---
+## Hackthon Devpost Achivements
+
+- verification : https://devpost.com/dennislee928/achievements
+
+ <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/223/datas/aa74b3e2df0a13e6ab87d53ed99a63e4_medium.png" height="60" alt="Devpost"> 
+- Dual Boot - Earned by submitting eligible projects to an in-person and online hackathon, Achieved September 2, 2026
+
+ <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/552/datas/c1387e1971cd2d0e67200d956b460c07_medium_silver.png" height="60" alt="Devpost"> 
+- X Hackathons Level 3 - Earned by submitting separate eligible projects to separate hackathons, Achieved September 2, 2026
+
+ <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/222/datas/2a2cd5de90e8e74016c5e23d387b74e0_medium.png" height="60" alt="Devpost"> 
+-  Influencer Level 1 - Earned by gaining followers , Achieved August 29, 202
