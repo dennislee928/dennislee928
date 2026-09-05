@@ -1,7 +1,7 @@
 # 英國就業評估（重跑）：Pei-Chen (Dennis) Lee × Glasgow MSc Software Development (Conversion)
 
 **評估日：** 2026-09-05（Asia/Taipei）  
-**版本：** 重跑＋使用者補充（學歷／IELTS／求職偏好）  
+**版本：** 重跑＋使用者補充＋工業專案補查（學歷／IELTS／求職偏好／明年入學）  
 **輸入：** GitHub 全庫＋org（繁中稽核）、LinkedIn Experience 10 筆、格大課程／簽證／ASHE、使用者口述  
 **方法：** 不發明未觀測事實；機率為條件區間
 
@@ -15,7 +15,7 @@
 **畢業後 18 個月 Graduate Route 內，取得英國軟體／平台／資安相關全職或可轉簽路徑職位的條件機率估為約 65–80%**（較前版上修，因 IELTS 7.5、完整工作年表、可負擔倫敦、無拒簽史）。  
 若公開帳號維持粗俗顯示名＋成人產業 org 可見，機率仍可能掉到約 **35–50%**。
 
-**工業專案：** 格大本碩 **無保證「工作＋論文」產業 placement**；僅有團隊專案＋60 學分個人專案。詳見 §2。
+**工業專案：** 格大本碩 **無保證「工作＋論文」產業 placement**；主軸是 60 學分個人專案（5018P）。詳見 §2 與 `glasgow-industrial-project-search-zh.md`。
 
 ---
 
@@ -59,23 +59,27 @@
 
 ---
 
-## 2. 格大「工業專案／工作＋論文」？
+## 2. 格大「工業專案／工作＋論文」？（2026-09-05 補查）
 
-**官方高信心結論（再確認）：**
+**一句話：** Conversion MSc **沒有**保證的 work＋thesis／工業年。詳見同資料夾 `glasgow-industrial-project-search-zh.md`。
 
-| 項目 | 事實 |
-|------|------|
-| 團隊專案 | COMPSCI5074（必做） |
-| 個人碩論專案 | COMPSCI5018P（60 學分）——可自提或跟研究組 |
+| 項目 | 事實（官方） |
+|------|--------------|
+| 課程結構 | 兩學期授課 → **substantial independent software project**（[課程頁](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)） |
+| 團隊專案 | 歷史曾列 COMPSCI5074；**2026 core 清單請以官網當屆為準**（有也不等於工業 placement） |
+| 個人專案 | **COMPSCI5018P**（60 學分，2026–27）：100% dissertation；software product 與／或 research；**規格未要求駐點** |
 | 保證產業實習／廠商駐點／三明治年 | **無** |
-| 產業曝光 | 招募說明會；IBM／J.P. Morgan／Amazon／Adobe／Red Hat 等參與授課座談 |
-| 與大學部 SE placement | **不可混為一談** |
-| GLACSIL | 偏研究／博士，非本碩保證名額 |
+| 產業曝光 | 雇主招募說明會——機會非保證名額 |
+| 誰才有 compulsory placement？ | **BSc／MSci Software Engineering**（10 週或 10–12 個月工業年）——[Student placements](https://www.gla.ac.uk/schools/computing/industry/studentplacements/) |
+| 別系對照 | 如 **MSc FinTech** 有競爭式 industry project（**不保證**）——**不是**你的學位 |
+| GLACSIL 等 | 偏研究生態；非本碩保證 |
 
-**實務建議：** 把 5018P 做成「可給贊助雇主看的作品」（安全平台／後端／可觀測 agent），並**另外**自己找暑期／兼職／契約（配合你可接受契約／實習的彈性）。不要期待學校打包「邊上班邊寫論文」的工業方案。
+**對你（明年 2026–27 才入學）：**
+1. 申請動機／規劃**不要**把「工業專案」寫成學校保證福利。  
+2. 入學後把 **5018P** 做成可展示作品；雇主題目需**自己談**＋問 supervisor。  
+3. 課外另找暑期／兼職／契約（配合你可接受契約／實習的彈性）；Graduate Route 仍是主路徑。
 
 學費提醒：國際生路徑約 **£34,470**（另加生活費、簽證 IHS）；開課約 **2026-09-14**。Graduate Route 若 2027-01-01 後申請多半 **18 個月**。
-
 ---
 
 ## 3. 目標職類（更新優先序）
@@ -154,4 +158,7 @@ SOC 2134：標準 going rate **£54,700**；新人約 **£38,300**。你有實�
 | `dennislee928-orgs-deepdive.md` | Org（繁中重跑） |
 | `pei-chen-lee-linkedin.md` | LinkedIn（含 10 筆經歷） |
 | `uk-career-assessment-zh.md` | 本評估 |
+| `glasgow-industrial-project-search-zh.md` | 工業專案／work＋thesis 補查 |
+| `github-hygiene-checklist-zh.md` | GitHub 顯示名／藏 NSFW 清單 |
+| `linkedin-optimize-zh.md` | LinkedIn 優化行動單 |
 | `AGENT_LOOP_uk-career-intel.md` | 可重跑 loop（與技能同步） |

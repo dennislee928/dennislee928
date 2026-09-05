@@ -12,3 +12,6 @@
 
 **分支：** `feat-uk-career-intel`  
 **技能：** UK career intel loop（預設繁中報告）
+- `glasgow-industrial-project-search-zh.md` — 格大工業專案補查
+- `github-hygiene-checklist-zh.md` — GitHub 衛生清單
+- `linkedin-optimize-zh.md` — LinkedIn 優化行動單
