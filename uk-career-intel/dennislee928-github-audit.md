@@ -1,29 +1,31 @@
-# GitHub Skills/Portfolio Audit — `dennislee928`
+# GitHub 個人技能／作品集稽核 — `dennislee928`
 
-**Audit date:** 2026-09-05 (Asia/Taipei, UTC+8)  
-**Source:** GitHub API via user-Github MCP (read-only)  
-**Identity confirmed:** `get_me` → login `dennislee928` (id 55692615)
+**稽核時間：** 2026-09-05 14:31 UTC+08:00 (UTC+8)  
+**資料來源：** user-Github MCP（唯讀）+ 公開 GitHub REST API fallback  
+**身分確認：** `get_me` → login `dennislee928`（id 55692615）  
+**寫入操作：** 無（本稽核完全唯讀）
+
+---
+
+## 執行摘要（Executive summary）
+
+- **Profile：** hireable=true；company `mitake.com.tw`；location Taipei；blog `https://www.dennisleehappy.org/`；bio 自稱 fullstack／cybersecurity／CI-CD／crypto；聯絡 `security-admin@dennisleehappy.org`。
+- **顯示名稱是英國履歷／ATS 篩選的致命風險：** 目前 GitHub `name` = `Dildo Baggins(假屌巴金斯，中土世界第一巨屌)` — 會直接觸發 HR 名稱過濾與專業第一印象崩壞。**投遞前必須改回正式姓名（例如 Pei-Chen Lee / Dennis Lee）。**
+- **規模：** `public_repos=192`（`get_me` 與 `/users/.../repos` 一致）→ **非 fork 139**、**fork 53**。Followers **360**／following **550**。帳號建立於 2019-09-23。
+- **星標訊號集中：** 旗艦 `Ethic-Latex` **53★**；其餘個人庫多半 **3–11★**。非 fork 星標合計 **697**（大量 4–6★ 群聚，訊號偏弱）。
+- **真實深度集中在少數庫：** ERH 研究 monorepo（`Ethic-Latex`）、HITL agent（`erh-guardian-agent`）、Go+Next SaaS（`LiveHouseAAS`）、韌體逆向 demo、polyglot scaffold（`AscendOS`）、獎學金自動化（`Smart_Zone`）。
+- **廣度 ≫ 深度：** 大量 scaffold、GitHub Skills forks、成人產業主題 org 庫、WIP 會稀釋英國 junior–mid 履歷觀感。
+- **Org 足跡：** `quantumworld-dpdns-io`（60）、`Jest-Test-Team`（39）、`cyber-security-dev-dep-mitake-com-tw`（12）、`BabyGrootCICD`（13）。未發現其他新公開 org（`/users/dennislee928/orgs` 回傳空陣列＝公開 membership 未曝光）。
+- **Open PRs：** **31**（BabyGrootCICD 原型爆發、JuliaLang、taipei-doit、Jest PQC、BanklessDAO 等）。
+- **Closed PRs：** search `author:dennislee928 is:closed` **total_count=2171**（含自有庫 churn 與 org 工作；數字不可當「協作貢獻量」直接引用）。
+- **英國定位（SOC 2134 軟體／資安後轉 MSc）：** 主打 **生產型 fullstack（Go/TS）**、**DevSecOps／韌體**、**AI-agent + 可度量安全（ERH）** — 不要用成人主題或玩笑命名當入口。
 
 ---
 
-## Executive summary
+## 身分（get_me）與顯示名稱風險
 
-- **Profile:** Hireable=true; company `mitake.com.tw`; location Taipei; blog `https://www.dennisleehappy.org/`; bio claims fullstack / cybersecurity / CI-CD / crypto; contact `security-admin@dennisleehappy.org`.
-- **Display name is a critical UK screening risk:** GitHub `name` is currently `Dildo Baggins(假屌巴金斯，中土世界第一巨屌)` — will fail automated/HR name filters and damage professional first impressions.
-- **Scale:** `public_repos=192` (API); search `user:dennislee928` = **139 non-fork** + forks bring total toward 192. Followers **360**, following **550**. Created 2019-09-23.
-- **Star signal is thin outside one flagship:** top repo `Ethic-Latex` has **53★**; next personal repos mostly **3–11★**. Sum of stars on non-fork inventory ≈ **697** (many 4–6★ clusters look like low-signal).
-- **Real depth exists** in a small set: ERH research monorepo (`Ethic-Latex`), agent/HITL product (`erh-guardian-agent`), Go+Next SaaS (`LiveHouseAAS`), firmware RE demo, polyglot infra scaffold (`AscendOS`), scholarship automation (`Smart_Zone`).
-- **Breadth ≫ depth overall:** many scaffolds, GitHub Skills forks, adult-industry themed org repos, and abandoned WIP dilute the portfolio for UK junior–mid hiring.
-- **Org footprint:** Active in `quantumworld-dpdns-io` (~60 repos), `Jest-Test-Team` (PRs/commits; org search CAP-blocked), `cyber-security-dev-dep-mitake-com-tw` (12 repos), plus open PRs into `BabyGrootCICD`, `taipei-doit`, `JuliaLang`, etc.
-- **Open PRs:** **31** authored open PRs — themes: CI/product prototypes (`BabyGrootCICD`), security/CI (`taipei-doit`), PQC/nginx (`Jest-Test-Team`), Julia CI robustness, Cloudflare/Bankless, containerization.
-- **Closed PR volume is very high:** search `author:dennislee928 is:closed` total_count **1715** (includes self-repo churn and org work).
-- **UK positioning angle after conversion MSc:** Lead with **production-shaped fullstack (Go/TS)**, **DevSecOps/firmware**, and **AI-agent + measurable-safety (ERH)** — not with adult-themed scaffolds or joke naming.
-
----
-## Identity (get_me)
-
-| Field | Value (API) |
-|-------|-------------|
+| 欄位 | API 值 |
+|------|--------|
 | login | dennislee928 |
 | name | Dildo Baggins(假屌巴金斯，中土世界第一巨屌) |
 | company | mitake.com.tw |
@@ -33,205 +35,256 @@
 | followers / following | 360 / 550 |
 | blog | https://www.dennisleehappy.org/ |
 | bio | NCCU Student; Metal guitar; Full stack / Cybersecurity platform / CI / CD; Crypto lover |
+| profile_url | https://github.com/dennislee928 |
+| created_at | 2019-09-23T10:15:57Z |
+| updated_at | 2026-08-27T14:13:18Z |
+
+**風險評級：CRITICAL（投遞英國職缺前必須處理）**
+- 顯示名稱會出現在 commit author、公開 profile、部分 PR UI。
+- 本次稽核亦在 `Jest-Test-Team/Dastacenter_Builder_Simulator`、`cyber-security-dev-dep-mitake-com-tw/boss-s_dyson_clear` 等 commit 中觀察到同一 vulgar display name 與 `Dennislee:)` 交錯出現。
+- **建議：** 立刻改為正式姓名；歷史 commit 無法全部改寫，但 profile + 新 commit 必須乾淨。
+
+`get_teams` → **null**（此 token 看不到 team membership，或尚未配置）。
 
 ---
 
-## Org memberships & related presence
+## 個人倉庫庫存統計（API）
 
-`get_teams` returned **null** (no team memberships visible to this token, or none configured). Org presence inferred from repo search, commits, and PRs:
+| 指標 | 數值 | 來源 |
+|------|------|------|
+| public_repos | 192 | `get_me` |
+| `/users/dennislee928/repos` 列舉 | 192 | 公開 REST |
+| 非 fork | **139** | 同上 |
+| forks | **53** | 同上 |
+| 非 fork 星標合計 | **697** | 同上 |
+| 非 fork、`pushed_at` ≥ 2026-06-01 | **20** | 同上 |
+| 非 fork、`size` < 50 | **44** | 同上（多為 stub／skills／教學） |
+| Archived（樣本） | 0 | 公開列舉 |
+| Private | 不可見於公開 inventory | — |
 
-| Org / entity | Evidence | Notes |
-|--------------|----------|-------|
-| **quantumworld-dpdns-io** | ~**60** public repos; heavy `author:dennislee928` commits (many initial scaffolds); open PR on `.github` README | Appears founder/primary. Mix of cyber/PQC/space **and** many adult-industry product scaffolds. UK employers may treat adult-themed public branding as screening risk. |
-| **Jest-Test-Team** | **78** authored PRs (search); commits in `redis-lab`, work on `inclusive-ai-trust-gateway`, `Agentic-Defense-Matrix-ADM`, `XDR-OAR-Hybrid-Infrastructure_K8S`, `software-poe`, etc. | Org listing blocked by CAP (conditional access policy). Themes: AI trust gateway, XDR/PQC, Redis lab, agentic defense. |
-| **cyber-security-dev-dep-mitake-com-tw** | **12** repos (chipwhisper lab, ESP32 proxy logger, PBX IVR, BLE presence lock, Security tooling set, etc.) | Aligns with company `mitake.com.tw` — hardware/security adjacent work. |
-| **BabyGrootCICD** | **14+** open PRs titled feat solution prototype on `product_maker` | Org search CAP-blocked; CI/CD product prototyping burst (2026-08-23). |
-| **taipei-doit** | Open PRs: Dashboard security+CI/CD deps; ORB image detection DevSec pipeline | Civic/gov-adjacent OSS contribution signal. |
-| **JuliaLang/julia** | Open PR: SIGINT test robustness; closed PR: compiler invalidation cache | Strong serious OSS signal for UK research/HPC-adjacent roles. |
-| Other PR targets | BanklessDAO (Cloudflare+Cypress), moda-gov-tw, nics-tw, Hexstrike-AI, StreetVoice, bitcoin-model, Tinder docs, etc. | Mix of meaningful security hardening and low-value drive-by PRs. |
+### 主要語言（非 fork，GitHub primary language）
 
-**Checked as requested:**
-- `quantumworld-dpdns-io` — visible, substantial.
-- `Jest-Test-Team` — visible via PRs/commits; repo search CAP-blocked.
-- mitake-related — `cyber-security-dev-dep-mitake-com-tw` visible (12 repos).
+| 語言 | 倉庫數 |
+|------|-------:|
+| （未標）None | 29 |
+| TypeScript | 23 |
+| Python | 20 |
+| Go | 16 |
+| JavaScript | 13 |
+| Vue | 10 |
+| HTML | 5 |
+| Shell | 5 |
+| Makefile / C / Rust | 各 3 |
+| Java | 2 |
+| Julia / Q# / YARA / APL / Dockerfile 等 | 各 1 |
 
----
-## Personal repository inventory (API)
+### Topics 頻率（非 fork，前 20）
 
-- Search `user:dennislee928` (default excludes forks): **total_count 139**
-- Search `user:dennislee928 fork:true`: **total_count 192** (matches `public_repos`)
-- Merged inventory: **192** unique names → **139 non-fork**, **53 forks**
-- **Archived (sample):** 0 in merged non-fork set
-- **Private:** not visible via public search
-- **Languages (non-fork, primary language label):** TypeScript 23, Python 20, Go 16, JavaScript 13, Vue 10, none/unset 29, plus Shell/HTML/Rust/C/Makefile/Julia/Q#/YARA/etc.
-- **Topics (freq):** api, python, react, typescript, vue, nextjs, go, vercel, automation, javascript, github-actions, quantum-computing, rust, cloudflare-pages, portfolio, web3, fintech, nuxt3, cloudflare-workers, mcp, ghidra, reverse-engineering, …
-- **Activity:** ~34 non-fork repos with `updated_at` ≥ 2026-06-01; many others last touched ~2026-03–05 (bulk update pattern).
-- **Tiny repos:** ~44 non-fork with `size < 50` (GitHub size units) — many stubs/skills/tutorials.
-
-### Notable personal repos (API stats)
-
-| Repo | Stars | Lang | Size | Updated | One-line |
-|------|------:|------|-----:|---------|----------|
-| Ethic-Latex | 53 | TypeScript | 31277 | 2026-09-03 | ERH research + security/AI products monorepo |
-| thesis | 11 | Python | — | 2026-05-03 | thesis-related |
-| QASM | 10 | Python | — | 2026-05-03 | quantum |
-| APL_Demo | 9 | APL | — | 2026-03-21 | Cloudflare Spectrum / Axiom APL |
-| Carbon_Trading_For_Individuals | 8 | TypeScript | 35688 | 2026-05-03 | Next/Supabase carbon trading |
-| ETH_GATEWAY_DEMO | 7 | JavaScript | — | 2026-05-03 | React+Web3 DApp demo |
-| CySECurity_Example | 7 | Q# | 8 | 2026-05-05 | Tiny Q# crypto/malware demos |
-| firmware-research-demo | 7 | YARA | 46379 | 2026-05-03 | binwalk/Ghidra/YARA + Docker + web UI |
-| next_js_portfolio | 6 | TypeScript | 24169 | 2026-07-16 | Next 15 portfolio (Sentry, Three.js, i18n) |
-| LiveHouseAAS | 3 | Go | 82254 | 2026-07-28 | Full-stack live-house SaaS |
-| erh-guardian-agent | 0 | Python | 2360 | 2026-09-03 | Strands+Bedrock+CF Workers HITL agent |
-| AscendOS | 4 | Makefile | 40297 | 2026-06-09 | Polyglot microservices + Terraform/k3s scaffold |
-| Smart_Zone | 4 | Makefile | 629107 | 2026-09-04 | Scholarship automation (Py/Rust/Go + Actions) |
-| academy-central | 4 | Shell | 393056 | 2026-08-23 | Learning dump |
-| ai-codereviewer | 5 | TypeScript | 506 | 2026-03-21 | GitHub Action AI review (small) |
-| Pennis-Biometric-… | 4 | TypeScript | 702174 | 2026-05-23 | Next+Go+Supabase — joke naming |
-| Teledildonics-as-a-Service | 4 | Go | 324 | 2026-06-08 | joke/adult naming, tiny |
-| The-Trojan-Horse-Approach | 3 | TypeScript | 148 | 2026-05-23 | Consumer monorepo MVP (small) |
-
----
-
-## Deep-dive sample - stack evidence from files
-
-### 1. Ethic-Latex (53 stars)
-High substance monorepo with Python SDK, Next.js app, Go gateway, tests, Docker.
-
-### 2. erh-guardian-agent (0 stars, 2026-09-03)
-AWS Strands + Bedrock + Cloudflare Workers/D1 MCP + Vite UI; HITL gate; pytest.
-
-### 3. LiveHouseAAS (3 stars)
-Go Gin+pgx+Redis+JWT; Next.js 14; Postgres; Docker; payments; ERC-721; CI. Modest tests; NATS pending.
-
-### 4. firmware-research-demo (7 stars)
-binwalk/Ghidra/YARA, analyzer script, Docker Hub image, Render web UI. Med-High cyber/RE demo.
-
-### 5. AscendOS (4 stars)
-Polyglot Go/Rust/Python/Qwik/Svelte + Terraform/k3s/OTel. Ambitious scaffold; integration incomplete.
-
-### 6. Smart_Zone (4 stars)
-Scholarship automation: Actions + Python/Rust/Go + Telegram/Slack/Discord. Med-High DevOps.
-
-### 7. next_js_portfolio (6 stars)
-Next 15, Sentry, Three.js, next-intl, Vercel. Med FE; missing root README.
-
-### 8. Carbon_Trading_For_Individuals (8 stars)
-Next/TS + Supabase + CI. Med fullstack; climate/fintech angle.
-
-### 9-12. Thinner samples
-ai-codereviewer (5, size 506) Low-Med Action. CySECurity_Example (7, size 8) Low Q#. git_porfolio_scanner (3) Low-Med Go. academy-central (4) Low learning dump.
-
-### 13-15. Hygiene problem repos
-Joke/NSFW-named personal repos (Pennis-Biometric..., Teledildonics-as-a-Service, bloody_mickey, Jason_Adult_Only, etc.) — private/rename before UK apps.
-
-### Cloudflare evidence
-Workers/Pages/D1 topics; CF_Workers/CF_App demos; erh-guardian worker; AscendOS CF Pages Terraform.
+| Topic | 次數 |
+|-------|-----:|
+| api | 25 |
+| python | 15 |
+| react | 13 |
+| go | 12 |
+| typescript | 12 |
+| nextjs | 11 |
+| vue | 11 |
+| vercel | 10 |
+| automation | 9 |
+| github-actions | 8 |
+| javascript | 8 |
+| quantum-computing | 6 |
+| rust | 5 |
+| cloudflare-pages | 5 |
+| portfolio | 3 |
+| fintech | 3 |
+| nuxt3 | 3 |
+| vue3 | 3 |
+| nuxt | 3 |
+| web3 | 3 |
 
 ---
 
-## Skill matrix (evidence-rated)
+## 亮點展示庫（Deep sample）
 
-| Cluster | Strength | Evidence |
-|---------|----------|----------|
-| TypeScript / Next.js fullstack | High | LiveHouse FE, Ethic security app, portfolio, Carbon Trading |
-| Go backends | High | LiveHouseAAS gin/pgx/redis, Ethic AI gateway, AscendOS Go |
-| Python research+APIs | High | Ethic-Latex/erh, erh-guardian, Smart_Zone |
-| Cloudflare Workers/Pages/D1 | Med-High | erh-guardian, CF demos, topics |
-| Vercel / FE deploy | Med-High | portfolio, Ethic Vercel URL |
-| Docker / CI-CD | High | LiveHouse, firmware, AscendOS, Actions, BabyGroot PRs |
-| Security / DevSecOps | Med-High | firmware RE, taipei-doit PRs, Ethic security app, mitake org |
-| AI / Agents / LLM ops | Med-High | erh-guardian Strands/Bedrock, Ethic engine, Jest AI gateway |
-| Data / analytics | Med | ERH pipelines, PBX estimation, LiveHouse analytics |
-| Blockchain / Web3 | Med-Low | ETH gateway, NFT tickets, TWSE-on-chain |
-| Quantum | Low-Med | QASM, Qikit, Q# toy, optional Qiskit |
-| Rust | Low-Med | Smart_Zone search, AscendOS services |
-| Vue / Nuxt | Med (older) | BingX projects, 2024 portfolio |
-| IaC / k8s | Med | AscendOS Terraform/k3s, CF Terraform, Ansible |
-| Hardware / embedded | Med | mitake chipwhisper, ESP32, BLE, PBX IVR |
+### 1. `Ethic-Latex` — 旗艦（53★，TypeScript／polyglot）
+- URL: https://github.com/dennislee928/Ethic-Latex
+- **主題：** Ethical Riemann Hypothesis（ERH）模擬／引擎／安全產品 monorepo
+- **結構證據（`get_file_contents`）：** `erh_engine/`、`erh_core/`、`erh/`、`frontend/`、`services/`、`tests/`、`docker/`、`infra/`、`julia/`、`js-sdk/`、`hackathon/`、`docs/`、`pyproject.toml`、`uv.lock`、大型 `readme.md`（~28KB）
+- **近期活動：** 2026-09 仍有 merged PRs（Bedrock provider、over-refusal scoring、hackathon agents）
+- **UK 引用：** **Safe** — 以「可測試的 AI safety / scoring engine + fullstack 產品面」敘述；避免過度學術吹噓
 
----
+### 2. `erh-guardian-agent` — HITL agent 產品（Python，近期抽出）
+- URL: https://github.com/dennislee928/erh-guardian-agent
+- **結構：** `src/`、`tests/`、`mcp-worker/`、`ui/`、`docs/`、MIT LICENSE、`pyproject.toml`
+- **定位：** values-aligned Strands agent，ERH 評分 + human-in-the-loop gate
+- **UK 引用：** **Safe** — 與 `Ethic-Latex` 成套展示 agent + measurable safety
 
-## Top showcase repos for UK employers (pin order)
+### 3. `LiveHouseAAS` — Go + Next SaaS
+- URL: https://github.com/dennislee928/LiveHouseAAS
+- **結構：** `backend/`、`frontend/`、`docker-compose.dev.yml`、`docker-compose.prod.yml`、`Makefile`、`.github/`、大型 README
+- **UK 引用：** **Safe** — 生產形 fullstack／SaaS 故事
 
-1. Ethic-Latex — research-to-product (AI judgment metrics, FastAPI/Next, Go gateway, SDK).
-2. LiveHouseAAS — clearest production-shaped SaaS (Go API, Postgres, auth, payments, Docker, CI).
-3. erh-guardian-agent — Bedrock/Strands HITL agent + Cloudflare audit trail.
-4. firmware-research-demo — concrete cyber tooling (YARA/binwalk/Docker).
-5. Smart_Zone — automation/CI storytelling.
-6. next_js_portfolio — front door (add README; pin only pro projects).
-7. Carbon_Trading_For_Individuals — optional climate/fintech.
-8. AscendOS — selective IaC/architecture talk; not a finished product claim.
-9. External: JuliaLang/julia + taipei-doit security/CI PRs.
-10. Mitake org chip_whisper_lab / security tools if citable.
+### 4. `firmware-research-demo` — 韌體逆向／YARA（7★）
+- URL: https://github.com/dennislee928/firmware-research-demo
+- **結構：** `binwalk-analysis/`、`ghidra-notes.md`、`yara-rules/`、`Dockerfile`、`docker-compose.yml`、`webapp/`、分析腳本
+- **UK 引用：** **Safe** — DevSecOps／firmware／RE 興趣證明（標明 demo）
 
----
+### 5. 其他可釘選
+| Repo | ★ | Lang | 一句話 | 釘選？ |
+|------|--:|------|--------|--------|
+| `Smart_Zone` | 4 | Makefile | GitHub Actions 獎學金提醒／Telegram | 建議 pin（自動化） |
+| `AscendOS` | 4 | Makefile | 多階段 self-improvement 平台 scaffold | 可選 |
+| `Carbon_Trading_For_Individuals` | 8 | TypeScript | 碳交易個人平台（Next/Supabase） | 可選（需確認完成度） |
+| `next_js_portfolio` | 6 | TypeScript | portfolio 網站 | 建議整理後 pin |
+| `ETH_GATEWAY_DEMO` | 7 | JavaScript | React+Web3 DApp demo | Cite carefully（crypto） |
+| `Claude_Devboard_Pet` | 0 | C | 硬體／嵌入式實驗 | 可選 |
+| `academy-central` | 4 | Shell | 學習筆記彙整 | 不 pin |
 
-## Open PR status (brief)
+### 星標前 15（非 fork）
 
-- Open authored PRs: **31**.
-- Themes: BabyGrootCICD product_maker solution prototypes; taipei-doit security/CI; Jest-Test-Team PQC nginx; JuliaLang SIGINT test robustness; BanklessDAO Cloudflare+Cypress; quantumworld .github README WIP; moda-gov-tw Snyk; Hexstrike containers.
-- Closed authored PRs: **1715** total_count — high throughput; many self-merges titled Dev (noise).
-- Jest-Test-Team authored PRs (search): **78**.
+| Repo | ★ | Lang | Size | Pushed | 說明 |
+|------|--:|------|-----:|--------|------|
+| Ethic-Latex | 53 | TypeScript | 31277 | 2026-09-05 | Simulations of the Ethical Riemann Hypothesis (ERH), which states that in a "healthy" mora |
+| thesis | 11 | Python | 107238 | 2026-05-03 |  |
+| QASM | 10 | Python | 96 | 2026-05-03 | For IBM QASM Demo. |
+| APL_Demo | 9 | APL | 10 | 2025-03-07 | 這個專案包含用於分析 Cloudflare Spectrum 流量的 Axiom APL (Axiom 查詢語言) 檔案。 |
+| Qikit-practice | 9 | Python | 95450 | 2024-09-23 | Qikit-practice(qubit) |
+| Carbon_Trading_For_Individuals | 8 | TypeScript | 35688 | 2026-05-03 | This project provides a carbon offset trading platform targeting individual users in Taiwa |
+| CySECurity_Example | 7 | Q# | 8 | 2026-05-05 |  |
+| ETH_GATEWAY_DEMO | 7 | JavaScript | 545 | 2026-07-28 | 一個基於 React 和 Web3.js 的以太坊 DApp 示範專案，提供多種區塊鏈互動功能。. |
+| firmware-research-demo | 7 | YARA | 46379 | 2026-05-03 | 🧩 binwalk hexdump 進行韌體解包 🧠 Ghidra 進行靜態字串和模式分析 🧪 使用 YARA 進行規則檢測 🐳 Docker 容器化與自動化分析流程. |
+| npm_packages | 7 | JavaScript | 102018 | 2024-10-27 |  |
+| -V1 | 6 | Java | 2 | 2020-04-06 | TEST V1 |
+| 104_open_api | 6 | TypeScript | 412 | 2026-05-03 |  |
+| 1st_mac_app | 6 | TypeScript | 302192 | 2026-05-03 |  |
+| 2024_portfolio | 6 | Vue | 15026 | 2026-05-03 |  |
+| BTC_Rise_Calling | 6 | Vue | 14763 | 2026-05-03 |  |
 
----
+### 2026-06 以降活躍非 fork（前 20，依 pushed_at）
 
-## Red flags / cleanup recommendations
-
-### Critical (before UK applications)
-1. Change GitHub profile display name from joke/vulgar to professional (e.g. Dennis Lee).
-2. Rename or private joke/NSFW-named repos; review quantumworld public NSFW-industry branding (or separate account for UK job hunt).
-3. Pin only ~6 professional repos; unpin skills forks and joke projects.
-
-### High
-4. Archive/private: skills-* clones, empty demos, academy-central dump, tiny Q# toy if pinned.
-5. Deduplicate skill demos (BingX/Nuxt, portfolios, CF demos) — one canonical per skill.
-6. Add root README to next_js_portfolio; live URLs + diagrams on top 5.
-7. Prefer merged meaningful OSS PRs on CV; do not lead with unmerged drive-bys.
-
-### Medium
-8. Many quantumworld commits are initial scaffolds — deepen 2-3 non-NSFW security repos or stop citing org wholesale.
-9. Do not claim popularity from 4-6 star clusters — claim substance.
-10. Polish English on public descriptions left visible.
-
----
-
-## Gaps vs UK junior-mid software roles (SOC 2134)
-
-| Expectation | Status | Action |
-|-------------|--------|--------|
-| Clean professional GitHub identity | Fail | Fix display name + joke/NSFW repos |
-| 2-4 production projects with tests/deploy | Partial | LiveHouse+Ethic+guardian strong; add coverage badges |
-| Clear primary stack | Partial | Too polyglot; pick Go+TS as home stack |
-| Collaborative OSS | Emerging | Julia + taipei-doit good; avoid Dev-only PR spam |
-| AWS/GCP/Azure depth | Uneven | Bedrock present; add one cloud deploy beyond CF/Vercel |
-| Testing culture | Uneven | Strong on flagships; missing on demos |
-| Observability / prod proof | Scaffold-heavy | AscendOS OTel needs real run evidence |
-| Concise EN READMEs | Gap | Standardize top pins |
-| Avoid controversial brand | Gap | NSFW-industry themes risky for UK corporates/banks |
-| MSc conversion coherence | Opportunity | Tie Ethic/ERH + cyber to coursework/dissertation |
-
-Bottom line: Present as Taipei-based conversion candidate with strong Go/TS fullstack + DevSecOps/agent-safety, after hygiene pass. Lead with 4-6 curated artifacts + 1-2 external PRs — not volume (192 repos / 1715 closed PRs).
+| Repo | ★ | Lang | Size | Pushed | 說明 |
+|------|--:|------|-----:|--------|------|
+| dennislee928 | 6 | HTML | 1557 | 2026-09-05 | Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automa |
+| Ethic-Latex | 53 | TypeScript | 31277 | 2026-09-05 | Simulations of the Ethical Riemann Hypothesis (ERH), which states that in a "healthy" mora |
+| Smart_Zone | 4 | Makefile | 629107 | 2026-09-04 | This repository automates scholarship reminder pushes (lunch, evening, weekend) via GitHub |
+| erh-guardian-agent | 0 | Python | 2360 | 2026-09-03 | A values-aligned Strands agent whose every consequential action is ERH-scored, with a huma |
+| Claude_Devboard_Pet | 0 | C | 383 | 2026-08-26 |  |
+| academy-central | 4 | Shell | 393056 | 2026-08-23 | sth I've learn. |
+| pbx_estimation | 5 | HTML | 44523 | 2026-08-05 | PBX Market Estimation & VoIP Trend Forecasting |
+| rapid_saas | 4 | HTML | 31030 | 2026-08-04 |  |
+| NVIDIA_DLI_KPI_Accelerator | 4 | JavaScript | 24 | 2026-07-29 | 擴充功能（Manifest V3），用於在 NVIDIA DLI 課程頁面自動掃描未完成節點並透過 API 完成標記。專為資安／API 交互測試情境設計，預設於課程內頁注入腳本並搭 |
+| ETH_GATEWAY_DEMO | 7 | JavaScript | 545 | 2026-07-28 | 一個基於 React 和 Web3.js 的以太坊 DApp 示範專案，提供多種區塊鏈互動功能。. |
+| LiveHouseAAS | 3 | Go | 82254 | 2026-07-28 | A full-stack SaaS platform for Taiwanese Live House venues and independent musicians. Buil |
+| architec-julia | 0 | Julia | 470 | 2026-07-19 |  |
+| Julia-Core---Compile-architect-guideline | 0 | — | 0 | 2026-07-17 |  |
+| next_js_portfolio | 6 | TypeScript | 24169 | 2026-07-16 | my portfolio website. |
+| AscendOS | 4 | Makefile | 40297 | 2026-07-03 | This repository contains a multi-phase implementation of the AscendOS self-improvement pla |
+| skills-publish-packages | 5 | HTML | 63 | 2026-07-01 | Use GitHub Actions to publish your project to a Docker image. |
+| skills-hello-github-actions | 5 | — | 54 | 2026-07-01 | Create and run a GitHub Actions workflow. |
+| github_ci_action_program | 6 | — | 114 | 2026-07-01 | Create workflows that enable you to use Continuous Integration (CI) for your projects. |
+| skills-test-with-actions | 5 | — | 43 | 2026-07-01 | Create workflows that enable you to use Continuous Integration (CI) for your projects. |
+| skills-write-javascript-actions | 5 | — | 39 | 2026-07-01 | Write your own GitHub JavaScript Action and automate customized tasks unique to your workf |
 
 ---
 
-## Method notes / limits
+## 技能矩陣（High / Med / Low）
 
-- Stats from GitHub search/API on 2026-09-05 (Asia/Taipei).
-- get_teams returned null; Jest-Test-Team / BabyGrootCICD org repo search CAP-blocked — inferred from PRs/commits.
-- Private repos not audited.
-- File peeks via get_file_contents on selected roots/READMEs/manifests; not full code review.
-- No writes / no posts to GitHub.
+依據**可驗證的公開倉庫結構與近期 commit／PR**，非自我宣稱。
+
+| 技能域 | 等級 | 證據（公開） |
+|--------|------|--------------|
+| TypeScript / Next.js / Vue 前端 | **High** | 大量 TS/Vue 庫；`LiveHouseAAS` frontend、portfolio、多個 API demo |
+| Python（研究／agent／自動化） | **High** | `Ethic-Latex` erh_engine、`erh-guardian-agent`、thesis／Qiskit 相關 |
+| Go 後端／服務 | **High** | `LiveHouseAAS` backend；org 端 ZK-XDR、ADM、product_maker |
+| CI/CD · GitHub Actions | **High** | 多庫 `.github/`；Skills 系列；`Smart_Zone`；BabyGrootCICD 原型 |
+| Docker / Compose | **High** | LiveHouse、firmware demo、多 org monorepo |
+| AI agent / MCP / HITL | **High** | erh-guardian（mcp-worker）、Datacenter WebMCP（Jest）、Claude co-author 常見 |
+| 資安／DevSecOps（應用層） | **Med–High** | firmware RE、taipei-doit security PRs、mitake 硬體資安庫、PQC nginx PR |
+| Cloudflare / Workers / Pages | **Med** | Cloudflare labs、portfolio／Pages 部署痕跡 |
+| Rust | **Med** | 少量個人 Rust；org 端 proof-of-contact／ESP32 |
+| 量子／Qiskit／Q# | **Med–Low** | QASM、Qikit-practice、CySECurity_Example（多為練習規模） |
+| Julia | **Low–Med** | 個人 Julia 實驗 + JuliaLang 開源 PR（SIGINT test） |
+| K8s / 企業 XDR 營運 | **Med（宣稱高於證據）** | Jest `XDR-OAR-…` 等有架構敘事；需面試驗證實際運維深度 |
+| 成人產業垂直產品 | **存在但 UK 應隱藏** | quantumworld / BabyGroot 命名與描述 |
 
 ---
 
-## Appendix — API inventory snapshot
+## 組織足跡總覽
 
-- Public repos (profile): 192
-- Non-fork search: 139
-- Forks (approx): 53
-- Open PRs authored: 31
-- Closed PRs authored: 1715
-- quantumworld-dpdns-io repos: 60
-- cyber-security-dev-dep-mitake-com-tw repos: 12
-- Jest-Test-Team authored PRs (search): 78
+| Org | 公開庫數 | 角色（推斷） | UK 引用策略 |
+|-----|--------:|--------------|------------|
+| quantumworld-dpdns-io | 60 | 創辦／主要作者 | **Hide citation**（org 名）；最多挑 1 個非成人 cyber 庫 |
+| Jest-Test-Team | 39 | 主要 committer（78 PRs） | **Cite carefully**（具名旗艦庫） |
+| cyber-security-dev-dep-mitake-com-tw | 12 | 雇主對齊主要作者 | **Safe**（精選；避開 SCP 玩笑名） |
+| BabyGrootCICD | 13 | MEMBER；31 PRs | **Cite carefully**（CI）／**Hide** Sext-Adventure |
+
+詳見姊妹檔：`dennislee928-orgs-deepdive.md`。
+
+### CAP／權限狀態（本次重試結果）
+
+| 管道 | Jest-Test-Team | BabyGrootCICD | quantumworld | mitake |
+|------|----------------|---------------|--------------|--------|
+| MCP `search_repositories org:…` | **仍 CAP 阻擋** | **仍 CAP 阻擋** | OK | OK |
+| MCP `get_file_contents` | **403 PAT lifetime>366d 政策** | 公開 REST 可用 | OK（ZK-XDR） | OK（樣本） |
+| 公開 REST `/orgs/…/repos` | **可用（39）** | **可用（13）** | 可用（60） | 可用（12） |
+| MCP `search_pull_requests` / `search_commits` | OK | OK | OK | OK |
+
+**結論：使用者所稱「已開 all repos read」後，MCP org search CAP 仍未清除。** 本次改以公開 REST + PR/commit search 完成 org 盤點（非捏造）。
+
+---
+
+## 開源／對外 PR 訊號
+
+- **Open：** 31（BabyGrootCICD/product_maker ×14 draft prototypes；JuliaLang/julia SIGINT；taipei-doit ×2；Jest PQC nginx；BanklessDAO Cloudflare；Hexstrike；moda-gov-tw；nics-tw；StreetVoice；等）
+- **Closed search total：** 2171（含大量自有庫；**勿直接寫上 CV 數字**）
+- **高價值外部訊號：** `JuliaLang/julia`、`taipei-doit`（若合併）、安全依賴／DevSec 類 PR
+- **低價值／需節制：** 大量同時開的「solution prototype」draft、部分 drive-by README／docs PR
+
+---
+
+## UK CV：Safe / Cite carefully / Hide
+
+| 等級 | 項目 |
+|------|------|
+| **Safe** | `Ethic-Latex`、`erh-guardian-agent`、`LiveHouseAAS`、`firmware-research-demo`、`Smart_Zone`、mitake 精選（`chip_whisper_lab`、`ESP32_atk_def_proxy_logger`、`BLE-off-seat-Presence-Lock`、`Security-and-Infrastructure-tools-Set`）、JuliaLang／taipei-doit（合併後） |
+| **Cite carefully** | Jest 旗艦：`Agentic-Defense-Matrix-ADM`、`Dastacenter_Builder_Simulator`、`inclusive-ai-trust-gateway`、`XDR-OAR-Hybrid-Infrastructure_K8S`（具名 repo URL，少提 org 品牌）；BabyGroot `product_maker`（CI 主題）；crypto／Web3 demos |
+| **Hide** | 顯示名稱現況；`quantumworld-dpdns-io` org 品牌與成人庫；`BabyGrootCICD/Sext-Adventure`、`B2B-sex-Routing-…`；SCP 玩笑庫名；IELTS 噪音庫當主打 |
+
+---
+
+## Red flags
+
+1. **Profile display name 低俗** — 投遞 blocker。
+2. **成人產業公開品牌**（quantumworld ~1/3 庫、BabyGroot Sext-Adventure）。
+3. **廣度膨脹：** 192 公開庫中大量 stub／skills／bulk update（2026-05 前後大量 touched）。
+4. **Auto-commit／scaffold 噪音**（尤其 GNSS 等 org 庫）— 面試官可能質疑「專案數量敘事」。
+5. **Claude／AI co-author 密集** — 可誠實說 AI-assisted；勿裝成全程純手寫巨量產出。
+6. **BabyGroot 14 個同日 draft PR** — 看起來像自動化原型轰炸，非協作品質訊號。
+7. **Org 多為 solo self-merge** — 真正多人協作訊號主要在外部 PR。
+
+---
+
+## 建議 Pin 清單（個人帳號）
+
+1. `Ethic-Latex`
+2. `erh-guardian-agent`
+3. `LiveHouseAAS`
+4. `firmware-research-demo`
+5. `Smart_Zone`（或整理後的 `next_js_portfolio`）
+6. （可選）`Carbon_Trading_For_Individuals` — 僅在 README／demo 可運行時
+
+**Unpin／低調：** 玩笑名、空壳、GitHub Skills 練習 fork、成人相關、未完成大量同質 Vue API demos。
+
+---
+
+## 方法與限制
+
+- 唯讀：`get_me`、`search_repositories`、`search_pull_requests`、`search_commits`、`get_file_contents`、`get_teams`；公開 REST fallback。
+- **未**使用任何 GitHub write tool。
+- CAP／PAT 政策阻擋處已標明；統計皆來自 API `total_count` 或完整分頁列舉，**無捏造**。
+- 私人庫不可見；org owner 角色無法被 `get_teams` 正式確認。
+
+---
+
+*檔案路徑：`/workspace/uk-career-intel/dennislee928-github-audit.md`*
