@@ -2,7 +2,7 @@
 
 **對象：** Pei-Chen (Dennis) Lee  
 **Profile：** https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/  
-**原則：** 不發明就業事實；學歷以「政大資管畢＋數位內容碩肄業＋格大 2026–27 即將入學」為準  
+**原則：** 不發明就業事實；學歷以「政大資管畢＋數位內容碩肄業＋格大 2027–28 即將入學」為準  
 **現職（可寫）：** Cloud & Security Platform Engineer｜mitake.com.tw｜2025-09–現在  
 **現 headline：** Security-Oriented Full-Stack Engineer | Go, React/Next.js, Vue/Nuxt | Cloudflare, AWS, GCP, DevSecOps
 
@@ -15,7 +15,7 @@
 |------|------|
 | NCCU MIS bachelor | **已畢業**（維持 Completed） |
 | NCCU Digital Content and Technology master's | **肄業**（你口述）；LinkedIn 目前多半顯示 2021–2024 Master's、**未標 incomplete** |
-| University of Glasgow MSc | **尚未入學**；預計 **2026–27**（約 2026-09 開課） |
+| University of Glasgow MSc | **尚未入學**；預計 **2027–28**（約 2027-09 開課） |
 
 ### 為何要改
 英國招聘官／CAS／簽證材料若以為你「已取得第二個碩士」，之後對不上文件會減信任。肄業不是污點；**標不清楚才是風險**。
@@ -62,7 +62,7 @@ Program incomplete (肄業) — did not graduate.
 
 ---
 
-## 2. 新增格大 MSc：Upcoming／預期 2026-09 入學
+## 2. 新增格大 MSc：Upcoming／預期 2027-09 入學
 
 **路徑：** Profile → **Add profile section** → **Education** → **Add education**
 
@@ -72,18 +72,18 @@ Program incomplete (肄業) — did not graduate.
 | School | University of Glasgow |
 | Degree | Master of Science (MSc) |
 | Field of study | Software Development (Conversion) |
-| Start date | **September 2026**（或 2026-09） |
+| Start date | **September 2027**（或 2027-09） |
 | End date | 預估 2027（一年制則填 2027）；或先只填 start |
 | Currently studying | **現在不要勾**（你還不是在學生） |
 
 **Description 建議英文：**
 ```text
-Incoming student — expected start September 2026 (academic year 2026–27). Not currently enrolled.
+Incoming student — expected start September 2027 (academic year 2027–28). Not currently enrolled.
 ```
 
 **繁中選用：**
 ```text
-預計 2026 年 9 月入學（2026–27 學年）。目前尚未註冊／就讀。
+預計 2027 年 9 月入學（2027–28 學年）。目前尚未註冊／就讀。
 ```
 
 **Headline／About 可寫 Incoming／Upcoming，但 Education 列勿看起來像「已在格大就讀」。**
@@ -96,7 +96,7 @@ Incoming student — expected start September 2026 (academic year 2026–27). No
 
 **選項 A（推薦，平衡現職＋學位時程）：**
 ```text
-Cloud & Security Platform Engineer | Go, Next.js | AWS, Cloudflare, DevSecOps | Incoming MSc Software Development, University of Glasgow (2026–27)
+Cloud & Security Platform Engineer | Go, Next.js | AWS, Cloudflare, DevSecOps | Incoming MSc Software Development, University of Glasgow (2027–28)
 ```
 
 **選項 B（偏平台／資安，適合 Platform／AppSec 職缺）：**
@@ -106,7 +106,7 @@ Cloud & Security Platform Engineer · Go / TypeScript · SIEM, AWS, Cloudflare �
 
 **選項 C（偏全端＋轉換碩，適合一般 Software Engineer）：**
 ```text
-Security-Oriented Full-Stack Engineer (Go, React/Next.js) | Cloud & DevSecOps | Incoming MSc @ University of Glasgow (2026–27)
+Security-Oriented Full-Stack Engineer (Go, React/Next.js) | Cloud & DevSecOps | Incoming MSc @ University of Glasgow (2027–28)
 ```
 
 **路徑：** 頭像旁鉛筆 → **Headline** → Save  
@@ -125,7 +125,7 @@ Cloud & Security Platform Engineer at mitake.com.tw, working across internal pla
 
 Earlier experience spans cybersecurity consulting (F5, Cloudflare), cloud/frontend delivery, and full-stack product work (Go, Vue/Nuxt, React/Next.js).
 
-Education: BSc Management Information Systems, National Chengchi University (graduated). Master's in Digital Content and Technology at NCCU — incomplete (肄業). Incoming MSc Software Development (Conversion), University of Glasgow, expected start September 2026 (2026–27).
+Education: BSc Management Information Systems, National Chengchi University (graduated). Master's in Digital Content and Technology at NCCU — incomplete (肄業). Incoming MSc Software Development (Conversion), University of Glasgow, expected start September 2027 (2027–28).
 
 Open to UK opportunities aligned with platform, backend, cloud, and DevSecOps roles as the Glasgow timeline approaches.
 ```
@@ -135,7 +135,7 @@ Open to UK opportunities aligned with platform, backend, cloud, and DevSecOps ro
 ```text
 現職 mitake.com.tw｜Cloud & Security Platform Engineer：以 Next.js、Go、Python、PostgreSQL 建置內部平台與資安相關元件；參與 SIEM 工作流程、gRPC／MQTT over TLS 後端服務，以及 AWS、Cloudflare、Vision One 整合，重視可稽核、可上線的交付。
 
-學歷：政大資管學士（已畢業）；政大數位內容碩士（肄業）；預計 2026 年 9 月就讀 University of Glasgow MSc Software Development (Conversion)（2026–27）。
+學歷：政大資管學士（已畢業）；政大數位內容碩士（肄業）；預計 2027 年 9 月就讀 University of Glasgow MSc Software Development (Conversion)（2027–28）。
 
 接近入學與畢業時程後，將認真尋求英國平台／後端／雲端／DevSecOps 相關機會。
 ```
@@ -171,7 +171,7 @@ Open to UK opportunities aligned with platform, backend, cloud, and DevSecOps ro
 ## 6. Featured／Open to work｜配合英國時程
 
 ### 時程原則
-- 格大 **2026–27** 才入學；**現在**以履歷衛生、作品集、學歷標註為主。
+- 格大 **2027–28** 才入學；**現在**以履歷衛生、作品集、學歷標註為主。
 - **認真大量投英國職**建議靠近入學前後／課程中後期再拉高強度（履歷敘事與簽證時窗才對得上）。
 - 現在可維持低調 Open to work（台北／遠距），避免 headline 看起來像「已在英國可立即上班」。
 
@@ -179,7 +179,7 @@ Open to UK opportunities aligned with platform, backend, cloud, and DevSecOps ro
 | 時機 | 建議設定 |
 |------|----------|
 | **現在～2026 上半年** | 可開 Open to work，地點以 **Taipei**＋遠距／混合為主；Job titles 可列 Software Engineer、Platform Engineer、Cloud Engineer、Security Engineer（junior–mid 務實） |
-| **接近 2026–27 入學／在學期間** | 加上 **Glasgow / United Kingdom / Ireland（備案）**；對外可見性依隱私需求選 *Recruiters only* 或 *All LinkedIn members* |
+| **接近 2027–28 入學／在學期間** | 加上 **Glasgow / United Kingdom / Ireland（備案）**；對外可見性依隱私需求選 *Recruiters only* 或 *All LinkedIn members* |
 | **Graduate Route 窗口前** | 再確認地點、職類與「可接受契約／實習」偏好是否寫進備註／與獵頭溝通 |
 
 **路徑：** Profile → **Open to** → **Finding a new job** → 編輯職稱／地點／可見性 → Save
@@ -211,7 +211,7 @@ Open to UK opportunities aligned with platform, backend, cloud, and DevSecOps ro
 ## 8. 建議操作順序（LinkedIn）
 
 1. 【P0】Education：數位內容碩標 Incomplete／肄業  
-2. 【P0】Education：新增 Glasgow MSc（Upcoming／2026-09，未勾 currently studying）  
+2. 【P0】Education：新增 Glasgow MSc（Upcoming／2027-09，未勾 currently studying）  
 3. 【P1】Headline 換成選項 A–C 之一  
 4. 【P1】About 換成英文主文（可附繁中）  
 5. 【P1】mitake Experience 子彈改寫  
@@ -223,9 +223,9 @@ Open to UK opportunities aligned with platform, backend, cloud, and DevSecOps ro
 ## 完成定義（Definition of Done）
 
 - [ ] 政大數位內容碩清楚標示 Incomplete／肄業；未勾「目前在讀」
-- [ ] 格大 MSc 已列為 expected start Sep 2026／2026–27，且非「目前學生」
+- [ ] 格大 MSc 已列為 expected start Sep 2026／2027–28，且非「目前學生」
 - [ ] Headline 含 Cloud／Security Platform（或同等）＋ Incoming Glasgow MSc
 - [ ] About 以英文為主，學歷敘述與事實一致
 - [ ] mitake 子彈為成就口吻且無杜撰數據
 - [ ] Featured／聯絡連結 **無** 成人 org 與 NSFW repo
-- [ ] Open to work 強度與英國 2026–27 時程相符
+- [ ] Open to work 強度與英國 2027–28 時程相符

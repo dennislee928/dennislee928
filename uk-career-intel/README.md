@@ -1,6 +1,6 @@
 # UK Career Intel（繁中報告）
 
-**更新日期：** 2026-09-05（重跑）
+**更新日期：** 2026-09-05（2027–28 入學更正）
 
 | 檔案 | 說明 |
 |------|------|
@@ -15,3 +15,4 @@
 - `glasgow-industrial-project-search-zh.md` — 格大工業專案補查
 - `github-hygiene-checklist-zh.md` — GitHub 衛生清單
 - `linkedin-optimize-zh.md` — LinkedIn 優化行動單
+- `uk-glasgow-msc-sd-brief-zh.md` — 格大簡報（含 Industrial Project／Toptal 查證 §七）

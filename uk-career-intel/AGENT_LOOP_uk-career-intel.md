@@ -37,3 +37,9 @@ Evidence-based UK career assessment for a conversion MSc candidate: GitHub portf
 - All reports in Traditional Chinese on the branch
 - Assessment states odds as ranges with assumptions; gaps listed
 - Agent loop file + skill updated when procedure changed
+
+
+## 2026-09-05 updates
+- Intake year default for this user: **2027–28** (confirm each run).
+- SoftDev: allocated vs self-proposed only; do not claim FinTech-style Industrial Project.
+- Always scrape LinkedIn certs; note Student Visa self-employment ban for Toptal-like work.

@@ -1,100 +1,82 @@
-# 格大「工業專案／工作＋論文」補查（zh-Hant）
+# 格大 SoftDev「Industrial Project／企業合作論文」再查核（zh-Hant）
 
 **查詢日：** 2026-09-05（Asia/Taipei）  
-**對象課程：** MSc Software Development (Conversion)，入學 **2026–27**（你明年才去）  
-**方法：** 官方 gla.ac.uk 頁面；不發明未寫明的保證
+**對象：** MSc Software Development (Conversion)，入學 **2027–28**  
+**方法：** 僅依官方 gla.ac.uk；不把其他學程／民間文案套用成你的保證福利
 
 ---
 
-## 結論（一句話）
+## 0. 對你描述的「標準 Industrial Project」怎麼對
 
-**你的這門 Conversion MSc 沒有保證的「邊工作邊寫論文」工業 placement**；課內核心是授課＋**60 學分個人軟體／研究專案（COMPSCI5018P）**；團隊專案是否仍列 core 以當屆課表為準。官方「Student placements」頁寫的是 **大學部／MSci Software Engineering** 的必修工業實習，**不要跟 Conversion MSc 混為一談**。格大其他碩士（例如 **MSc Financial Technology**）才有競爭式 industry project 路徑——**那不是你的學位**。
+你描述的模式（企業出題 → 5–8 月進企業或遠端 → 企業主管＋教授雙軌指導 → 報告＝論文、高機率 return offer）在英國**部分**碩士／部分學校是真實產品化路徑。
 
----
+| 說法 | 對格大 SoftDev Conversion？ |
+|------|------------------------------|
+| 學校公開標成 Industry Project 路徑（可選／競爭） | **否**（FinTech／部分社科有；SoftDev Projects 頁**沒有**這套文案） |
+| 60 學分個人專案＝論文 | **是**（COMPSCI5018P／Projects 頁） |
+| 學校配題 vs 自提（需學術核准） | **是**（官網明文） |
+| J.P. Morgan／Amazon 等＝課內保證企業論文 | **否**——官方寫的是授課貢獻、curriculum、panel、招募說明會 |
+| 雙軌指導（industry + academic co-supervisors）成套保證 | **官網未承諾**；若發生，屬自行／supervisor 談成的例外 |
+| 與自研論文「二選一互斥套餐」 | SoftDev 真實分叉是：**學校配題** vs **自提（academic approval）**，不是 FinTech 式 Industry Pathway 勾選 |
 
-## 1. 你的學位課內有什麼（官方）
-
-### 程式說明（Software Development Conversion）
-- 兩學期授課後，做 **substantial independent software development project**。  
-- 來源：[Software Development (Conversion) MSc](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)  
-- 文案強調：meet employers／recruitment presentations；**未**列出 compulsory industrial placement。
-
-### COMPSCI5018P — MSc Project for Information Technology（2026–27）
-| 項目 | 官方內容 |
-|------|----------|
-| 學分 | 60 |
-| 評分 | **100% dissertation** |
-| 本質 | 獨立個人 **software product** 與／或 **research project** |
-| 時程敘述 | Typically Semester 1；regular supervisory meetings |
-| 工業駐點／帶薪工作 | **規格未要求、未保證** |
-
-來源：  
-- https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/?card=course&code=COMPSCI5018P  
-- https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5018P  
-
-### COMPSCI5074（團隊專案）— 注意 2026 課表
-- 歷史課程／舊評估曾列團隊專案；**2026 Conversion 公開 core 清單未必仍含 5074**（以當屆 Programme structure 為準）。
-- 即使有團隊專案，**仍非**產業 placement／work＋thesis。
+**一句話：** SoftDev Conversion **不是**「被動媒合大廠 Industrial Project」學程；把火力放在 **自提 KSN／強作品學術化** 或 **挑對的學校配題**，比幻想保證企業論文更貼官網。
 
 ---
 
-## 2. 誰才有「工業 placement／work＋thesis」？
+## 1. SoftDev 官方 Projects（原文要旨）
 
-### A. School of Computing — Student placements（雇主說明頁）
-官方明寫工業實習是 **Software Engineering 大學部學位的 compulsory component**：
-- BSc (Hons)：約 **10 週**暑期 placement  
-- MSci Software Engineering：**10–12 個月**四年級工業年；回校後第五年，且可與雇主共構五年級研究題  
+來源：https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/?card=projects
 
-來源：https://www.gla.ac.uk/schools/computing/industry/studentplacements/  
+- 必須完成 **60 credits** 專案：調查受限但具挑戰的 CS 問題，設計／實作／評估／展示軟體系統  
+- 學校提供多題，**通常一人一題**，會參考學生偏好後分配  
+- **亦可自提專案，需 academic approval**  
+- 範例題偏應用／遊戲／工具（AR、chess、Othello 等）——**未**列出「進 JPM 駐點 5–8 月」類範例  
+- 研究組（GIST／FATA／IDA／GLASS）相關題多給想走研究／PhD 的人
 
-→ **對象不是 Conversion MSc。**
-
-### B. 其他碩士的「Industry project」示例（對照，非你的課）
-- **MSc Financial Technology**：可競爭申請 industry project（約 8–10 週），**不保證**；失敗可退回 research dissertation。  
-  https://www.gla.ac.uk/postgraduate/taught/financialtechnology/?card=industryprojects  
-- **Sensor & Imaging Systems** 等：專案「可能」含產業 placement（CENSIS 等）——同樣**不是** Software Development Conversion。
+COMPSCI5018P（規格卡）：100% dissertation；software product 與／或 research；**無**駐點條款。  
+https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/?card=course&code=COMPSCI5018P
 
 ---
 
-## 3. 那「工作＋論文」還有沒有鄰近替代？
+## 2. 誰才有「Industry projects」產品頁？
 
-| 路徑 | 對你是否適用 | 說明 |
-|------|--------------|------|
-| 課內保證工業年 | ❌ | Conversion 無 |
-| 自提 5018P 題＋找雇主贊助／資料／題目 | ✅ 可行但**自己談** | 規格允許 software product／research；雇主合作需自行與 supervisor 談妥 |
-| 暑期／學期兼職／契約（Graduate／Junior） | ✅ 課外 | 學校招聘說明會可當入口，**非**課內保證 |
-| 轉讀 FinTech／SE MSci 拿 industry pathway | ⚠️ 換學位 | 成本高；非現計畫 |
-| GLACSIL 等研究單位 | ⚠️ 偏研究／博士生態 | 非本碩保證名額 |
+| 學程 | 有無 Industry projects 頁 | 備註 |
+|------|---------------------------|------|
+| SoftDev Conversion | **無**（只有 Projects） | 你的目標學程 |
+| MSc Financial Technology | **有**（競爭、不保證、8–10 週） | 勿與 SoftDev 混用 |
+| Economic Development 等 | 有類似文案 | 非 Computing SoftDev |
+| UG／MSci Software Engineering | **compulsory placement** | 大學部工業年／暑期，非 Conversion MSc |
 
-**實務結論：** 把 5018P 做成「可給贊助雇主看的作品」，並**另外**找工作／契約；不要期待學校打包「工作＋論文」方案。
+Student placements 雇主頁：https://www.gla.ac.uk/schools/computing/industry/studentplacements/
 
 ---
 
-## 4. 對「明年（2026–27）才入學」的時間表建議
+## 3. 戰略取捨（依 SoftDev 官網重寫）
+
+| 路徑 | 適合 | 代價 |
+|------|------|------|
+| **A. 學校配題（allocated）** | 想省開題成本、跟研究組／既有題庫 | 題目未必對準你的 KSN／雲安平台武器；業界人脈靠課外自己補 |
+| **B. 自提（self-proposed）** | 有 KSN-AI／平台／資安等「殺手級」現成作品，要學術化打高階面試 | 要說服教授＋自己補企業曝光；**官網允許但要 approval** |
+| **C. 自行談「企業出題＋共指導」** | 有人脈／暑期關係，希望 dissertation 吃企業痛點 | **非保證產品**；須學術端核准；勿寫進申請動機當學校承諾 |
+| **D. 換讀有 Industry Pathway 的學程** | 真的要產品化工業專案 | 換學位成本高（如 FinTech） |
+
+**與「找指導教授」：** 自提＝主動找教授；配題＝學校依題指派。這與 Toptal **無關**。
+
+---
+
+## 4. 時程（入學 2027–28）
 
 | 時段 | 建議 |
 |------|------|
-| **現在～2026 春** | GitHub／LinkedIn 衛生；精選作品；釐清 mitake 推荐信；勿把「工業專案」寫進申請動機當保證福利 |
-| **拿到 offer／繳定金後** | 關注 Computing Careers／employer talks 時程；仍當「機會」非「保證」 |
-| **2026–27 在學 S1–S2** | 上課＋組隊專案；同步投暑期／兼職／契約 |
-| **5018P 階段** | 優先可展示的平台／資安／後端題；若有雇主願意給題／資料，先問 supervisor 是否可納入評分範圍 |
-| **畢業＋Graduate Route** | 主路徑仍是全職／可轉簽；契約當踏板 |
+| 現在～2027 春 | 作品集／GitHub 衛生／證照（CC→CCSP）；勿把 Industrial Project 當保證寫進 PS |
+| 2027–28 在學 S1–S2 | 弄清當屆配題流程與自提截止；同步合法打工時數內的受雇職（非自雇） |
+| 專案季 | 選 A／B／C；論文即展示物 |
+| 畢業＋Graduate Route | 主路徑受雇全職／可轉簽；自雇需等 Graduate／其他許可 |
 
 ---
 
-## 5. 與前版評估的差異
-
-| 項目 | 前版 | 本補查 |
-|------|------|--------|
-| 有無保證 work＋thesis | 無 | **再確認：無**；並對照 SE UG／MSci placement 與 FinTech industry project |
-| 5018P | 60 學分個人專案 | 官方 2026–27 卡仍為 dissertation／software product，無駐點條款 |
-| 行動 | 勿等工業專案 | 同上＋明年入學時程表 |
-
----
-
-## 6. 來源
-1. https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/  
+## 5. 來源
+1. https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/?card=projects  
 2. https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/?card=course&code=COMPSCI5018P  
-3. https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5018P  
+3. https://www.gla.ac.uk/postgraduate/taught/financialtechnology/?card=industryprojects  
 4. https://www.gla.ac.uk/schools/computing/industry/studentplacements/  
-5. https://www.gla.ac.uk/postgraduate/taught/financialtechnology/?card=industryprojects  

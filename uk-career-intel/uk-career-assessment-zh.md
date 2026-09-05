@@ -1,7 +1,7 @@
 # 英國就業評估（重跑）：Pei-Chen (Dennis) Lee × Glasgow MSc Software Development (Conversion)
 
 **評估日：** 2026-09-05（Asia/Taipei）  
-**版本：** 重跑＋使用者補充＋工業專案補查（學歷／IELTS／求職偏好／明年入學）  
+**版本：** 2027–28 入學更正＋Industrial Project 再查核＋雲／證照／Toptal（zh-Hant）
 **輸入：** GitHub 全庫＋org（繁中稽核）、LinkedIn Experience 10 筆、格大課程／簽證／ASHE、使用者口述  
 **方法：** 不發明未觀測事實；機率為條件區間
 
@@ -13,9 +13,9 @@
 
 在完成 **GitHub 履歷衛生**、**精選作品集**、並活用「可接受合法契約／實習」與「蘇格蘭／倫敦／愛爾蘭備案」的彈性後：  
 **畢業後 18 個月 Graduate Route 內，取得英國軟體／平台／資安相關全職或可轉簽路徑職位的條件機率估為約 65–80%**（較前版上修，因 IELTS 7.5、完整工作年表、可負擔倫敦、無拒簽史）。  
-若公開帳號維持粗俗顯示名＋成人產業 org 可見，機率仍可能掉到約 **35–50%**。
+若再次露出成人產業 org／NSFW 公開庫，機率仍可能掉到約 **35–50%**。
 
-**工業專案：** 格大本碩 **無保證「工作＋論文」產業 placement**；主軸是 60 學分個人專案（5018P）。詳見 §2 與 `glasgow-industrial-project-search-zh.md`。
+**Industrial Project：** SoftDev **無**官網保證的企業合作論文套餐；真實分叉＝**學校配題 vs 自提（需核准）**。FinTech 式 Industry Project／UG SE placement **不要套用**。詳見 §2。
 
 ---
 
@@ -26,11 +26,23 @@
 |------|------|
 | 政大資管學士 | **已畢業**（LinkedIn：2016–2020） |
 | 政大數位內容碩士 | **肄業**（你口述）；LinkedIn 顯示 2021–2024 Master's、**未標肄業**——履歷／英國申請請自行標清，避免「已取得碩士」誤解 |
-| 格大 MSc Software Development (Conversion) | **明年入學**（2026–27） |
+| 格大 MSc Software Development (Conversion) | **2027–28** 入學（約 2027-09） |
 
 ### 1.2 英語
 - IELTS **總分 7.5**（R **9.0**／L **7.5**／S **6.5**／W **6.0**）  
 - 對英國碩士與多數雇主門檻通常足夠；**寫作 6.0／口說 6.5** 是面試與書面溝通的相對短板——建議入學前後刻意練 tech interview English 與 cover letter。
+
+### 1.2b 雲端與證照（LinkedIn 73 項＋你補充）
+- **實務雲：** 你口述 GCP／AWS（bityacht／shipeng／paynow 等）；GitHub 另見 Cloudflare Terraform WAF、OCI 相關庫；部分進行中工作用 **OCI**。
+- **已驗證重點證照（完整 73 項見 `pei-chen-lee-certs-cloud-zh.md`）：**
+  - **(ISC)² Certified in Cybersecurity (CC)**（2025-08，至 2028-08）
+  - **OCI 2024 Foundations Associate**
+  - **AWS** Cloud Practitioner Essentials、AWS Security Fundamentals、US Federal Quantum Learning Path
+  - **Google Cloud** 多枚 Skill Badge（含 GKE Foundations、Cloud Security Fundamentals、Vertex AI Prompt Design 等）
+  - **Cloudflare** ASE／ACE／MSP；CrowdStrike 多 Specialist；Prisma Cloud 系列；Versa SASE
+  - **IELTS 7.5**（IDP，至 2027-11）
+- **規劃：** 預計 **2027-01 取得 CCSP**（LinkedIn 目前**尚無** CCSP／CompTIA）。
+- 英國 Platform／Cloud／Sec 敘事：多雲＋CC→CCSP 路線可強化「非零基礎 conversion」。
 
 ### 1.3 工作年表（LinkedIn 詳細頁 10 筆）
 1. **Cloud & Security Platform Engineer** — mitake.com.tw（全職，2025-09–現在）：Next/Go/Python/PG、SIEM、gRPC、MQTT/TLS、AWS/Cloudflare/Vision One  
@@ -51,7 +63,7 @@
 - 犯罪／拒簽史：**無**
 
 ### 1.5 GitHub／Orgs（重跑摘要）
-- 顯示名仍為粗俗玩笑 → **英國投遞前必改**  
+- 顯示名已改為 `Pei-Chen (Dennis) Lee`（2026-09-05）；持續維持 NSFW 私有／org 隱藏  
 - 精選：Ethic-Latex、LiveHouseAAS、erh-guardian-agent、firmware-research-demo、Smart_Zone、mitake ChipWhisperer／ESP32  
 - **Hide：** quantumworld 成人產業品牌；玩笑／NSFW repo  
 - **Cite carefully：** Jest Datacenter Builder、ADM  
@@ -59,28 +71,28 @@
 
 ---
 
-## 2. 格大「工業專案／工作＋論文」？（2026-09-05 補查）
+## 2. Industrial Project vs 自提論文（SoftDev 官網再查核）
 
-**一句話：** Conversion MSc **沒有**保證的 work＋thesis／工業年。詳見同資料夾 `glasgow-industrial-project-search-zh.md`。
+**你描述的「企業出題＋5–8 月進企業＋雙軌指導＋高機率 return offer」** 是英國**部分**學程的產品化路徑；**格大 SoftDev Conversion 官網並未提供同款保證套餐**。詳見 `glasgow-industrial-project-search-zh.md`。
 
-| 項目 | 事實（官方） |
-|------|--------------|
-| 課程結構 | 兩學期授課 → **substantial independent software project**（[課程頁](https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/)） |
-| 團隊專案 | 歷史曾列 COMPSCI5074；**2026 core 清單請以官網當屆為準**（有也不等於工業 placement） |
-| 個人專案 | **COMPSCI5018P**（60 學分，2026–27）：100% dissertation；software product 與／或 research；**規格未要求駐點** |
-| 保證產業實習／廠商駐點／三明治年 | **無** |
-| 產業曝光 | 雇主招募說明會——機會非保證名額 |
-| 誰才有 compulsory placement？ | **BSc／MSci Software Engineering**（10 週或 10–12 個月工業年）——[Student placements](https://www.gla.ac.uk/schools/computing/industry/studentplacements/) |
-| 別系對照 | 如 **MSc FinTech** 有競爭式 industry project（**不保證**）——**不是**你的學位 |
-| GLACSIL 等 | 偏研究生態；非本碩保證 |
+| SoftDev 官方事實 | 內容 |
+|------------------|------|
+| 60 學分專案 | 必做；設計／實作／評估軟體系統；論文評分（5018P） |
+| 配題 | 學校提供題庫，通常一人一題，參考偏好後分配 |
+| 自提 | **允許**，需 **academic approval** |
+| Industry Project 產品頁 | **無**（對照：FinTech 有競爭式 industry project，且**不保證**） |
+| JPM／Amazon 等 | 授課／panel／招募說明會——**≠**課內保證企業論文 |
+| UG SE placement | 大學部／MSci 工業年——**不可混用** |
 
-**對你（明年 2026–27 才入學）：**
-1. 申請動機／規劃**不要**把「工業專案」寫成學校保證福利。  
-2. 入學後把 **5018P** 做成可展示作品；雇主題目需**自己談**＋問 supervisor。  
-3. 課外另找暑期／兼職／契約（配合你可接受契約／實習的彈性）；Graduate Route 仍是主路徑。
+**戰略（依官網重寫，非民間互斥套餐）：**
 
-學費提醒：國際生路徑約 **£34,470**（另加生活費、簽證 IHS）；開課約 **2026-09-14**。Graduate Route 若 2027-01-01 後申請多半 **18 個月**。
----
+| 路徑 | 優勢 | 代價 |
+|------|------|------|
+| 學校配題 | 開題成本低 | 未必用上 KSN／既有殺手專案 |
+| **自提（建議優先評估）** | 把 KSN-AI／雲安平台作品學術化，打高階面試 | 要說服教授；企業人脈自己補 |
+| 自行談企業出題＋共指導 | 接近你想像的 Industrial Project | **非學校保證**；須學術核准 |
+
+**Toptal／自雇：** 與找教授**無關**。英國 Student Visa（Appendix Student）**禁止自雇／自由業接案**（少數 Innovator Founder 申請例外）。可在 **赴英前於台灣**接案累積資本；**入境就讀期間必須停 Toptal 類自雇**；畢業後 Graduate Route 等許可下才恢復彈性。來源概念：GOV.UK Appendix Student ST 26、UKCISA。
 
 ## 3. 目標職類（更新優先序）
 
@@ -124,7 +136,7 @@ SOC 2134：標準 going rate **£54,700**；新人約 **£38,300**。你有實�
 
 ## 6. 最佳路徑（依你的彈性重排）
 
-### 現在～入學前
+### 現在～2027 入學前
 1. 改 GitHub 顯示名；藏 NSFW／成人 org  
 2. Pin 4–6 個乾淨專案；英式 CV 1–2 頁對齊 LinkedIn  
 3. LinkedIn 教育改標「Digital Content 碩士肄業」以免過稱  
