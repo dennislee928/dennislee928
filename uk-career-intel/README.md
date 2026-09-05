@@ -1,15 +1,14 @@
-# UK Career Intel (2026-09-05)
+# UK Career Intel（繁中報告）
 
-Reports from a full agent loop: GitHub (personal + orgs) + LinkedIn + Glasgow MSc Software Development (Conversion) job-path assessment.
+**更新日期：** 2026-09-05（重跑）
 
-| File | Description |
-|------|-------------|
-| [uk-career-assessment-zh.md](./uk-career-assessment-zh.md) | Final assessment (zh-Hant): odds, roles, salary, path |
-| [dennislee928-github-audit.md](./dennislee928-github-audit.md) | Personal GitHub skills/portfolio audit |
-| [dennislee928-orgs-deepdive.md](./dennislee928-orgs-deepdive.md) | Org deep-dive + CV citation matrix |
-| [pei-chen-lee-linkedin.md](./pei-chen-lee-linkedin.md) | LinkedIn visible capture |
-| [AGENT_LOOP_uk-career-intel.md](./AGENT_LOOP_uk-career-intel.md) | Reusable agent work-loop prompt |
+| 檔案 | 說明 |
+|------|------|
+| [uk-career-assessment-zh.md](./uk-career-assessment-zh.md) | 就業機率／職類／薪資／路徑（含 IELTS、學歷、偏好） |
+| [dennislee928-github-audit.md](./dennislee928-github-audit.md) | GitHub 個人稽核 |
+| [dennislee928-orgs-deepdive.md](./dennislee928-orgs-deepdive.md) | Org 深挖與 CV 引用矩陣 |
+| [pei-chen-lee-linkedin.md](./pei-chen-lee-linkedin.md) | LinkedIn（含 Experience） |
+| [AGENT_LOOP_uk-career-intel.md](./AGENT_LOOP_uk-career-intel.md) | 可重跑 agent loop |
 
-**Branch:** `feat-uk-career-intel`  
-**Subject GitHub:** `dennislee928`  
-**LinkedIn:** https://www.linkedin.com/in/pei-chen-lee-4a3a352a2/
+**分支：** `feat-uk-career-intel`  
+**技能：** UK career intel loop（預設繁中報告）
