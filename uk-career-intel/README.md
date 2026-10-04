@@ -16,3 +16,4 @@
 - `github-hygiene-checklist-zh.md` — GitHub 衛生清單
 - `linkedin-optimize-zh.md` — LinkedIn 優化行動單
 - `uk-glasgow-msc-sd-brief-zh.md` — 格大簡報（含 Industrial Project／Toptal 查證 §七）
+- [2026-10-04-glasgow-it-companies-zh.md](./company-intel/2026-10-04-glasgow-it-companies-zh.md) — 格拉斯哥地區 IT 公司適配度與申請難度評級（2026-10-04）
