@@ -19,3 +19,4 @@
 - [2026-10-04-glasgow-it-companies-zh.md](./company-intel/2026-10-04-glasgow-it-companies-zh.md) — 格拉斯哥地區 IT 公司適配度與申請難度評級（2026-10-04）
 - [2026-10-04-broad-scope-companies-zh.md](./company-intel/2026-10-04-broad-scope-companies-zh.md) — 擴大範圍組織適配度與申請難度評級（2026-10-04，Run 2）
 - [2026-10-04-gap-fill-companies-zh.md](./company-intel/2026-10-04-gap-fill-companies-zh.md) — 補缺口組織適配度與申請難度評級（2026-10-04，Run 3）
+- [2026-10-05-run4-edinburgh-finance-baltics-companies-zh.md](./company-intel/2026-10-05-run4-edinburgh-finance-baltics-companies-zh.md) — Edinburgh 金融總部與波羅的海公司適配度與申請難度評級（2026-10-05，Run 4）
