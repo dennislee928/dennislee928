@@ -7,6 +7,12 @@ ___
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 <img src="https://gitranks.com/api/badge/v2/dennislee928?ranking=f&context=country&type=tier&meta=none&label=gitranks.com+Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
 <img src="https://gitranks.com/api/badge/v2/dennislee928?ranking=s&context=country&type=tier&meta=none&label=gitranks.com+Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
+![GitHub Metrics](https://metrics.lecoq.io/dennislee928)
+
+## 🌐 Open Source Contributions
+
+[![OSS Insight](https://img.shields.io/badge/OSS_Insight-Developer_Analytics-blue?style=for-the-badge)](https://ossinsight.io/analyze-user/dennislee928#overview)
+
 ---
 
 <p align="center">
