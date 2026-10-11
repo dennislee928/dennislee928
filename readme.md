@@ -5,7 +5,8 @@
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
 ___
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
-
+<img src="https://gitranks.com/api/badge/v2/dennislee928?ranking=f&context=country&type=tier&meta=none&label=gitranks.com+Followers+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
+<img src="https://gitranks.com/api/badge/v2/dennislee928?ranking=s&context=country&type=tier&meta=none&label=gitranks.com+Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
 ---
 
 <p align="center">
