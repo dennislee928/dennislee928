@@ -13,6 +13,7 @@ ___
 
 [![OSS Insight](https://img.shields.io/badge/OSS_Insight-Developer_Analytics-blue?style=for-the-badge)](https://ossinsight.io/analyze-user/dennislee928#overview)
 
+![GitScore](https://gitscore.mateusz-szostak1.workers.dev/api/badge/dennislee928)
 ---
 
 <p align="center">
