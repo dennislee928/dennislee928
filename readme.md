@@ -1,184 +1,148 @@
-# 👋 Hi, I'm Dennis Lee 李沛宸
+<div align="center">
 
-![](https://img.shields.io/badge/currently-online-00C853?style=flat-square) ![](https://img.shields.io/badge/coding-cybersecurity_project-FF6F00?style=flat-square)
-![Listening](https://img.shields.io/badge/listening_to-UN%20AVEC%20DEUX-green?style=for-the-badge&logo=spotify)
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
-___
+# Dennis Lee 李沛宸
+
+**Backend & Cloud Security Engineer · Go · Cloudflare · DevSecOps**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&center=true&vCenter=true&multiline=true&width=480&height=80&lines=God+throws+dices;and+we+try+to+catch+them;via+holy+languages%2C+code+that+is." alt="God throws dices, and we try to catch them via holy languages, code that is." />
+
+[![Email](https://img.shields.io/badge/Email-security--admin%40dennisleehappy.org-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:security-admin@dennisleehappy.org)
+[![Booking](https://img.shields.io/badge/Book_a_meeting-SimplyMeet-0A66C2?style=flat-square&logo=googlecalendar&logoColor=white)](https://app.simplymeet.me/dennislee-rootcicd)
+[![DockerHub](https://img.shields.io/badge/DockerHub-dennisleetw-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/dennisleetw)
+[![Devpost](https://img.shields.io/badge/Devpost-dennislee928-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/dennislee928/achievements)
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/community-pulse-reporter)
+
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices" alt="Typing SVG 1" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them" alt="Typing SVG 2" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)" alt="Typing SVG 3" />
-</p>
-
-### 🧭 Let's build cloud-native, secure, and scalable apps together!
----
-
+</div>
 
 ---
-## 🧠 Career Summary | 職涯簡介
-Full-stack Developer & Cloud Engineer with a passion for building scalable systems, automating workflows, and implementing cloud-native security solutions.
-With ~5 years in software development, including 2+ years focused on backend and DevOps, I specialize in translating complex requirements into actionable, auditable solutions.
+
+## 🧠 About Me
+
+I'm a full-stack developer and cloud engineer with ~5 years of software development experience. For the last 2+ years I've focused on backend and DevOps work. I build scalable systems, automate operations and design cloud-native security, turning complex requirements into actionable, auditable solutions. I have helped government and enterprise teams adopt Cloudflare DNS / WAF and automation workflows, and I work daily with CI/CD, IAM, monitoring, failover and DevSecOps practices.
+
+**Currently focused on**
+
+- 🛡️ Application & cloud security: SAST pipelines, WAF governance, firmware analysis
+- 🦫 Backend systems in Go: APIs, RBAC, trading and funding bots
+- 👽 Quantum computing: IBM and AWS quantum learning paths
+
+<details>
+<summary>中文簡介</summary>
+<br/>
 
 具備約五年軟體開發經驗，擅長雲端平台部署、自動化維運與資安導向架構設計。曾協助政府、企業導入 Cloudflare DNS / WAF / 自動化腳本流程，熟悉 CI/CD、IAM、監控、備援與 DevSecOps 實作。
 
+</details>
+
 ---
 
+## 🛠️ Featured Projects
 
-<summary><strong>📈 View My GitHub Stats & Trophies</strong></summary>
+| Project | What it does | Stack | Links |
+|---------|--------------|-------|-------|
+| **Carboon: Carbon Credit Trading API** | Carbon-credit trading backend with Swagger docs and JWT-based RBAC | Go (Gin), Supabase, Swagger | [Code](https://github.com/dennislee928/carboon-trade-backend) · [Video](https://youtu.be/_iW3o_Lvzs) |
+| **Cloudflare DNS Failover & WAF Automation** | Automated DNS failover switching and WAF rule updates for security governance | Python, GraphQL API, Terraform | [Code](https://github.com/dennislee928/Cloudflare_Developer_Labs) · [Video](https://youtu.be/vWDmq0GiCo4) |
+| **Firmware Analysis Lab** | Firmware static analysis, YARA scanning and a CAN Bus simulation toolkit | Flask, Docker, Binwalk, Ghidra, Supabase | [Code](https://github.com/dennislee928/firmware-research-demo) · [Video](https://youtu.be/rHVcB-mxKB8) |
+| **Web3 dApp Interface** | Responsive, security-minded UI for interacting with smart contracts | Vue 3, Tailwind CSS, ethers.js | [Demo](https://web3.para-universe-energy-exchange-station.com/) |
+| **Cloudflare Workers AI Image Generator** | Full-stack prototype for AI image generation on the Cloudflare edge | Workers, JavaScript, D1 (SQLite), Tailwind CSS | [Code](https://github.com/dennislee928/firmware-research-demo/tree/tsse) · [Video](https://youtu.be/43sSu1Ve55s) |
+| **Side Project Backend** | Python RESTful API deployed on Cloud Run | Flask, GCP, Supabase | [Code](https://github.com/dennislee928/side-project-1-backend) |
+| **Bitfinex Funding Bot** *(WIP)* | Automated lending strategies in Go with pluggable YAML strategy modules | Go, JSON/YAML, REST API | [Code (draft)](https://github.com/dennislee928/fundbot-go) |
+| **Community Pulse Reporter** *(open-source tool)* | Free GitHub Action that reports on community activity, published on the Marketplace | GitHub Actions | [Marketplace](https://github.com/marketplace/actions/community-pulse-reporter) |
+
+---
+
+## 💎 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,solidity" height="32" alt="Go, Python, JavaScript, TypeScript, Bash, Solidity" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,next,nuxt,vuetify,threejs,tailwind,figma" height="32" alt="React, Vue, Next.js, Nuxt, Vuetify, Three.js, Tailwind CSS, Figma" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,rabbitmq,nginx" height="32" alt="Node.js, Express, FastAPI, GraphQL, RabbitMQ, Nginx" /> |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,terraform,docker,k8s,vercel,netlify,heroku,workers" height="32" alt="AWS, GCP, Cloudflare, Terraform, Docker, Kubernetes, Vercel, Netlify, Heroku, Cloudflare Workers" /> <img src="https://wso2.cachefly.net/wso2/sites/all/image_resources/logos/WSO2-Logo-Black.webp" height="32" alt="WSO2" /> <img src="https://abjcloudsolutions.com/wp-content/uploads/2024/10/OCI-img.png" height="32" alt="Oracle Cloud Infrastructure" /> <img src="https://containers.back4app.com/favicon.ico" height="32" alt="Back4App" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" height="32" alt="PostgreSQL, MongoDB, Redis, Supabase" /> |
+| **DevOps & Observability** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus,linux,ubuntu,windows,vscode,arduino" height="32" alt="Git, GitHub, GitHub Actions, Postman, Grafana, Prometheus, Linux, Ubuntu, Windows, VS Code, Arduino" /> |
+| **Security (SAST)** | <a href="https://snyk.io"><img src="https://snyk.io/favicon.ico" height="32" alt="Snyk" /></a> <a href="https://www.coderabbit.ai"><img src="https://www.coderabbit.ai/favicon.ico" height="32" alt="CodeRabbit" /></a> <a href="https://semgrep.dev"><img src="https://semgrep.dev/favicon.ico" height="32" alt="Semgrep" /></a> <a href="https://trunk.io"><img src="https://avatars.githubusercontent.com/u/110776285?s=200&v=4" height="32" alt="Trunk" /></a> |
+
+---
+
+## 📜 Certifications
+
+| Area | Certification | Issuer |
+|------|---------------|--------|
+| Security | Prisma Cloud Enterprise Security Essentials | Palo Alto Networks |
+| Security | AWS Security Fundamentals | Amazon Web Services |
+| Security | ACE / MSP | Cloudflare |
+| Security | Versa SASE for Lean IT | Versa Networks |
+| AI Governance | AI Governance & AI Audit Certification | Securiti.ai |
+| Cloud | AWS Cloud Practitioner Essentials | Amazon Web Services |
+| Cloud | Azure Fundamentals (AZ-900) | Microsoft |
+| Cloud | GKE Architecture Foundations | Google Cloud (Coursera) |
+| Quantum | Quantum Developer Certification | IBM |
+| Quantum | Quantum Computing Learning Path | Amazon Web Services |
+
+---
+
+## 🏆 Hackathons & Achievements
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/223/datas/aa74b3e2df0a13e6ab87d53ed99a63e4_medium.png" height="60" alt="Devpost Dual Boot badge" /><br/>
+      <b>Dual Boot</b><br/>
+      <sub>Submitted eligible projects to both an in-person and an online hackathon · Sep 2, 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/552/datas/c1387e1971cd2d0e67200d956b460c07_medium_silver.png" height="60" alt="Devpost X Hackathons Level 3 badge" /><br/>
+      <b>X Hackathons · Level 3</b><br/>
+      <sub>Submitted separate eligible projects to separate hackathons · Sep 2, 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/222/datas/2a2cd5de90e8e74016c5e23d387b74e0_medium.png" height="60" alt="Devpost Influencer Level 1 badge" /><br/>
+      <b>Influencer · Level 1</b><br/>
+      <sub>Gained followers on Devpost · Aug 29, 2026</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://devpost.com/dennislee928/achievements">Verify on Devpost →</a></p>
+
+---
+
+## ⭐ Curated Repo Lists
+
+👁‍🗨 [Security](https://github.com/stars/dennislee928/lists/security) · 🦫 [Go backend](https://github.com/stars/dennislee928/lists/golang) · 🐱 [React / Next.js](https://github.com/stars/dennislee928/lists/react-nextjs) · 👽 [Quantum computing](https://github.com/stars/dennislee928/lists/quantum-computing)
+
+---
+
+## 📈 GitHub Stats
+
+<details>
+<summary>Show stats</summary>
 <br/>
+
 <p align="center">
- 
-![Dennis's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=zenburn)
- 
-![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight)
-
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennislee928&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight" height="180" alt="Dennis's GitHub stats" />
+  <a href="https://github.com/dennislee928/github-readme-stats"><img src="https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut&hide=python,makefile,html&theme=tokyonight" height="180" alt="Top languages" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut&hide=python,makefile,html)](https://github.com/dennislee928/github-readme-stats&theme=tokyonight)
-
-![Dennis's GitHub stats](https://github-readme-stats.zcy.dev/api?username=dennislee928\&rank_icon=percentile&theme=tokyonight)
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennislee928&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dennislee928&theme=zenburn" alt="GitHub profile summary" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary>💸 Crypto exchange referrals</summary>
 <br/>
 
-___
-
-
- 
-___
-## pinned topic
-- 👁‍🗨 security repos : https://github.com/stars/dennislee928/lists/security
-- 🦫 backend(golang) repos : https://github.com/stars/dennislee928/lists/golang
-- 🐱 React/NextJs repos : https://github.com/stars/dennislee928/lists/react-nextjs
-- 👽 Quantum computing repos : https://github.com/stars/dennislee928/lists/quantum-computing
-
-
-
----
-
-## 💎 Skills & Expertise 
-💻 **Programming Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,js,ts,bash,solidity" />
-</p>
-
-🎨 **Frontend & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,next,nuxt,vuetify,threejs,tailwind,figma" />
-</p>
-
-⚙️ **Backend & APIs**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,rabbitmq,nginx" />
-</p>
-
-☁️ **Cloud & Infrastructure**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,terraform,docker,k8s" />
-</p>
-
-🗄️ **Databases & Storage**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase" />
-</p>
-
-🔧 **DevOps & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,grafana,prometheus" />
-</p>
-
-🚀 **Deployment Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,workers" />
-  <img height="40px" width="128px" src="https://wso2.cachefly.net/wso2/sites/all/image_resources/logos/WSO2-Logo-Black.webp" alt="WSO2 logo">
-  <img height="60px" width="128px" src="https://abjcloudsolutions.com/wp-content/uploads/2024/10/OCI-img.png" alt="OCI logo">
-  <img height="60px" width="75px"  src="https://containers.back4app.com/favicon.ico" alt="back4app logo">
-</p>
-
-
-🖥️ **Development Environment**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,arduino" />
-</p>
-
-⛑️ **SAST**
-
-<p align="center">
-  <a href="https://snyk.io" title="Snyk">
-    <img src="https://snyk.io/favicon.ico" alt="Snyk" height="40">
-  </a>
-
-  <a href="https://www.coderabbit.ai" title="CodeRabbit">
-    <img src="https://www.coderabbit.ai/favicon.ico" alt="CodeRabbit" height="40">
-  </a>
-
-  <a href="https://semgrep.dev" title="Semgrep">
-    <img src="https://semgrep.dev/favicon.ico" alt="Semgrep" height="40">
-  </a>
- 
-  <a href="https://trunk.io" title="Trunk">
-    <img src="https://avatars.githubusercontent.com/u/110776285?s=200&v=4" alt="Trunk" height="40">
-  </a>
-</p>
-
----
-
-## 🛠️ Projects & Demos | 專案與作品.
-| 名稱 / Title | 說明 / Description | 技術棧 / Stack | 連結 / Link |
-|--------------|------------------|----------------|-------------|
-| **碳權交易平台 Carboon** | Golang + Supabase 架構 API，含 Swagger 文件與 JWT RBAC | Golang (Gin), Supabase, Swagger | [Demo Video](https://youtu.be/_iW3o_Lvzs) / [GitHub](https://github.com/dennislee928/carboon-trade-backend) |
-| **Web3 互動平台** | 與智能合約互動介面，包含 RWD UI 與資安導向設計 | Vue3, TailwindCSS, ethers.js | [Demo](https://web3.para-universe-energy-exchange-station.com/) |
-| **Cloudflare + DNS 備援與資安治理腳本** | 自動化切換 DNS + WAF 規則更新 | Python, GraphQL API, Terraform | [GitHub](https://github.com/dennislee928/Cloudflare_Developer_Labs) / [Demo影片](https://youtu.be/vWDmq0GiCo4) |
-| **Firmware Analysis Lab** | 韌體靜態分析、YARA 掃描與 CAN Bus 模擬工具組 | Flask, Docker, Binwalk, Ghidra, Supabase | [GitHub](https://github.com/dennislee928/firmware-research-demo) / [Demo影片](https://youtu.be/rHVcB-mxKB8) |
-| **Side Project Backend** | Python RESTful API deployed on Cloud Run | Flask, GCP, Supabase | [GitHub](https://github.com/dennislee928/side-project-1-backend) |
-| **Cloudflare AI 圖像生成測試站** | 利用 Cloudflare Workers 與 JS 建立前後端原型 | Workers, JS, SQLite (D1), TailwindCSS | [GitHub](https://github.com/dennislee928/firmware-research-demo/tree/tsse) / [Demo影片](https://youtu.be/43sSu1Ve55s) |
-| **Bitfinex Funding Bot (WIP)** | Go 實作自動放貸策略，含 YAML 策略模組 | Golang, JSON/YAML, REST API | [GitHub 架構草稿](https://github.com/dennislee928/fundbot-go) |
-
-___
-## Marketplace product ( all free)
-- https://github.com/marketplace/actions/community-pulse-reporter
-  
----
-
-## 📜 Certifications | 技術證照
-
-| 領域 | 證照名稱 | 機構 |
-|------|----------|------|
-| AWS | Cloud Practitioner Essentials | Amazon Web Services |
-| AWS | Security Fundamentals | Amazon Web Services |
-| AWS | Quantum Computing Learning Path | Amazon Web Services |
-| Azure | Azure Fundamentals (AZ-900) | Microsoft |
-| GCP | GKE Architecture Foundations | Coursera |
-| IBM | Quantum Developer Certification | IBM |
-| Cloudflare | ACE / MSP 認證 | Cloudflare |
-| Versa | Versa SASE for Lean IT 認證 | Versa Networks |
-| Securiti.ai | AI Governance & AI Audit Certification | Securiti.ai |
-| Prisma | Prisma Cloud Enterprise Security Essentials | Palo Alto Networks |
-
----
-
-## 📫 Connect with Me
-
-| Platform | Link |
-| :--- | :--- |
-| 📧 **Email** | [security-admin@dennisleehappy.org](mailto:security-admin@dennisleehappy.org) |
-| 📅 **Booking** | [Schedule a Meeting](https://app.simplymeet.me/dennislee-rootcicd) |
-| 🐳 **DockerHub** | [dennisleetw](https://hub.docker.com/u/dennisleetw) |
-
----
-
-
-💸 My Crypto Exchange Referrals
-<br/>
 | Exchange | Link |
 |----------|------|
 | <img src="https://crystalpng.com/wp-content/uploads/2025/03/binance-logo.png" height="20" alt="Binance logo"> **Binance** | [Join Binance](https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00KHVVTLDU) |
@@ -192,16 +156,4 @@ ___
 | <img src="https://www.bitopro.com/favicon.ico" height="20" alt="BitoPro logo"> **BitoPro** | [Join BitoPro](https://www.bitopro.com/users/sign_up?referrer=5497400002) |
 | <img src="https://support.hoyabit.com/wp-content/uploads/2022/09/HOYA-BIT-Logo-1024x1024-2-03-1024x479.png.webp" height="20" alt="HOYA BIT logo"> **HOYA BIT** | [Join HoyaBit](https://hoyabit.com/signup?refCode=Ewn41Gnv) |
 
----
-## Hackthon Devpost Achivements
-
-- verification : https://devpost.com/dennislee928/achievements
-
- <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/223/datas/aa74b3e2df0a13e6ab87d53ed99a63e4_medium.png" height="60" alt="Devpost"> 
-- Dual Boot - Earned by submitting eligible projects to an in-person and online hackathon, Achieved September 2, 2026
-
- <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/000/905/552/datas/c1387e1971cd2d0e67200d956b460c07_medium_silver.png" height="60" alt="Devpost"> 
-- X Hackathons Level 3 - Earned by submitting separate eligible projects to separate hackathons, Achieved September 2, 2026
-
- <img src="https://d112y698adiu2z.cloudfront.net/photos/production/achievement_photos/001/087/222/datas/2a2cd5de90e8e74016c5e23d387b74e0_medium.png" height="60" alt="Devpost"> 
--  Influencer Level 1 - Earned by gaining followers , Achieved August 29, 202
+</details>
