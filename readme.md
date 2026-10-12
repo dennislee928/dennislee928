@@ -9,6 +9,16 @@ ___
 <img src="https://gitranks.com/api/badge/v2/dennislee928?ranking=s&context=country&type=tier&meta=none&label=gitranks.com+Stars+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
 ![GitHub Metrics](https://metrics.lecoq.io/dennislee928)
 
+
+## Developer Power Level
+
+[![GitScore](https://gitscore.mateusz-szostak1.workers.dev/api/badge/dennislee928)](https://gitscore.mateusz-szostak1.workers.dev/?u=dennislee928)
+
+## My GitHub Wrapped
+
+![GitScore Wrapped](https://gitscore.mateusz-szostak1.workers.dev/api/wrapped-card/dennislee928)
+
+
 ## 🌐 Open Source Contributions
 
 [![OSS Insight](https://img.shields.io/badge/OSS_Insight-Developer_Analytics-blue?style=for-the-badge)](https://ossinsight.io/analyze-user/dennislee928#overview)
@@ -19,7 +29,7 @@ ___
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=God+throws+dices" alt="Typing SVG 1" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&random=true&width=435&lines=and++we+try+to+catch+them" alt="Typing SVG 2" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7684F7&random=true&width=435&lines=via+holy+languages%2C+code+that+is.)" alt="Typing SVG 3" />
+ 
 </p>
 
 ### 🧭 Let's build cloud-native, secure, and scalable apps together!
