@@ -21,3 +21,4 @@
 - [2026-10-04-gap-fill-companies-zh.md](./company-intel/2026-10-04-gap-fill-companies-zh.md) — 補缺口組織適配度與申請難度評級（2026-10-04，Run 3）
 - [2026-10-05-run4-edinburgh-finance-baltics-companies-zh.md](./company-intel/2026-10-05-run4-edinburgh-finance-baltics-companies-zh.md) — Edinburgh 金融總部與波羅的海公司適配度與申請難度評級（2026-10-05，Run 4）
 - [2026-10-07-run5-europe-wide-companies-zh.md](./company-intel/2026-10-07-run5-europe-wide-companies-zh.md) — 歐洲擴大範圍公司適配度與申請難度評級（2026-10-07，Run 5）
+- [2026-10-12-run6-scotland-cork-london-companies-zh.md](./company-intel/2026-10-12-run6-scotland-cork-london-companies-zh.md) — 蘇格蘭缺口、Cork 與 London fintech 公司適配度與申請難度評級（2026-10-12，Run 6）
