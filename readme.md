@@ -19,8 +19,10 @@
 Github action marketplace - Jest Security Extension Guard
 </br>
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/jest-security-extension-guard)
-
-
+</br>
+Serverless E2E Tester
+</br>
+[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis)
 </div>
 
 ---
