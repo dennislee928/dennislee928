@@ -22,3 +22,4 @@
 - [2026-10-05-run4-edinburgh-finance-baltics-companies-zh.md](./company-intel/2026-10-05-run4-edinburgh-finance-baltics-companies-zh.md) — Edinburgh 金融總部與波羅的海公司適配度與申請難度評級（2026-10-05，Run 4）
 - [2026-10-07-run5-europe-wide-companies-zh.md](./company-intel/2026-10-07-run5-europe-wide-companies-zh.md) — 歐洲擴大範圍公司適配度與申請難度評級（2026-10-07，Run 5）
 - [2026-10-12-run6-scotland-cork-london-companies-zh.md](./company-intel/2026-10-12-run6-scotland-cork-london-companies-zh.md) — 蘇格蘭缺口、Cork 與 London fintech 公司適配度與申請難度評級（2026-10-12，Run 6）
+- [2026-10-19-run7-film-crypto-ukcities-easteu-companies-zh.md](./company-intel/2026-10-19-run7-film-crypto-ukcities-easteu-companies-zh.md) — 影視/VFX、crypto/web3、英國其他城市與東歐公司適配度與申請難度評級（2026-10-19，Run 7）
