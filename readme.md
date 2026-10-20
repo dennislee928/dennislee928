@@ -24,6 +24,17 @@ Serverless E2E Tester
 </br>
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis)
 </div>
+</br>
+JEF SDK Downloads
+</br>
+<a href="https://www.npmjs.com/package/@jef-ai/sdk">
+  <img
+    src="https://img.shields.io/npm/dm/%40jef-ai%2Fsdk?label=JEF%20SDK%20downloads&amp;logo=npm"
+    alt="JEF SDK Downloads"
+  />
+</a>
+
+</div>
 
 ---
 
