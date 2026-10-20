@@ -7,11 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&center=true&vCenter=true&multiline=true&width=480&height=80&lines=God+throws+dices;and+we+try+to+catch+them;via+holy+languages%2C+code+that+is." alt="God throws dices, and we try to catch them via holy languages, code that is." />
 </br>
 [![Email](https://img.shields.io/badge/Email-security--admin%40dennisleehappy.org-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:security-admin@dennisleehappy.org)
-</br>
 [![Booking](https://img.shields.io/badge/Book_a_meeting-SimplyMeet-0A66C2?style=flat-square&logo=googlecalendar&logoColor=white)](https://app.simplymeet.me/dennislee-rootcicd)
 </br>
 [![DockerHub](https://img.shields.io/badge/DockerHub-dennisleetw-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/dennisleetw)
-</br>
 [![Devpost](https://img.shields.io/badge/Devpost-dennislee928-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/dennislee928/achievements)
 </br>
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
@@ -24,15 +22,13 @@ Serverless E2E Tester
 </br>
 [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis)
 </div>
-</br>
 JEF SDK Downloads
-</br>
-<a href="https://www.npmjs.com/package/@jef-ai/sdk">
-  <img
-    src="https://img.shields.io/npm/dm/%40jef-ai%2Fsdk?label=JEF%20SDK%20downloads&amp;logo=npm"
-    alt="JEF SDK Downloads"
-  />
-</a>
+
+[![npm downloads](https://img.shields.io/npm/dm/%40jef-ai%2Fsdk?logo=npm&label=SDK%20downloads)](https://www.npmjs.com/package/@jef-ai/sdk)
+[![NCNodes](https://img.shields.io/badge/NCNodes-Listed-blue)](https://ncnodes.com/packages?p=997)
+[![WorkflowNodes](https://img.shields.io/badge/WorkflowNodes-Listed-blue)](https://workflownodes.vercel.app/growing/)
+
+
 
 </div>
 
