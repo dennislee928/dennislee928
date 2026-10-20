@@ -27,6 +27,7 @@ JEF SDK Downloads
 [![npm downloads](https://img.shields.io/npm/dm/%40jef-ai%2Fsdk?logo=npm&label=SDK%20downloads)](https://www.npmjs.com/package/@jef-ai/sdk)
 [![NCNodes](https://img.shields.io/badge/NCNodes-Listed-blue)](https://ncnodes.com/packages?p=997)
 [![WorkflowNodes](https://img.shields.io/badge/WorkflowNodes-Listed-blue)](https://workflownodes.vercel.app/growing/)
+[![Socket Score](https://badge.socket.dev/npm/package/n8n-nodes-jef/0.2.0-rc.4)](https://socket.dev/npm/package/n8n-nodes-jef)
 
 
 
