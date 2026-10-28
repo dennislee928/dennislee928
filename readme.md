@@ -14,13 +14,11 @@
 </br>
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 </br>
-Github action marketplace - Jest Security Extension Guard
+Github action marketplace - Jest Security Extension Guard. [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/jest-security-extension-guard)
 </br>
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/jest-security-extension-guard)
-</br>
-Serverless E2E Tester
-</br>
-[![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis)
+Serverless E2E Tester. [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis)
+
+Vuln Sentinel. [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/vuln-sentinel)
 </div>
 JEF SDK Downloads
 
