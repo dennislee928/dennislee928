@@ -8,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/Email-security--admin%40dennisleehappy.org-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:security-admin@dennisleehappy.org)
 [![Booking](https://img.shields.io/badge/Book_a_meeting-SimplyMeet-0A66C2?style=flat-square&logo=googlecalendar&logoColor=white)](https://app.simplymeet.me/dennislee-rootcicd)
-[![DockerHub](https://img.shields.io/badge/DockerHub-dennisleetw-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/dennisleetw)
 [![Devpost](https://img.shields.io/badge/Devpost-dennislee928-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/dennislee928/achievements)
 
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
@@ -54,6 +53,35 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧩 VS Code Marketplace</h3>
+      <p>Three security and systems engineering extensions plus a pack: endpoint and compliance scanning with SARIF export, embedded hardware security linting, and Julia compiler profiling.</p>
+      <p>
+        <a href="https://marketplace.visualstudio.com/items?itemName=jest-test-team.hw-security"><img src="https://vsmarketplacebadges.dev/installs-short/jest-test-team.hw-security.svg?label=HW%20Security%20Workbench&style=flat-square" alt="HW Security Workbench installs" /></a><br/>
+        <a href="https://marketplace.visualstudio.com/items?itemName=jest-test-team.endpoint-security"><img src="https://vsmarketplacebadges.dev/installs-short/jest-test-team.endpoint-security.svg?label=Endpoint%20Security&style=flat-square" alt="Endpoint Security installs" /></a><br/>
+        <a href="https://marketplace.visualstudio.com/items?itemName=jest-test-team.julia-profiler"><img src="https://vsmarketplacebadges.dev/installs-short/jest-test-team.julia-profiler.svg?label=Julia%20Profiler&style=flat-square" alt="Julia Profiler installs" /></a><br/>
+        <a href="https://github.com/Jest-Test-Team/ide-extension"><img src="https://img.shields.io/badge/Source-ide--extension-181717?style=flat-square&logo=github" alt="Source on GitHub" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🐳 Docker Hub</h3>
+      <p>46 public images for security tooling, ML-based detection models and simulation services. The most-pulled one is <b>pandora-console</b>, a security management console with Vision One integration.</p>
+      <p>
+        <a href="https://hub.docker.com/r/dennisleetw/pandora-console"><img src="https://img.shields.io/docker/pulls/dennisleetw/pandora-console?style=flat-square&logo=docker&logoColor=white&label=pandora-console%20pulls" alt="pandora-console pulls" /></a><br/>
+        <a href="https://hub.docker.com/u/dennisleetw"><img src="https://img.shields.io/badge/46_images-40k%2B_pulls-2496ED?style=flat-square&logo=docker&logoColor=white" alt="46 images, 40k+ pulls" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📐 ERH Framework</h3>
+      <p>Simulations of the <b>Ethical Riemann Hypothesis</b>: how prediction error on critical misjudgments grows in a moral judgment system. Published for Python and JavaScript.</p>
+      <p>
+        <a href="https://pypi.org/project/erh/"><img src="https://img.shields.io/pypi/v/erh?style=flat-square&logo=pypi&logoColor=white&label=PyPI%20erh" alt="erh on PyPI" /></a><br/>
+        <a href="https://www.npmjs.com/package/erh-js-sdk"><img src="https://img.shields.io/npm/v/erh-js-sdk?style=flat-square&logo=npm&label=erh-js-sdk" alt="erh-js-sdk on npm" /></a><br/>
+        <a href="https://github.com/dennislee928/Ethic-Latex"><img src="https://img.shields.io/badge/Source-Ethic--Latex-181717?style=flat-square&logo=github" alt="Source on GitHub" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -82,13 +110,26 @@ I'm a full-stack developer and cloud engineer with ~5 years of software developm
 
 | Project | What it does | Stack | Links |
 |---------|--------------|-------|-------|
+| **Agentic Defense Matrix (ADM)** | Defense-in-depth for tool-calling AI agents: OS-level telemetry, dynamic permission control and a state-aware SIEM to limit an agent's blast radius | Go, OS telemetry, SIEM | [Code](https://github.com/Jest-Test-Team/Agentic-Defense-Matrix-ADM) · [Demo](https://jest-test-team.github.io/Agentic-Defense-Matrix-ADM/) |
+| **Mutual MCP Penetrating Platform** | Combines cloud-native security monitoring with an AI/MCP-driven pentest framework, so defense and attack run side by side in real time | Go, TypeScript, MCP | [Code](https://github.com/dennislee928/Mutual-MCP-Penetrating-Platform) |
+| **EnvShield** | Zero-knowledge developer secrets: a Rust CLI encrypts secrets locally and injects them into child processes without writing `.env` files | Rust, Go, TypeScript | [Code](https://github.com/dennislee928/EnvShield) |
+| **DAW Agent MCP** | Rust MCP daemon with a VST3/CLAP/AU plugin shell; spectral analysis in Julia, tests in Robot Framework | Rust, Julia, Robot Framework | [Code](https://github.com/Jest-Test-Team/DAW-Plugin-MCP) · [Site](https://sawpluginmcp.vercel.app) |
+| **Datacenter Builder Simulator** | Build a Lego-style data center, run it in a SimCity-like simulation and score it against international standards | TypeScript | [Code](https://github.com/Jest-Test-Team/Dastacenter_Builder_Simulator) · [Live](https://datacenter-building-simulator.dennisleehappy.org) |
 | **Carboon: Carbon Credit Trading API** | Carbon-credit trading backend with Swagger docs and JWT-based RBAC | Go (Gin), Supabase, Swagger | [Code](https://github.com/dennislee928/carboon-trade-backend) · [Video](https://youtu.be/_iW3o_Lvzs) |
 | **Cloudflare DNS Failover & WAF Automation** | Automated DNS failover switching and WAF rule updates for security governance | Python, GraphQL API, Terraform | [Code](https://github.com/dennislee928/Cloudflare_Developer_Labs) · [Video](https://youtu.be/vWDmq0GiCo4) |
 | **Firmware Analysis Lab** | Firmware static analysis, YARA scanning and a CAN Bus simulation toolkit | Flask, Docker, Binwalk, Ghidra, Supabase | [Code](https://github.com/dennislee928/firmware-research-demo) · [Video](https://youtu.be/rHVcB-mxKB8) |
-| **Web3 dApp Interface** | Responsive, security-minded UI for interacting with smart contracts | Vue 3, Tailwind CSS, ethers.js | [Demo](https://web3.para-universe-energy-exchange-station.com/) |
+
+<details>
+<summary>More projects</summary>
+<br/>
+
+| Project | What it does | Stack | Links |
+|---------|--------------|-------|-------|
 | **Cloudflare Workers AI Image Generator** | Full-stack prototype for AI image generation on the Cloudflare edge | Workers, JavaScript, D1 (SQLite), Tailwind CSS | [Code](https://github.com/dennislee928/firmware-research-demo/tree/tsse) · [Video](https://youtu.be/43sSu1Ve55s) |
 | **Side Project Backend** | Python RESTful API deployed on Cloud Run | Flask, GCP, Supabase | [Code](https://github.com/dennislee928/side-project-1-backend) |
 | **Bitfinex Funding Bot** *(WIP)* | Automated lending strategies in Go with pluggable YAML strategy modules | Go, JSON/YAML, REST API | [Code (draft)](https://github.com/dennislee928/fundbot-go) |
+
+</details>
 
 ---
 
@@ -168,6 +209,10 @@ I'm a full-stack developer and cloud engineer with ~5 years of software developm
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennislee928&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dennislee928&style=flat-square&color=78F77F&label=Profile+views" alt="Profile views" />
 </p>
 
 <p align="center">
