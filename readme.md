@@ -3,33 +3,58 @@
 # Dennis Lee 李沛宸
 
 **Backend & Cloud Security Engineer · Go · Cloudflare · DevSecOps**
-</br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=78F77F&center=true&vCenter=true&multiline=true&width=480&height=80&lines=God+throws+dices;and+we+try+to+catch+them;via+holy+languages%2C+code+that+is." alt="God throws dices, and we try to catch them via holy languages, code that is." />
-</br>
+
 [![Email](https://img.shields.io/badge/Email-security--admin%40dennisleehappy.org-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:security-admin@dennisleehappy.org)
 [![Booking](https://img.shields.io/badge/Book_a_meeting-SimplyMeet-0A66C2?style=flat-square&logo=googlecalendar&logoColor=white)](https://app.simplymeet.me/dennislee-rootcicd)
-</br>
 [![DockerHub](https://img.shields.io/badge/DockerHub-dennisleetw-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/dennisleetw)
 [![Devpost](https://img.shields.io/badge/Devpost-dennislee928-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/dennislee928/achievements)
-</br>
+
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
-</br>
-Github action marketplace - Jest Security Extension Guard. [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/jest-security-extension-guard)
-</br>
-Serverless E2E Tester. [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis)
-
-Vuln Sentinel. [![GitHub Marketplace](https://img.shields.io/badge/Marketplace-v1.0.0-blue.svg?style=flat-square&logo=github)](https://github.com/marketplace/actions/vuln-sentinel)
-</div>
-JEF SDK Downloads
-
-[![npm downloads](https://img.shields.io/npm/dm/%40jef-ai%2Fsdk?logo=npm&label=SDK%20downloads)](https://www.npmjs.com/package/@jef-ai/sdk)
-[![NCNodes](https://img.shields.io/badge/NCNodes-Listed-blue)](https://ncnodes.com/packages?p=997)
-[![WorkflowNodes](https://img.shields.io/badge/WorkflowNodes-Listed-blue)](https://workflownodes.vercel.app/growing/)
-[![Socket Score](https://badge.socket.dev/npm/package/n8n-nodes-jef/0.2.0-rc.4)](https://socket.dev/npm/package/n8n-nodes-jef)
-
-
 
 </div>
+
+---
+
+## 🚀 Shipped & Verifiable
+
+<sub>Public releases anyone can install, run or check. Each badge links to the registry or listing.</sub>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧭 JEF</h3>
+      <p>An open <b>System One decision engine</b>: typed questions, calibrated confidence, no text generation. Ships as an npm SDK and an n8n community node.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/@jef-ai/sdk"><img src="https://img.shields.io/npm/v/%40jef-ai%2Fsdk?style=flat-square&logo=npm&label=%40jef-ai%2Fsdk" alt="@jef-ai/sdk on npm" /></a><br/>
+        <a href="https://www.npmjs.com/package/@jef-ai/sdk"><img src="https://img.shields.io/npm/dm/%40jef-ai%2Fsdk?style=flat-square&logo=npm&label=SDK%20downloads" alt="npm downloads" /></a><br/>
+        <a href="https://socket.dev/npm/package/n8n-nodes-jef"><img src="https://badge.socket.dev/npm/package/n8n-nodes-jef/0.2.0-rc.4" alt="Socket score for n8n-nodes-jef" /></a><br/>
+        <a href="https://ncnodes.com/packages?p=997"><img src="https://img.shields.io/badge/NCNodes-Listed-blue?style=flat-square" alt="Listed on NCNodes" /></a>
+        <a href="https://workflownodes.vercel.app/growing/"><img src="https://img.shields.io/badge/WorkflowNodes-Listed-blue?style=flat-square" alt="Listed on WorkflowNodes" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>⚙️ GitHub Actions Marketplace</h3>
+      <p>Four published actions for security checks and CI testing:</p>
+      <p>
+        <a href="https://github.com/marketplace/actions/vuln-sentinel"><img src="https://img.shields.io/badge/Vuln_Sentinel-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Vuln Sentinel" /></a><br/>
+        <a href="https://github.com/marketplace/actions/jest-security-extension-guard"><img src="https://img.shields.io/badge/Jest_Security_Extension_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Jest Security Extension Guard" /></a><br/>
+        <a href="https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis"><img src="https://img.shields.io/badge/Serverless_E2E_Tester-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Serverless E2E Tester (Robot Framework)" /></a><br/>
+        <a href="https://github.com/marketplace/actions/community-pulse-reporter"><img src="https://img.shields.io/badge/Community_Pulse_Reporter-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Community Pulse Reporter" /></a>
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🦀 rp_app: Edge Security Gateway</h3>
+      <p>A Raspberry Pi gateway written in <b>Rust</b>: VPN exit node, DNS firewall, isolated IoT AP, a read-only observation agent, and a policy-gated <b>MCP server</b> where privileged actions need human approval and every action lands in a verifiable audit log.</p>
+      <p>
+        <a href="https://github.com/Jest-Test-Team/rp_app"><img src="https://img.shields.io/badge/Rust-Edge_Gateway-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /></a><br/>
+        <a href="https://github.com/Jest-Test-Team/rp_app"><img src="https://img.shields.io/badge/MCP-human--approved_actions-6E56CF?style=flat-square" alt="MCP server with human approval" /></a><br/>
+        <a href="https://github.com/Jest-Test-Team/rp_app/commits"><img src="https://img.shields.io/github/last-commit/Jest-Test-Team/rp_app?style=flat-square&label=last%20commit" alt="Last commit" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,7 +89,6 @@ I'm a full-stack developer and cloud engineer with ~5 years of software developm
 | **Cloudflare Workers AI Image Generator** | Full-stack prototype for AI image generation on the Cloudflare edge | Workers, JavaScript, D1 (SQLite), Tailwind CSS | [Code](https://github.com/dennislee928/firmware-research-demo/tree/tsse) · [Video](https://youtu.be/43sSu1Ve55s) |
 | **Side Project Backend** | Python RESTful API deployed on Cloud Run | Flask, GCP, Supabase | [Code](https://github.com/dennislee928/side-project-1-backend) |
 | **Bitfinex Funding Bot** *(WIP)* | Automated lending strategies in Go with pluggable YAML strategy modules | Go, JSON/YAML, REST API | [Code (draft)](https://github.com/dennislee928/fundbot-go) |
-| **Community Pulse Reporter** *(open-source tool)* | Free GitHub Action that reports on community activity, published on the Marketplace | GitHub Actions | [Marketplace](https://github.com/marketplace/actions/community-pulse-reporter) |
 
 ---
 
