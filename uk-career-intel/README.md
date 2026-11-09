@@ -25,3 +25,4 @@
 - [2026-10-19-run7-film-crypto-ukcities-easteu-companies-zh.md](./company-intel/2026-10-19-run7-film-crypto-ukcities-easteu-companies-zh.md) — 影視/VFX、crypto/web3、英國其他城市與東歐公司適配度與申請難度評級（2026-10-19，Run 7）
 - [2026-10-26-run8-glasgow-deeptech-scotland-ukcities-baltics-companies-zh.md](./company-intel/2026-10-26-run8-glasgow-deeptech-scotland-ukcities-baltics-companies-zh.md) — Glasgow deep tech、蘇格蘭、英國未覆蓋城市與波羅的海公司適配度與申請難度評級（2026-10-26，Run 8）
 - [2026-11-02-run9-glasgow-towns-highlands-wales-southcoast-cee-companies-zh.md](./company-intel/2026-11-02-run9-glasgow-towns-highlands-wales-southcoast-cee-companies-zh.md) — Glasgow 周邊城鎮、蘇格蘭 Highlands／體育觀光、威爾斯／南岸與中東歐公司適配度與申請難度評級（2026-11-02，Run 9）
+- [2026-11-09-run10-scotland-north-unis-ukcities-balkans-companies-zh.md](./company-intel/2026-11-09-run10-scotland-north-unis-ukcities-balkans-companies-zh.md) — 蘇格蘭北部與東部、大學 IT／RSE、英國未覆蓋城市與巴爾幹公司適配度與申請難度評級（2026-11-09，Run 10）
