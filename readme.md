@@ -12,7 +12,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 
-![github statis](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dennislee928&theme=holi)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dennislee928&show_icons=true&include_all_commits=true&theme=radical)]
 
 </div>
 
