@@ -12,6 +12,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/taiwan/dennislee928.svg)](https://user-badge.committers.top/taiwan/dennislee928)
 
+![github statis](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dennislee928&theme=holi)
+
 </div>
 
 ---
@@ -202,6 +204,7 @@ I'm a full-stack developer and cloud engineer with ~5 years of software developm
 <summary>Show stats</summary>
 <br/>
 
+  <br/>
 <p align="center">
   <img src="https://github-readme-stats.zcy.dev/api?username=dennislee928&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=tokyonight" height="180" alt="Dennis's GitHub stats" />
   <a href="https://github.com/dennislee928/github-readme-stats"><img src="https://github-readme-stats.zcy.dev/api/top-langs?username=dennislee928&layout=donut&hide=python,makefile,html&theme=tokyonight" height="180" alt="Top languages" /></a>
