@@ -42,7 +42,9 @@
         <a href="https://github.com/marketplace/actions/vuln-sentinel"><img src="https://img.shields.io/badge/Vuln_Sentinel-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Vuln Sentinel" /></a><br/>
         <a href="https://github.com/marketplace/actions/jest-security-extension-guard"><img src="https://img.shields.io/badge/Jest_Security_Extension_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Jest Security Extension Guard" /></a><br/>
         <a href="https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis"><img src="https://img.shields.io/badge/Serverless_E2E_Tester-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Serverless E2E Tester (Robot Framework)" /></a><br/>
-        <a href="https://github.com/marketplace/actions/community-pulse-reporter"><img src="https://img.shields.io/badge/Community_Pulse_Reporter-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Community Pulse Reporter" /></a>
+        <a href="https://github.com/marketplace/actions/community-pulse-reporter"><img src="https://img.shields.io/badge/Community_Pulse_Reporter-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Community Pulse Reporter" /></a><br/>
+          <a href="https://github.com/marketplace/actions/agentforge-guard"><img src="https://img.shields.io/badge/Agentforge_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="agentforge-guard" /></a><br/>
+          </p>
       </p>
     </td>
     <td valign="top" width="33%">
