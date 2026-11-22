@@ -37,14 +37,20 @@
     </td>
     <td valign="top" width="33%">
       <h3>⚙️ GitHub Actions Marketplace</h3>
-      <p>Four published actions for security checks and CI testing:</p>
+      <p>Five published actions for security checks and CI testing:</p>
       <p>
         <a href="https://github.com/marketplace/actions/vuln-sentinel"><img src="https://img.shields.io/badge/Vuln_Sentinel-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Vuln Sentinel" /></a><br/>
         <a href="https://github.com/marketplace/actions/jest-security-extension-guard"><img src="https://img.shields.io/badge/Jest_Security_Extension_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Jest Security Extension Guard" /></a><br/>
         <a href="https://github.com/marketplace/actions/serverless-e2e-tester-robot-framework-by-dennis"><img src="https://img.shields.io/badge/Serverless_E2E_Tester-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Serverless E2E Tester (Robot Framework)" /></a><br/>
         <a href="https://github.com/marketplace/actions/community-pulse-reporter"><img src="https://img.shields.io/badge/Community_Pulse_Reporter-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Community Pulse Reporter" /></a><br/>
-          <a href="https://github.com/marketplace/actions/agentforge-guard"><img src="https://img.shields.io/badge/Agentforge_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="agentforge-guard" /></a><br/>
-          </p>
+        <a href="https://github.com/marketplace/actions/agentforge-guard"><img src="https://img.shields.io/badge/AgentForge_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="AgentForge Guard" /></a>
+      </p>
+      <p><b>AgentForge Guard</b> (<code>afg</code>) is also a standalone CLI: a policy-driven execution guard for AI coding agents, written in <b>Rust</b> and shipped as prebuilt binaries for Linux, macOS and Windows.</p>
+      <p>
+        <a href="https://www.npmjs.com/package/agentforge-guard"><img src="https://img.shields.io/npm/v/agentforge-guard/next?style=flat-square&logo=npm&label=agentforge-guard" alt="agentforge-guard on npm" /></a><br/>
+        <a href="https://www.npmjs.com/package/agentforge-guard"><img src="https://img.shields.io/npm/dm/agentforge-guard?style=flat-square&logo=npm&label=afg%20downloads" alt="agentforge-guard npm downloads" /></a><br/>
+        <a href="https://socket.dev/npm/package/agentforge-guard"><img src="https://badge.socket.dev/npm/package/agentforge-guard/1.0.0-rc.6" alt="Socket score for agentforge-guard" /></a><br/>
+        <a href="https://github.com/dennislee928/AgentForge-Guard"><img src="https://img.shields.io/badge/Source-AgentForge--Guard-181717?style=flat-square&logo=github" alt="Source on GitHub" /></a>
       </p>
     </td>
     <td valign="top" width="33%">
