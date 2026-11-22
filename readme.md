@@ -34,6 +34,13 @@
         <a href="https://ncnodes.com/packages?p=997"><img src="https://img.shields.io/badge/NCNodes-Listed-blue?style=flat-square" alt="Listed on NCNodes" /></a>
         <a href="https://workflownodes.vercel.app/growing/"><img src="https://img.shields.io/badge/WorkflowNodes-Listed-blue?style=flat-square" alt="Listed on WorkflowNodes" /></a>
       </p>
+      <p><h3>🤺 AgentForge Guard (<code>afg</code>) <h3><h5> A standalone CLI: a policy-driven execution guard for AI coding agents, written in <b>Rust</b> and shipped as prebuilt binaries for Linux, macOS and Windows.</h5></p>
+      <p> 
+        <a href="https://www.npmjs.com/package/agentforge-guard"><img src="https://img.shields.io/npm/v/agentforge-guard/next?style=flat-square&logo=npm&label=agentforge-guard" alt="agentforge-guard on npm" /></a><br/>
+        <a href="https://www.npmjs.com/package/agentforge-guard"><img src="https://img.shields.io/npm/dm/agentforge-guard?style=flat-square&logo=npm&label=afg%20downloads" alt="agentforge-guard npm downloads" /></a><br/>
+        <a href="https://socket.dev/npm/package/agentforge-guard"><img src="https://badge.socket.dev/npm/package/agentforge-guard/1.0.0-rc.6" alt="Socket score for agentforge-guard" /></a><br/>
+        <a href="https://github.com/dennislee928/AgentForge-Guard"><img src="https://img.shields.io/badge/Source-AgentForge--Guard-181717?style=flat-square&logo=github" alt="Source on GitHub" /></a>
+      </p>
     </td>
     <td valign="top" width="33%">
       <h3>⚙️ GitHub Actions Marketplace</h3>
@@ -45,13 +52,7 @@
         <a href="https://github.com/marketplace/actions/community-pulse-reporter"><img src="https://img.shields.io/badge/Community_Pulse_Reporter-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Community Pulse Reporter" /></a><br/>
         <a href="https://github.com/marketplace/actions/agentforge-guard"><img src="https://img.shields.io/badge/AgentForge_Guard-Marketplace-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="AgentForge Guard" /></a>
       </p>
-      <p><b>AgentForge Guard</b> (<code>afg</code>) is also a standalone CLI: a policy-driven execution guard for AI coding agents, written in <b>Rust</b> and shipped as prebuilt binaries for Linux, macOS and Windows.</p>
-      <p>
-        <a href="https://www.npmjs.com/package/agentforge-guard"><img src="https://img.shields.io/npm/v/agentforge-guard/next?style=flat-square&logo=npm&label=agentforge-guard" alt="agentforge-guard on npm" /></a><br/>
-        <a href="https://www.npmjs.com/package/agentforge-guard"><img src="https://img.shields.io/npm/dm/agentforge-guard?style=flat-square&logo=npm&label=afg%20downloads" alt="agentforge-guard npm downloads" /></a><br/>
-        <a href="https://socket.dev/npm/package/agentforge-guard"><img src="https://badge.socket.dev/npm/package/agentforge-guard/1.0.0-rc.6" alt="Socket score for agentforge-guard" /></a><br/>
-        <a href="https://github.com/dennislee928/AgentForge-Guard"><img src="https://img.shields.io/badge/Source-AgentForge--Guard-181717?style=flat-square&logo=github" alt="Source on GitHub" /></a>
-      </p>
+          </p>
     </td>
     <td valign="top" width="33%">
       <h3>🦀 rp_app: Edge Security Gateway</h3>
