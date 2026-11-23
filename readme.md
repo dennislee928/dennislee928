@@ -175,6 +175,42 @@ I'm a full-stack developer and cloud engineer with ~5 years of software developm
 
 ---
 
+## HTB Academy Badges**
+
+Hands-on security training through **Hack The Box Academy**, focusing on practical offensive and defensive security techniques.
+
+
+<p align="left">
+  <a href="https://academy.hackthebox.com/achievement/badge/e5110dbd-e3b4-11f0-9254-bea50ffe6cb4" title="Web Application Fuzzing — ffuf">
+    <img src="https://static.hackthebox.com/academy/badges/fuzzing-is-power.png" alt="Web Application Fuzzing - ffuf" width="48" height="48">
+    - Web Application Fuzzing — ffuf
+  </a>
+  </br>
+  &nbsp;
+  <a href="https://profile.hackthebox.com/profile/019ebdd4-ecea-73aa-978a-55b760c7ac3b" title="Vulnerability Assessment">
+    <img src="https://static.hackthebox.com/academy/badges/light-in-the-dark.png" alt="Vulnerability Assessment" width="48" height="48">
+    - Vulnerability Assessment
+  </a>
+</br>
+  &nbsp;
+  <a href="https://profile.hackthebox.com/profile/019ebdd4-ecea-73aa-978a-55b760c7ac3b" title="Network Traffic Analysis">
+    <img src="https://static.hackthebox.com/academy/badges/lurk-in-the-packets.png" alt="Network Traffic Analysis" width="48" height="48">
+    - Network Traffic Analysis
+  </a>
+  </br>
+  &nbsp;
+  <a href="https://academy.hackthebox.com/achievement/badge/8e240ca4-7e89-11f0-9254-bea50ffe6cb4" title="Metasploit Framework">
+    <img src="https://static.hackthebox.com/academy/badges/combine-the-modules.png" alt="Metasploit Framework" width="48" height="48">
+    - Metasploit Framework
+  </a>
+</p>
+
+**Focus:** AppSec · DevSecOps · Threat Detection · Security Engineering
+
+[View my verified Hack The Box achievements](https://profile.hackthebox.com/profile/019ebdd4-ecea-73aa-978a-55b760c7ac3b)
+
+
+---
 ## 🏆 Hackathons & Achievements
 
 <table align="center">
